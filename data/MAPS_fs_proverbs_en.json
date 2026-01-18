@@ -1,0 +1,1370 @@
+[
+  {
+    "id": 1,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "যদি আমড়াতলায় আম পাই তবে আমতলায় কেন যাই",
+    "explanation": "সহজে কোন কাজ উদ্ধার হ'লে অনর্থক কষ্টকর পথ অবলম্বন করার কোন অর্থ হয় না।",
+    "explanation_en": "There is no point in taking unnecessary pains when a task can be achieved easily."
+  },
+  {
+    "id": 2,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "অযথা বিপদের মধ্যে যাওয়া যুক্তিযুক্ত নয়",
+    "explanation": "বিপদ এড়িয়ে চলা বুদ্ধিমানের কাজ।",
+    "explanation_en": "It is wise to avoid danger."
+  },
+  {
+    "id": 3,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "যখনকার যা তখনকার তা",
+    "explanation": "যখন যেটা উপযোগ বা গ্রহণযোগ্য মনে হবে তখন সেটা করা উচিৎ।",
+    "explanation_en": "It should be done when it seems convenient or acceptable."
+  },
+  {
+    "id": 4,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "পারা আর পাপে কার সাধ্য চাপে",
+    "explanation": "পারা খেলে একসময় গা ফুঁড়ে বেরুবেই; তেমনি পাপ কখনো লুকানো যায় না; তুলনীয়- 'পাপও লুকায় না, সাগরও শুকায় না'।",
+    "explanation_en": "If you play mercury, you will be blown out once; Likewise, sin can never be hidden; Comparable - 'Sin does not hide, sea does not dry up'."
+  },
+  {
+    "id": 5,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "এক ডালে দুই পাখি, গা্য়েগায়ে মাখামাখি",
+    "explanation": "মনের মিল থাকলে পাশাপাশি বাস করা যায়।",
+    "explanation_en": "If you have the same mind, you can live side by side."
+  },
+  {
+    "id": 6,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "যার শেষ ভালো, তার সব ভালো",
+    "explanation": "ভাল জিনিষ ভালভাবে শেষ করা উচিৎ; সমতুল্য- 'মধুরেণ সমাপয়েৎ'; 'শেষ রক্ষাই রক্ষা' ইত্যাদি।",
+    "explanation_en": "Good things must end well; Equivalent- 'Madhuren Samapaet'; 'The last defense is the defense' etc."
+  },
+  {
+    "id": 7,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "নখদর্পণে আছে",
+    "explanation": "সবকিছুই চোখের সামনে নজরে আছে; প্রতিটি বিষয়সম্পর্কে স্পষ্ট ধারণা আছে।",
+    "explanation_en": "Everything is in sight; Have a clear understanding of each subject."
+  },
+  {
+    "id": 8,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "দুধের মাছি",
+    "explanation": "সুসময়ের বন্ধু; সুদিনে এসে আত্মীয়তা করে এবং দুঃখের দিনে দূরে সরে যায়; সমতুল্য- ফুলের ভ্রমরা; বসন্তের কোকিল; ভ্রামরীমিত্র; লক্ষ্মীর বরযাত্রী; শরতের শিশির; সুখের পায়রা ইত্যাদি।",
+    "explanation_en": "good time friends; In good days comes kindred and turns away in days of sorrow; Equivalent- flower illusions; spring cuckoo; Bhramarimitra; Bridegroom of Lakshmi; autumn dew; Pigeons of happiness etc."
+  },
+  {
+    "id": 9,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "জগন্নাথ পেতে গেলে হাড়ীর ঝাঁটা খেতে হয়",
+    "explanation": "কষ্ট না করলে ইষ্ট পাওয়া যায় না; (জগন্নাথদর্শনে গিয়ে পাণ্ডার ছড়ির বাড়ি না খেয়ে জগন্নাথ দর্শন করা যায় না)।",
+    "explanation_en": "If you don't suffer, you don't get pleasure; (Jagannath darshan cannot be done without eating Panda's stick house while visiting Jagannath darshan)."
+  },
+  {
+    "id": 10,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "কষ্ট না করলে কেষ্ট মেলেনা",
+    "explanation": "ফিটফাট কাপুড়েবাবু কষ্ট করতে পারে না বা কাজের লোক হয় না; সমতুল্য- 'কষ্ট না করলে কেষ্ট মেলে না'।",
+    "explanation_en": "Fit ragdolls cannot suffer or be workers; Equivalent - 'If you don't work hard, you won't work hard'."
+  },
+  {
+    "id": 11,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "চক্ষু থাকতে কানা",
+    "explanation": "দেখেও দেখে না; চক্ষু আছে তবে জ্ঞানচক্ষু নেই- অবোধের প্রতি তির্যোক্তি।",
+    "explanation_en": "He does not see; There are eyes but no eyes of knowledge - an allusion to ignorance."
+  },
+  {
+    "id": 12,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "অপদার্থ যেখান থেকে শুরু করে সেখানেই ফিরে আসে",
+    "explanation": "অপদার্থের কাজের নীটফল শূন্য।",
+    "explanation_en": "The net result of wrongdoing is zero."
+  },
+  {
+    "id": 13,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "চাপ পড়লেই বাপ",
+    "explanation": "কায়দায় পরলে লোকে বশ্যতা স্বীকার; সমতুল্য- 'কারে পড়ে আল্লার নাম'; 'গরজ বড় বালাই'; 'ঠেলায় পড়ে ঢেলায় প্রণাম', 'ঠেলার নাম বাবাজী'; 'বিপদে পড়লে শ্রীমধুসূদন'; 'সাধে কি আর বাবা বলি গুঁতোর ঠেলায় বাবা বলায়' ইত্যাদি; সম্পর্কীত প্রবাস- বিনা বজ্রপাতে কেউ রামনাম নেয় না; পাঠান্তর- 'চাপের নাম বাপ'।",
+    "explanation_en": "People obey when they wear it; Equivalent- 'whose name of Allah is read'; 'Gorz Bara Balai'; 'Thela Pade Dhela Pranaam', 'Thela Naam Babaji'; 'Srimadhusudan in danger'; 'Sadhe ki ar baba boli guntor thelae baba balaye' etc.; Related Pravas - No one takes Ramnaam without lightning; Pathantra- 'The name of stress is father'."
+  },
+  {
+    "id": 14,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "এক মাঘে শীত যায় না",
+    "explanation": "বিপদাপদ শুধু একবারই আসে- এমন ধারণা ভুল; একটা বিপদ থেকে মুক্তি পেতেই আরেকটা এসে হাজির হয়।",
+    "explanation_en": "The idea that danger comes only once is wrong; To get rid of one danger, another appears."
+  },
+  {
+    "id": 15,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "দেখছি কত দেখব আর ছুঁচোর গলায় চন্দ্রহার",
+    "explanation": "অযোগ্যের হাতে উৎকৃষ্ট দ্রব্য দেখে খেদোক্তি।",
+    "explanation_en": "Disgusted by seeing excellent products in the hands of the unworthy."
+  },
+  {
+    "id": 16,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "অমাবস্যার চাঁদ",
+    "explanation": "অমাবস্যায় আকাশে চাঁদ ওঠে না, অদৃশ্য থাকে; দুতরাং- অসম্ভব ঘটনা; কোন অসম্ভব ঘটনা বর্ণনা করা হলে এই প্রবাদ ব্যবহৃত হয়।",
+    "explanation_en": "The moon does not rise in the sky during the new moon, it remains invisible; Dutrang- impossible event; This proverb is used when describing an impossible event."
+  },
+  {
+    "id": 17,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "উঠোন পেরুলেই অর্ধেক সফর",
+    "explanation": "কাজ শুরু হলেই অর্ধেক কাজ শেষ হয়ে যায়।",
+    "explanation_en": "Half the work is done once the work is started."
+  },
+  {
+    "id": 18,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "পাপও লুকায় না, সাগরও শুকায় না",
+    "explanation": "যেমন সাগর শুকানো অসম্ভব তেমনই পাপ লুকানো অসম্ভব।",
+    "explanation_en": "Just as it is impossible to dry up the ocean, it is impossible to hide sin."
+  },
+  {
+    "id": 19,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "ঢোল কা ভিতর পোল",
+    "explanation": "আজকাল বেশিরভাগ লোকের বাইরের আড়ম্বর বেশি; সমতুল্য- বাইরে বাবুয়ানা ভেতরে খেড়'; 'ভিতরে ছুঁচোর কেত্তন'; 'বাইরে কোঁচার পত্তন' ইত্যাদি।",
+    "explanation_en": "Most people these days are more outwardly flamboyant; Equivalent - Babuana in the outside; 'Kentan inside'; 'Bayre Kochhar Pattan' etc."
+  },
+  {
+    "id": 20,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "চোরের সাক্ষী গাঁটকাটা, শুঁড়ির সাক্ষী মাতাল",
+    "explanation": "স্বার্থের কারণে এক অসৎ অন্য অসৎকে সমর্থন করে।",
+    "explanation_en": "One dishonest person supports another dishonest person because of self-interest."
+  },
+  {
+    "id": 21,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "যে যত অসৎ সে তত সাধুতার ভান করে",
+    "explanation": "মেকি জিনিষের চাকচিক্য বেশি; ভণ্ড বামুনের ভড়ং বেশি।",
+    "explanation_en": "Makey things are more shiny; Hypocritical dwarfs are more hypocritical."
+  },
+  {
+    "id": 22,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "মাথার ঘায়ে কুকুর পাগল",
+    "explanation": "ভীষণ বিপদে পড়ে নাজেহাল অবস্থা; নানা বিষয়ের দুর্ভাবনায় ব্যতিব্যস্ত হয়ে পড়া; প্রতিকারহীন অবস্থায় পড়ে ছূটাছুটি করা; অপ্রতিবিধেয় বিপদে পড়লে মানুষ পাগল হয়।",
+    "explanation_en": "Najehal is in great danger; Being preoccupied with various things; to fall into a helpless state; People go crazy when they are in dire straits."
+  },
+  {
+    "id": 23,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "অসম্মানীয় ব্যক্তি অপরকে অসম্মান করে",
+    "explanation": "যার সম্মানবোধ নেই সে কাউকে সম্মান করতে জানে না",
+    "explanation_en": "He who has no sense of honor does not know how to respect anyone"
+  },
+  {
+    "id": 24,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "যত সয় তত বয়",
+    "explanation": "যে যতটা ভার বইতে পারে, সে ততটা ভার বইবে।",
+    "explanation_en": "He will carry as much weight as he can carry."
+  },
+  {
+    "id": 25,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "এক আঙটা বিকল তো সমস্ত শিকল বিকল",
+    "explanation": "মানুষের দুর্বলতম স্থানের প্রতি ইঙ্গিত।",
+    "explanation_en": "Allusion to man's weakest point."
+  },
+  {
+    "id": 26,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "ঝড়ে কাক/বক মরে ফকিরের কেরামতি বাড়ে",
+    "explanation": "অন্যের কৃতিত্ব নিজের বলে জাহির করা; একসময় ঝড়ে এক কাক মারা পড়ে; একইসময়ে এক ফকির সেই গাছের তলায় বসে কাক মারার মন্ত্র পড়ছিল; সম্পূর্ণ কাকতালীয় ঘটনা; কিন্তু ফকির ভাবে তার মন্ত্রের জোরে কাক মরেছে; কাকতলীয়ভাবে কেউ কোন কাজের কৃতিত্ব পেলে এই প্রবাদ বলা হয়; সমতুল্য- 'হরি বাঁচান প্রাণ, বৈদ্যের বাড়ে মান'; 'কাক মরল ঝড়ে প্যাঁচা ভাবে আমার শাপ লাগল হাড়েহাড়ে'।",
+    "explanation_en": "Claiming others' credit as one's own; Once a crow died in a storm; At the same time a fakir was sitting under that tree reciting the mantra to kill crows; Total coincidence; But in Fakir's way the crow died by the force of his spell; This saying is said when someone gets credit for some work by coincidence; Equivalent - 'Hari saves life, increases the value of medicine'; \"The crow died in the storm like an owl, my curse fell on my bones\"."
+  },
+  {
+    "id": 27,
+    "source": "MAPS",
+    "language": "bn",
+    "proverb": "বেনোজল ঢুকিয়ে খরজল বার করা",
+    "explanation": "ঘরে বাজে জিনিষ ঢুকিয়ে কাজের জিনিস বার/নষ্ট করা; কোন নতুন কাজে পুরানো কাজের ক্ষতি হলে এই প্রবাদ ব্যবহার করা হয়।",
+    "explanation_en": "Stealing/destroying work items by bringing in bad things into the house; This proverb is used when a new work damages an old one."
+  },
+  {
+    "id": 28,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "es ist leichter sich zu entschuldigen als vorher um erlaubnis zu fragen",
+    "explanation": "Es ist besser, entschlossen zu handeln und sich später dafür zu entschuldigen, als die Zustimmung zum Handeln einzuholen und Verzögerungen, Einwände usw. zu riskieren.",
+    "explanation_en": "It is better to act decisively and apologize later than to seek consent to act and risk delays, objections, etc."
+  },
+  {
+    "id": 29,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "wie der vater, so der sohn",
+    "explanation": "Sagt man, wenn sich männliche Nachfahren im Laufe ihres Lebens ähnlich entwickeln wie ihre Väter, weil bestimmte Eigenschaften weitergegeben oder vererbt werden.",
+    "explanation_en": "It is said when male descendants develop similarly to their fathers over the course of their lives because certain characteristics are passed on or inherited."
+  },
+  {
+    "id": 30,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "die hoffnung stirbt zuletzt",
+    "explanation": "die Hoffnung sollte das letzte sein, was man aufgibt",
+    "explanation_en": "hope should be the last thing you give up"
+  },
+  {
+    "id": 31,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "knapp daneben ist auch vorbei",
+    "explanation": "Sagt man dafür, dass das haarscharfe Verfehlen eines Ziels nichts daran ändert, dass jemand letzten Endes nicht erfolgreich war.",
+    "explanation_en": "It is said that missing a goal by a hair's breadth doesn't change the fact that someone was ultimately unsuccessful."
+  },
+  {
+    "id": 32,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "was sich liebt, das neckt sich",
+    "explanation": "durch gegenseitiges scherzhaftes Sticheln, Veralbern, Schäkern, Plänkeln wird Zugehörigkeit vermittelt",
+    "explanation_en": "Belonging is conveyed through mutual joking teasing, making fun of, teasing, and bantering"
+  },
+  {
+    "id": 33,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "geteiltes leid ist halbes leid",
+    "explanation": "Das Sprichwort ist in der Grundaussage, dass es ein Vorteil ist, etwas miteinander zu teilen, ein Synonym zu »Geteilte Freude ist doppelte Freude«.",
+    "explanation_en": "In its basic statement that it is an advantage to share something with one another, the saying is a synonym for “joy shared is joy doubled.”"
+  },
+  {
+    "id": 34,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "jedes böhnchen lässt ein tönchen",
+    "explanation": "Kommentar zur Fähigkeit von Bohnen, zu Blähungen beizutragen.",
+    "explanation_en": "Comment on the ability of beans to contribute to flatulence."
+  },
+  {
+    "id": 35,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "träum süß von sauren Gurken",
+    "explanation": "das ist seit jahren unser standardspruch, wenn das töchterlein schlafen geht. nur manchmal werden wahlweise die sauren gurken auch mal gegen ein anderes, gerade aktuelles, objekt ausgetauscht.",
+    "explanation_en": "That has been our standard saying for years when our daughter goes to sleep. Only sometimes the pickles are exchanged for another, current object."
+  },
+  {
+    "id": 36,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "spinne am morgen bringt kummer und sorgen",
+    "explanation": "Wenn man morgens eine Spinne sieht, bringt es Unglück, während die Begegnung mit einer Spinne am Abend belebend und erfrischend wirkt.",
+    "explanation_en": "Seeing a spider in the morning brings bad luck, while meeting a spider in the evening is invigorating and refreshing."
+  },
+  {
+    "id": 37,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "ein gutes gewissen ist ein sanftes ruhekissen",
+    "explanation": "Sagt man dafür, dass man sich besser und entspannter fühlt, wenn man sich nichts vorzuwerfen hat oder wenn man sich zu seinen Fehlern bekennt.",
+    "explanation_en": "It is said that you feel better and more relaxed when you have nothing to blame yourself for or when you admit your mistakes."
+  },
+  {
+    "id": 38,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "der neider sieht nur das beet, aber den spaten sieht er nicht",
+    "explanation": "Menschen, die auf etwas neidisch sind, sehen oft nur das Ergebnis, nicht aber die Arbeit, die darin steckt.",
+    "explanation_en": "People who are jealous of something often only see the result, but not the work that went into it."
+  },
+  {
+    "id": 39,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "nichts ist so alt wie die zeitung von gestern",
+    "explanation": "verweist auf die Tatsache, dass selbst recht aktuelle Nachrichten möglicherweise bereits veraltet sind",
+    "explanation_en": "refers to the fact that even fairly recent news may already be out of date"
+  },
+  {
+    "id": 40,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "reden ist silber, schweigen ist gold",
+    "explanation": "Sagt man dafür, dass es manchmal besser ist, Dinge nicht direkt an- oder auszusprechen, sondern für sich zu behalten.",
+    "explanation_en": "They say that sometimes it is better not to say or say things directly, but rather to keep them to yourself."
+  },
+  {
+    "id": 41,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "es ist etwas faul im staate dänemark",
+    "explanation": "Sagt man dafür, dass bestimmte Dinge nicht in Ordnung zu sein scheinen.",
+    "explanation_en": "It is said that certain things don't seem to be right."
+  },
+  {
+    "id": 42,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "nobel muss die welt zu grunde gehn",
+    "explanation": "Wenn jemand etwas sucht/kauft, kann er sich das nicht wirklich leisten.",
+    "explanation_en": "When someone is looking for/buying something, they can't really afford it."
+  },
+  {
+    "id": 43,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "des einen tod, des anderen brot",
+    "explanation": "In diesem Sprichwort steht Brot für Glück. Anders ausgedrückt sagt das Sprichwort Folgendes aus: Was dem einen Unglück bringt, bringt dem anderen Glück.",
+    "explanation_en": "In this saying, bread represents happiness. In other words, the proverb says this: What brings misfortune to one person brings happiness to another."
+  },
+  {
+    "id": 44,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "schadenfreude ist die beste freude",
+    "explanation": "Sagt man, wenn jemand eine Genugtuung gegenüber dem Missgeschick oder Pech anderer empfindet.",
+    "explanation_en": "It is said when someone feels satisfaction at the misfortune or misfortune of others."
+  },
+  {
+    "id": 45,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "neun leben hat die katze",
+    "explanation": "(insbesondere einer Katze) Haltbarkeit; nahezu immun gegen Schäden; bemerkenswerte Überlebensfähigkeit.",
+    "explanation_en": "(especially of a cat) durability; almost immune to damage; remarkable survivability."
+  },
+  {
+    "id": 46,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "kein rauch ohne feuer",
+    "explanation": "Sagt man dafür, dass bestimmte Beobachtungen, Gerüchte oder Vermutungen nicht ohne Grund entstehen und sich daher oft als wahr erweisen oder zumindest einen wahren Kern haben.a",
+    "explanation_en": "It is said that certain observations, rumors or assumptions do not arise without reason and therefore often turn out to be true or at least have a core of truth.a"
+  },
+  {
+    "id": 47,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "ist der ruf erst ruiniert, lebt es sich recht ungeniert",
+    "explanation": "scherzhaft: hat man schon ein schlechtes Ansehen, einen gewissen Ruf, kann es ja nicht mehr schlimmer werden und man kann ohne Hemmungen tun, was man will, braucht keine Rücksicht mehr auf Sitte und Anstand zu nehmen",
+    "explanation_en": "jokingly: if you already have a bad reputation, a certain reputation, it can't get any worse and you can do whatever you want without inhibitions and no longer need to take morals and decency into account"
+  },
+  {
+    "id": 48,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "wo aas ist, da sammeln sich die geier",
+    "explanation": "Wo Gewinn oder ein leichter, schneller Erfolg locken, wo Begehrlichkeiten geweckt werden, kommen viele Menschen, von Gier oder Habgier getrieben, zusammen, zum Beispiel Erbschleicher.",
+    "explanation_en": "Where profit or easy, quick success beckons, where desires are aroused, many people come together, driven by greed or avarice, for example inheritance sneakers."
+  },
+  {
+    "id": 49,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "jeder kehrt vor seiner eigenen tür",
+    "explanation": "Sagt man dafür, dass jemand besser seine eigenen Angelegenheiten in Ordnung bringen sollte, als sich in fremde Dinge einzumischen oder andere Menschen zu kritisieren.",
+    "explanation_en": "It is said that it is better for someone to get their own affairs in order than to interfere in other people's affairs or criticize other people."
+  },
+  {
+    "id": 50,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "wer rastet, der rostet",
+    "explanation": "Sagt man dafür, dass sich mangelnde körperliche und mentale Aktivität negativ auf Leistungsfähigkeit, Gesundheit und Wohlbefinden eines Menschen auswirken können.",
+    "explanation_en": "It is said that a lack of physical and mental activity can have a negative impact on a person's performance, health and well-being."
+  },
+  {
+    "id": 51,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "es ist alles jacke wie hose",
+    "explanation": "umgangssprachlich: ohne Bedeutung, ohne Belang sein, keinen Unterschied machen.",
+    "explanation_en": "colloquially: to have no meaning, to be irrelevant, to make no difference."
+  },
+  {
+    "id": 52,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "wie die faust auf`s auge",
+    "explanation": "[1] umgangssprachlich: ganz und gar nicht zusammenpassen [2] umgangssprachlich: wunderbar zusammenpassen",
+    "explanation_en": "[1] colloquial: to not fit together at all [2] colloquial: to fit together wonderfully"
+  },
+  {
+    "id": 53,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "lieber arm und gesund, als reich und krank",
+    "explanation": "Gesundheit ist wichtiger als finanzieller Reichtum.",
+    "explanation_en": "Health is more important than financial wealth."
+  },
+  {
+    "id": 54,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "unverhofft kommt oft",
+    "explanation": "Überraschendes geschieht häufig; es kommt oft anders, als man denkt",
+    "explanation_en": "Surprising things often happen; things often turn out differently than you think"
+  },
+  {
+    "id": 55,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "feuer und wasser sind zwei gute diener, aber schlimme herren",
+    "explanation": "Manche Dinge/Menschen sind für bestimmte Aufgaben gut, wenn sie richtig unter Kontrolle gehalten werden, aber gefährlich/zerstörerisch, wenn sie es nicht tun.",
+    "explanation_en": "Some things/people are good for certain tasks if properly controlled, but dangerous/destructive if not."
+  },
+  {
+    "id": 56,
+    "source": "MAPS",
+    "language": "de",
+    "proverb": "alles neu macht der mai",
+    "explanation": "Der ,Wonnemonat‘ Mai steht für das Aufblühen der Natur und ist somit ein Symbol für Aufbruchstimmung: Endlich wieder raus!",
+    "explanation_en": "The “happy month” of May stands for the blossoming of nature and is therefore a symbol of a spirit of optimism: finally getting out again!"
+  },
+  {
+    "id": 57,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "all good things come to an end",
+    "explanation": "nothing good lasts forever",
+    "explanation_en": "nothing good lasts forever"
+  },
+  {
+    "id": 58,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "the eyes are the window to the soul",
+    "explanation": "you can tell a lot about a person from their eyes",
+    "explanation_en": "you can tell a lot about a person from their eyes"
+  },
+  {
+    "id": 59,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "a picture is worth a thousand words",
+    "explanation": "a visualisation is a better description than a verbal description",
+    "explanation_en": "a visualisation is a better description than a verbal description"
+  },
+  {
+    "id": 60,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "half a loaf is better than none",
+    "explanation": "something is better than nothing: some reward, achievement, result, etc",
+    "explanation_en": "something is better than nothing: some reward, achievement, result, etc"
+  },
+  {
+    "id": 61,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "hunger is the best sauce",
+    "explanation": "being hungry makes one less concerned about the taste of one's food",
+    "explanation_en": "being hungry makes one less concerned about the taste of one's food"
+  },
+  {
+    "id": 62,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "don't change a winning team",
+    "explanation": "of if it ain't broke, don't fix it",
+    "explanation_en": "of if it ain't broke, don't fix it"
+  },
+  {
+    "id": 63,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "in wine, there is truth",
+    "explanation": "things said under the influence of alcohol reveal true beliefs not expressed when sober",
+    "explanation_en": "things said under the influence of alcohol reveal true beliefs not expressed when sober"
+  },
+  {
+    "id": 64,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "it's lonely at the top",
+    "explanation": "a highly successful person in a particular field will inevitably suffer from a feeling of isolation",
+    "explanation_en": "a highly successful person in a particular field will inevitably suffer from a feeling of isolation"
+  },
+  {
+    "id": 65,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "can't live with them, can't live without them",
+    "explanation": "there is a hopeless, ongoing conflict between annoyance with someone or something and need for that same person or thing",
+    "explanation_en": "there is a hopeless, ongoing conflict between annoyance with someone or something and need for that same person or thing"
+  },
+  {
+    "id": 66,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "every rose has its thorn",
+    "explanation": "every good situation happens with misfortune or adversity",
+    "explanation_en": "every good situation happens with misfortune or adversity"
+  },
+  {
+    "id": 67,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "as one door closes, another opens",
+    "explanation": "of when one door closes, another opens",
+    "explanation_en": "of when one door closes, another opens"
+  },
+  {
+    "id": 68,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "when one door closes, another opens",
+    "explanation": "when one opportunity is lost, another opportunity soon becomes available",
+    "explanation_en": "when one opportunity is lost, another opportunity soon becomes available"
+  },
+  {
+    "id": 69,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "any port in a storm",
+    "explanation": "(idiomatic) one should accept any passable option when time is of the essence in an adverse situation",
+    "explanation_en": "(idiomatic) one should accept any passable option when time is of the essence in an adverse situation"
+  },
+  {
+    "id": 70,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "mackerel sky and mare's-tails make tall ships carry low sails",
+    "explanation": "cirrus clouds forebode bad weather",
+    "explanation_en": "cirrus clouds forebode bad weather"
+  },
+  {
+    "id": 71,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "the game is not worth the candle",
+    "explanation": "the process or result is not worth the effort",
+    "explanation_en": "the process or result is not worth the effort"
+  },
+  {
+    "id": 72,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "cleanliness is next to godliness",
+    "explanation": "it is important and morally sound to keep one's body and home clean; those who practice purity and wholeness are close to god",
+    "explanation_en": "it is important and morally sound to keep one's body and home clean; those who practice purity and wholeness are close to god"
+  },
+  {
+    "id": 73,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "opposites attract",
+    "explanation": "people who are completely different make ideal partners",
+    "explanation_en": "people who are completely different make ideal partners"
+  },
+  {
+    "id": 74,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "empty vessels make the most sound",
+    "explanation": "noisy, opinionated people are often ignorant",
+    "explanation_en": "noisy, opinionated people are often ignorant"
+  },
+  {
+    "id": 75,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "a bad tree does not yield good apples",
+    "explanation": "bad parents do not reproduce good children",
+    "explanation_en": "bad parents do not reproduce good children"
+  },
+  {
+    "id": 76,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "like father, like son",
+    "explanation": "a son will have traits similar to his father upon reaching adulthood",
+    "explanation_en": "a son will have traits similar to his father upon reaching adulthood"
+  },
+  {
+    "id": 77,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "six of one, half a dozen of the other",
+    "explanation": "(idiomatic) the two alternatives are equivalent or indifferent; it doesn't matter which one we choose",
+    "explanation_en": "(idiomatic) the two alternatives are equivalent or indifferent; it doesn't matter which one we choose"
+  },
+  {
+    "id": 78,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "money doesn't grow on trees",
+    "explanation": "wealth cannot be obtained without some effort; hence currency is not always available for a prospective purchase",
+    "explanation_en": "wealth cannot be obtained without some effort; hence currency is not always available for a prospective purchase"
+  },
+  {
+    "id": 79,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "dogs have masters, cats have staff",
+    "explanation": "(humorous) a dog will always aim to please and display loyalty to its owner, whereas a cat will always seek to be served and obeyed",
+    "explanation_en": "(humorous) a dog will always aim to please and display loyalty to its owner, whereas a cat will always seek to be served and obeyed"
+  },
+  {
+    "id": 80,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "a miss is as good as a mile",
+    "explanation": "a failure remains a failure, regardless of how close to success one has actually come",
+    "explanation_en": "a failure remains a failure, regardless of how close to success one has actually come"
+  },
+  {
+    "id": 81,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "two heads are better than one",
+    "explanation": "some tasks may be accomplished more easily by two (or more) people working together than by one working alone",
+    "explanation_en": "some tasks may be accomplished more easily by two (or more) people working together than by one working alone"
+  },
+  {
+    "id": 82,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "there's no place like home",
+    "explanation": "one feels most comfortable at home",
+    "explanation_en": "one feels most comfortable at home"
+  },
+  {
+    "id": 83,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "devil is in the details",
+    "explanation": "(idiomatic) the specific provisions of, or particular steps for implementing, a general plan, policy, or contract may be complicated, controversial, or unworkable",
+    "explanation_en": "(idiomatic) the specific provisions of, or particular steps for implementing, a general plan, policy, or contract may be complicated, controversial, or unworkable"
+  },
+  {
+    "id": 84,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "what you lose on the swings you gain on the roundabouts",
+    "explanation": "(uk) there are both gains and losses in life; you win some, you lose some",
+    "explanation_en": "(uk) there are both gains and losses in life; you win some, you lose some"
+  },
+  {
+    "id": 85,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "clothes don't make the man",
+    "explanation": "you cannot accurately judge a person solely by appearances",
+    "explanation_en": "you cannot accurately judge a person solely by appearances"
+  },
+  {
+    "id": 86,
+    "source": "MAPS",
+    "language": "en",
+    "proverb": "clothes maketh the man",
+    "explanation": "a person's appearances count for a lot",
+    "explanation_en": "a person's appearances count for a lot"
+  },
+  {
+    "id": 87,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Seperti kucing lepas senja",
+    "explanation": "orang yang kalau sudah pergi tidak akan kembali lagi.",
+    "explanation_en": "people who, once gone, will never come back."
+  },
+  {
+    "id": 88,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Majelis-majelis udang, tahi di kepala",
+    "explanation": "orang yang sombong tetapi banyak kekurangannya.",
+    "explanation_en": "a proud person but has many shortcomings."
+  },
+  {
+    "id": 89,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Anjing ditepuk, menjungkit ekor",
+    "explanation": "orang yang tidak berbudi, jika dihormati menjadi sombong.",
+    "explanation_en": "a person without virtue, if respected becomes arrogant."
+  },
+  {
+    "id": 90,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Susu di dada tak dapat dielakkan",
+    "explanation": "nasib atau malang setiap orang tak dapat dihindari.",
+    "explanation_en": "Everyone's fate or misfortune cannot be avoided."
+  },
+  {
+    "id": 91,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Siapa yang mau mengaku berak di tengah jalan",
+    "explanation": "tidak ada yang mau bertanggung jawab / mengakui bila telah terjadi perbuatan / kesalahan fatal.",
+    "explanation_en": "no one wants to take responsibility/admit when a fatal act/mistake has occurred."
+  },
+  {
+    "id": 92,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Orang haus diberi air, orang mengantuk disorongkan bantal",
+    "explanation": "orang yang dalam kesengsaraan, mendapatkan pertolongan",
+    "explanation_en": "people who are in trouble, get help"
+  },
+  {
+    "id": 93,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Tangan mencencang bahu memikul",
+    "explanation": "barangsiapa yang bebuat kesalahan maka dia sendirilah yang dapat Menanggung kepergiannya karena di ambil",
+    "explanation_en": "Whoever makes a mistake, he alone can bear the responsibility for his departure because he was taken away"
+  },
+  {
+    "id": 94,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Membasuh muka dengan air liur",
+    "explanation": "berusaha memperbaiki kesalahan dengan perbuatan yang justru menambah kesalahan lagi.",
+    "explanation_en": "trying to correct a mistake by doing something that only adds to the mistake."
+  },
+  {
+    "id": 95,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Hilang geli oleh gelitik, hilang bisa oleh biasa",
+    "explanation": "mula-mula tidak menyenangkan dan membuat malu, tetapi lama-kelamaan semua perasaan itu lenyap.",
+    "explanation_en": "at first it was unpleasant and embarrassing, but after a while all these feelings disappeared."
+  },
+  {
+    "id": 96,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Seperti ular dicubit ekor",
+    "explanation": "1. sangat marah; 2. menghadapi musuh dengan berani.",
+    "explanation_en": "1. very angry; 2. face the enemy bravely."
+  },
+  {
+    "id": 97,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Rasa air ke air, rasa minyak ke minyak",
+    "explanation": "mencari persesuaian atau perlindungan kepada masing-masing.",
+    "explanation_en": "find compatibility or protection to each other."
+  },
+  {
+    "id": 98,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Mati satu tumbuh seribu",
+    "explanation": "adalah segala sesuatu yg telah hilang, selalu ada gantinya.",
+    "explanation_en": "is that everything that has been lost, there is always a replacement."
+  },
+  {
+    "id": 99,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Tunggang hilang berani mati",
+    "explanation": "sangat berani, tak takut apa pun.",
+    "explanation_en": "very brave, not afraid of anything."
+  },
+  {
+    "id": 100,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Sayang-sayang buah kepayang, dimakan mabuk dibuang sayang",
+    "explanation": "1. bingung menghadapi perempuan cantik tapi berbahaya, diambil takut ditinggalkan tak sampai hati; 2. dalam keadaan serba salah",
+    "explanation_en": "1. Confused to face a beautiful but dangerous woman, taken for fear of being left behind; 2. in a state of confusion"
+  },
+  {
+    "id": 101,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Sia-sia menggiring angin, terasa ada tertangkap tidak",
+    "explanation": "jangan mengharapkan yang bukan-bukan karena akhirnya akan mengecewakan saja.",
+    "explanation_en": "Don't expect anything from it because it will end up being disappointing."
+  },
+  {
+    "id": 102,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Terajar pada banteng pincang",
+    "explanation": "sia – sia saja mengajari orang yang keras kepala atau tak mau mendengarkan.",
+    "explanation_en": "It's useless to teach people who are stubborn or don't want to listen."
+  },
+  {
+    "id": 103,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Yang secupak takkan jadi segantang",
+    "explanation": "nasib/rezeki/usia yang sudah ditetapkan Allah takkan dapat diubah lagi",
+    "explanation_en": "the destiny/prosperity/age that God has set cannot be changed again"
+  },
+  {
+    "id": 104,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Sayang akan garam sececah, kerbau seekor dibusukkan",
+    "explanation": "karena takut akan kerugian yang sedikit, akhirnya mendapat kerugian yang lebih besar.",
+    "explanation_en": "because they are afraid of a small loss, they end up getting a bigger loss."
+  },
+  {
+    "id": 105,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Tidak dua kali orang tua kehilangan tongkat",
+    "explanation": "tidak melakukan kesalahan yang sama lagi.",
+    "explanation_en": "don't make the same mistake again."
+  },
+  {
+    "id": 106,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Esa hilang, dua terbilang",
+    "explanation": "terus berjuang/berusaha dengan gigih sampai tercapai tujuan/cita-cita.",
+    "explanation_en": "keep fighting/trying persistently until you achieve your goals/aspirations."
+  },
+  {
+    "id": 107,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Sigai sampai ke langit",
+    "explanation": "kalau hendak mengerjakan sesuatu pekerjaan hendaklah sampai tuntas.",
+    "explanation_en": "if you want to do a job, you must finish it."
+  },
+  {
+    "id": 108,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Masuk kandang kambing mengembik, masuk kandang kerbau menguak",
+    "explanation": "harus dapat menyesuaikan diri / mengetahui adat istiadat tempat orang yang kita datangi.",
+    "explanation_en": "must be able to adapt / know the customs of the place where we visit."
+  },
+  {
+    "id": 109,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Adakah air dalam tong itu berkocak, melainkan air yang setengah tong itu juga yang berkocak;",
+    "explanation": "orang yang pandai, tidak akan sombong hanya orang yang bodoh jua yang mau berbuat demikian.",
+    "explanation_en": "smart people, will not be arrogant, only stupid people want to do that."
+  },
+  {
+    "id": 110,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Makan bubur panas-panas",
+    "explanation": "karena terlalu terburu-buru / gegabah akhirnya merugi / kecewa.",
+    "explanation_en": "because you are too hasty/careless, you end up losing/disappointed."
+  },
+  {
+    "id": 111,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Berguru kepalang ajar, bagai bunga kembang tak jadi",
+    "explanation": "belajar hendaknya bersungguh, jangan hendaknya kepalang tanggung",
+    "explanation_en": "study should be earnest, not overwhelming"
+  },
+  {
+    "id": 112,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Terumbuk biduk dikelokkan, tertumbuk kata dipikiri",
+    "explanation": "bila berjumpa dengan masalah atau kesukaran jangan lekas putus asa, carilah jalan keluarnya.",
+    "explanation_en": "when you encounter a problem or difficulty, don't give up quickly, look for a way out."
+  },
+  {
+    "id": 113,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Tambah air tambah sagu",
+    "explanation": "bila bertambah pekerjaan, akan bertambah pula upah atau gajinya.",
+    "explanation_en": "when the job increases, the wage or salary will also increase."
+  },
+  {
+    "id": 114,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Sesat surit terlangkah kembali",
+    "explanation": "kalau sadar akan kesalahan segeralah perbaiki.",
+    "explanation_en": "If you realize you have made a mistake, correct it immediately."
+  },
+  {
+    "id": 115,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Bermain air basah, bermain api terbakar",
+    "explanation": "setiap pekerjaan senantiasa ada untung ruginya.",
+    "explanation_en": "Every job always has its pros and cons."
+  },
+  {
+    "id": 116,
+    "source": "MAPS",
+    "language": "id",
+    "proverb": "Terpijak benang arang, hitam telapak",
+    "explanation": "barangsiapa yang berbuat kesalahan, harus menerima akibatnya.",
+    "explanation_en": "Whoever makes a mistake must accept the consequences."
+  },
+  {
+    "id": 117,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "eдешь нa день, хлeба бери на недeлю",
+    "explanation": "Английский эквивалент: Всегда будь готов (или всегда бери с собой больше, чем тебе нужно); Лучше иметь и не нуждаться, чем нуждаться и не иметь.",
+    "explanation_en": "English equivalent: Always be prepared (or always carry more than you need); It is better to have and not need than to need and not have."
+  },
+  {
+    "id": 118,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "eсли бы да кабы да во рту росли грибы",
+    "explanation": "чтобы указать, что говорящий добьется успеха, если проигнорирует все «если», «и» или «но»; сравните если и ответ. чтобы указать желаемое за действительное другого человека.",
+    "explanation_en": "to indicate that the speaker will succeed if he ignores all ifs, ands, or buts; compare if and answer. to indicate another person's wishful thinking."
+  },
+  {
+    "id": 119,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "А дело бывало - и коза волка съедала",
+    "explanation": "Это означает, что Вы можете сделать всё, что захотите, приложив необходимое количество усилий.",
+    "explanation_en": "This means that you can do whatever you want with the right amount of effort."
+  },
+  {
+    "id": 120,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Авось да как-нибудь до добрa не доведут",
+    "explanation": "Ее смысл в том, что не стоит всегда полагаться \"на авось\", думая, что проблема как-нибудь сама рассосется.",
+    "explanation_en": "Its meaning is that you should not always rely on chance, thinking that the problem will somehow resolve itself."
+  },
+  {
+    "id": 121,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Азбука - к мудрости ступенька",
+    "explanation": "Прежде чем бежать, надо научиться ходить.  Буквально: Алфавит - это ступенька к мудрости.",
+    "explanation_en": "Before you can run, you need to learn to walk.  Literally: The alphabet is a step to wisdom."
+  },
+  {
+    "id": 122,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Алтынного вора вeшают, а полтинного чeствуют",
+    "explanation": "Мелкого воришку наказывают, а крупного прославляют. Говорится, когда богатому вору удаётся уйти от правосудия.",
+    "explanation_en": "The petty thief is punished, but the big one is glorified. It is said when a rich thief manages to escape justice."
+  },
+  {
+    "id": 123,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Аппетит приходит во врeмя еды",
+    "explanation": "о стремлении к чему-либо бо́льшему после небольшого первоначального успеха",
+    "explanation_en": "about striving for something more after some initial success"
+  },
+  {
+    "id": 124,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Артeльный горшок гуще кипит",
+    "explanation": "С помощником возможна тысяча вещей.  Буквально: В артельном котле варится гуще.",
+    "explanation_en": "With an assistant, a thousand things are possible.  Literally: In the artel cauldron the cooking is thicker."
+  },
+  {
+    "id": 125,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бaбушка гадaла, нaдвое сказaла",
+    "explanation": "выражение сомнения в чём-либо",
+    "explanation_en": "expressing doubt about something"
+  },
+  {
+    "id": 126,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бaбушка нaдвое сказaла",
+    "explanation": "Никто не может знать наверняка.  Буквальный: Бабушка сказала две вещи.",
+    "explanation_en": "No one can know for sure.  Literal: Grandma said two things."
+  },
+  {
+    "id": 127,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бaры дерутся - у холопов чубы трещaт",
+    "explanation": "Когда богатые устраивают войну, умирают бедные.  Буквально: Хозяева дерутся, слуги скрипят.",
+    "explanation_en": "When the rich make war, the poor die.  Literally: Masters fight, servants creak."
+  },
+  {
+    "id": 128,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бeдному одeться - только подпоЯсаться",
+    "explanation": "Не имеющий денег не нуждается в кошельке.  Буквально: Для бедняка одеться - значит только подпоясаться.",
+    "explanation_en": "He who has no money does not need a wallet.  Literally: For a poor man, to get dressed is only to gird himself."
+  },
+  {
+    "id": 129,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бeшеной собaке семь вёрст не крюк",
+    "explanation": "о ситуации, когда собственная глупость вынуждает тратить куда больше усилий, чем требуется",
+    "explanation_en": "about a situation where one’s own stupidity forces one to spend much more effort than is required"
+  },
+  {
+    "id": 130,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бедa никогдa не приходит однa",
+    "explanation": "Английский эквивалент: Мизери любит компанию.",
+    "explanation_en": "English equivalent: Misery loves company."
+  },
+  {
+    "id": 131,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бедному нужно многое, жадному - всё",
+    "explanation": "Бедность - в желании многого, скупость - всего.",
+    "explanation_en": "Poverty is the desire for a lot, stinginess - everything."
+  },
+  {
+    "id": 132,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Без котa мышaм раздолье",
+    "explanation": "Английский эквивалент: Когда кошки нет, мыши играют.",
+    "explanation_en": "English equivalent: When the cat is away, the mice play."
+  },
+  {
+    "id": 133,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Без муки нет науки",
+    "explanation": "Невзгоды - хороший учитель.  Буквально: Без мучений нет науки.",
+    "explanation_en": "Adversity is a good teacher.  Literally: Without torment there is no science."
+  },
+  {
+    "id": 134,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Без отдыха и конь не скачет",
+    "explanation": "All work and no play makes Jack a dull boy.  Буквально: Без отдыха даже лошадь не скачет.",
+    "explanation_en": "All work and no play makes Jack a dull boy.  Literally: Without rest, even a horse cannot gallop."
+  },
+  {
+    "id": 135,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Безопасность прежде всего",
+    "explanation": "Безопасность превыше всего.",
+    "explanation_en": "Safety comes first."
+  },
+  {
+    "id": 136,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бережёного Бог бережёт",
+    "explanation": "осмотрительному, осторожному в своих решениях и поступках человеку легче избежать опасностей, неоправданных рисков",
+    "explanation_en": "it is easier for a person who is prudent, cautious in his decisions and actions to avoid dangers and unjustified risks"
+  },
+  {
+    "id": 137,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бережливость хороша, да скупость страшна",
+    "explanation": "Экономика - хороший слуга, но плохой хозяин.",
+    "explanation_en": "The economy is a good servant, but a bad master."
+  },
+  {
+    "id": 138,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Берись дружно, не будет грузно",
+    "explanation": "Общими усилиями легче справиться с любым делом.",
+    "explanation_en": "With common efforts it is easier to cope with any task."
+  },
+  {
+    "id": 139,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бог дал, Бог и взял",
+    "explanation": "Скорбь в отношении неизбежных утрат: потери ценного имущества, смерти близкого человека.",
+    "explanation_en": "Grief regarding inevitable losses: loss of valuable property, death of a loved one."
+  },
+  {
+    "id": 140,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бог не выдаст, свиньЯ не съест",
+    "explanation": "Ничего плохого не случится, из трудного положения выход будет найден.",
+    "explanation_en": "Nothing bad will happen, a way out of the difficult situation will be found."
+  },
+  {
+    "id": 141,
+    "source": "MAPS",
+    "language": "ru",
+    "proverb": "Бог плута мeтит",
+    "explanation": "Буквально: Бог отмечает мошенника.",
+    "explanation_en": "Literally: God marks the cheater."
+  },
+  {
+    "id": 142,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "富贵险中求",
+    "explanation": "财富往往是从冒险中获得的。",
+    "explanation_en": "Wealth is often gained through risk."
+  },
+  {
+    "id": 143,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "民以食为天",
+    "explanation": "人们认为食物是他们的主要需求。",
+    "explanation_en": "People consider food to be their main need."
+  },
+  {
+    "id": 144,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "时间能治愈一切创伤",
+    "explanation": "时间可以治愈所有伤口。",
+    "explanation_en": "Time heals all wounds."
+  },
+  {
+    "id": 145,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "斩草不除根，春风吹又生",
+    "explanation": "应该解决问题的根源并完全解决问题。",
+    "explanation_en": "The root of the problem should be addressed and the problem completely resolved."
+  },
+  {
+    "id": 146,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "英雄莫问出处",
+    "explanation": "出身和成就不一定有关联，因此讨论出身没有意义。",
+    "explanation_en": "Origin and achievement are not necessarily related, so there is no point in discussing origin."
+  },
+  {
+    "id": 147,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "远亲不如近邻",
+    "explanation": "附近的邻居比远处的表亲好（因为他们可以互相帮助和照顾）。",
+    "explanation_en": "Nearby neighbors are better than distant cousins ​​(because they can help and care for each other)."
+  },
+  {
+    "id": 148,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "可怜之人必有可恨之处",
+    "explanation": "用通常道德标准衡量，一个貌似可怜之人现实的不如意，一定是由于之前的过错或咎由自取造成的，知道自己错了还屡教不改和咎由自取即是此类人的可恨之处。",
+    "explanation_en": "Measured by ordinary moral standards, a seemingly pitiable person's actual unsatisfactory situation must be caused by previous mistakes or self-imposed faults. Knowing that he is wrong and refusing to correct it despite repeated admonishment and self-imposed blame are the hateful features of such a person."
+  },
+  {
+    "id": 149,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "时势造英雄",
+    "explanation": "特定的历史条件（如社会动荡），使人的聪明才智显露出来，并相互作用，使之成为英雄人物。",
+    "explanation_en": "Specific historical conditions (such as social unrest) make people's ingenuity emerge and interact with each other to make them heroes."
+  },
+  {
+    "id": 150,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "见人说人话，见鬼说鬼话",
+    "explanation": "要灵活，并知道在不同情况下和对不同的人说些什么； （贬义）是狡猾的和两面的。",
+    "explanation_en": "Be flexible and know what to say in different situations and to different people; (derogatory) to be cunning and two-faced."
+  },
+  {
+    "id": 151,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "知人知面不知心",
+    "explanation": "指认识一个人容易，但要了解一个人的内心却很困难。",
+    "explanation_en": "It means that it is easy to get to know someone, but it is difficult to understand someone's heart."
+  },
+  {
+    "id": 152,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "人不可貌相",
+    "explanation": "一个人不能通过他或她的外表来判断某人；你不能用封面来判断一本书。",
+    "explanation_en": "One cannot judge someone by his or her appearance; you cannot judge a book by its cover."
+  },
+  {
+    "id": 153,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "一步错，步步错",
+    "explanation": "如果前面的那些失误，那么随后的所有人员也会失误。",
+    "explanation_en": "If those ahead make mistakes, so will everyone who follows."
+  },
+  {
+    "id": 154,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "打蛇打七寸",
+    "explanation": "攻击问题的核心；点击疼痛的地方。",
+    "explanation_en": "Attack the heart of the problem; hit where it hurts."
+  },
+  {
+    "id": 155,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "退一步海阔天空",
+    "explanation": "短时的忍耐可以平息矛盾纠纷，理智的退让可以创造宽松环境。",
+    "explanation_en": "Short-term patience can calm conflicts and disputes, and rational concessions can create a relaxed environment."
+  },
+  {
+    "id": 156,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "无风不起浪",
+    "explanation": "事情发生，总有个原因。",
+    "explanation_en": "Things happen for a reason."
+  },
+  {
+    "id": 157,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "万般皆下品，惟有读书高",
+    "explanation": "所有行业和职业都是劣等的，只有学习才是优越的。",
+    "explanation_en": "All trades and professions are inferior, only learning is superior."
+  },
+  {
+    "id": 158,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "开卷有益",
+    "explanation": "阅读是有益的。",
+    "explanation_en": "Reading is beneficial."
+  },
+  {
+    "id": 159,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "天有不测风云",
+    "explanation": "有些灾祸的发生，事先是无法预料的。",
+    "explanation_en": "Some disasters cannot be predicted in advance."
+  },
+  {
+    "id": 160,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "虎落平阳被犬欺",
+    "explanation": "失去立场和影响力的人可能会受到很大的侮辱。",
+    "explanation_en": "People who lose their position and influence can be greatly insulted."
+  },
+  {
+    "id": 161,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "上梁不正下梁歪",
+    "explanation": "（比喻）如果领导力树立了一个不好的例子，他们的下属将效仿",
+    "explanation_en": "(Metaphorically) If leaders set a bad example, their subordinates will follow suit."
+  },
+  {
+    "id": 162,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "姜是老的辣",
+    "explanation": "这个人的年龄越大，他们的经验丰富（智慧或危险越大）",
+    "explanation_en": "The older the person is, the more experienced (wisdom or danger) they have"
+  },
+  {
+    "id": 163,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "人生何处不相逢",
+    "explanation": "指人与人分别后总是有机会再见面的。",
+    "explanation_en": "It means that there is always a chance to meet again after separation."
+  },
+  {
+    "id": 164,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "防人之心不可无",
+    "explanation": "你不可以心里想着害人，但是你又不能不防着，因为可能有人却会害你。",
+    "explanation_en": "You can't think of harming others, but you can't help but be on guard, because someone might harm you."
+  },
+  {
+    "id": 165,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "好奇害死猫",
+    "explanation": "警告不必要的调查或实验带来的危险，警戒人们不要过分好奇，否则会给自己带来伤害。",
+    "explanation_en": "Warn about the dangers of unnecessary investigations or experiments, and warn people not to be overly curious, otherwise they will cause harm to themselves."
+  },
+  {
+    "id": 166,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "人非圣贤，孰能无过",
+    "explanation": "没有人是完美的;每个人都会犯错。",
+    "explanation_en": "No one is perfect; everyone makes mistakes."
+  },
+  {
+    "id": 167,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "一个萝卜一个坑",
+    "explanation": "（比喻）每个人都有自己的任务，没有人可以放弃。",
+    "explanation_en": "(Metaphor) Everyone has a task and no one can give up."
+  },
+  {
+    "id": 168,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "是金子总会发光的",
+    "explanation": "有能力的人最终将被发现；才华横溢的一天将会到来。",
+    "explanation_en": "The capable will eventually be discovered; the day of talent will come."
+  },
+  {
+    "id": 169,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "己所不欲，勿施于人",
+    "explanation": "不要对别人做你不希望别人对自己做的事情。",
+    "explanation_en": "Don't do to others what you wouldn't want others to do to you."
+  },
+  {
+    "id": 170,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "光阴似箭",
+    "explanation": "时间像箭一样飞。",
+    "explanation_en": "Time flies like an arrow."
+  },
+  {
+    "id": 171,
+    "source": "MAPS",
+    "language": "zh",
+    "proverb": "苛政猛于虎",
+    "explanation": "压迫性政府比老虎更糟糕。",
+    "explanation_en": "Oppressive governments are worse than tigers."
+  }
+]

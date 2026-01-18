@@ -1,0 +1,1038 @@
+[
+  {
+    "ID": "1",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be a breath of fresh air",
+    "explanation_en": "said of a positive news"
+  },
+  {
+    "ID": "2",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "play devil's advocate",
+    "explanation_en": "expresses a contentious opinion only to provoke debate"
+  },
+  {
+    "ID": "3",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "blaze a trail",
+    "explanation_en": "start something new"
+  },
+  {
+    "ID": "4",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "hold someone's hand",
+    "explanation_en": "be a guide to someone"
+  },
+  {
+    "ID": "5",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "get a slice of the pie",
+    "explanation_en": "get a share of the profits"
+  },
+  {
+    "ID": "6",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "have ants in one's pants",
+    "explanation_en": "be very lively"
+  },
+  {
+    "ID": "7",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "shoot the bull",
+    "explanation_en": "have a relaxed conversation"
+  },
+  {
+    "ID": "8",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "strike while the iron is hot",
+    "explanation_en": "take advantage of circumstances while they are favorable"
+  },
+  {
+    "ID": "9",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "not lift a finger",
+    "explanation_en": "do nothing to help someone"
+  },
+  {
+    "ID": "10",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be right on the button",
+    "explanation_en": "get exactly something right"
+  },
+  {
+    "ID": "11",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "let the cat out of the bag",
+    "explanation_en": "reveal a secret"
+  },
+  {
+    "ID": "12",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be the icing on the cake",
+    "explanation_en": "said of something extra that makes a good thing even better"
+  },
+  {
+    "ID": "13",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be at a crossroads",
+    "explanation_en": "be uncertain between two decisions"
+  },
+  {
+    "ID": "14",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "go downhill",
+    "explanation_en": "worsen"
+  },
+  {
+    "ID": "15",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be back on your feet",
+    "explanation_en": "get well again after a period of crisis"
+  },
+  {
+    "ID": "16",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be in seventh heaven",
+    "explanation_en": "be happy"
+  },
+  {
+    "ID": "17",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "walk a mile in one’s shoes",
+    "explanation_en": "empathize with the circumstances of others"
+  },
+  {
+    "ID": "18",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "go hand in hand",
+    "explanation_en": "get along"
+  },
+  {
+    "ID": "19",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "make one's skin crawl",
+    "explanation_en": "arouse horror in someone"
+  },
+  {
+    "ID": "20",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be on your toes",
+    "explanation_en": "stay alert"
+  },
+  {
+    "ID": "21",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "know something down pat",
+    "explanation_en": "know something in great detail"
+  },
+  {
+    "ID": "22",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "pass with flying colours",
+    "explanation_en": "do something successfully"
+  },
+  {
+    "ID": "23",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "rain on someone's parade",
+    "explanation_en": "ruin someone's plans"
+  },
+  {
+    "ID": "24",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "swim with the tide",
+    "explanation_en": "act in accordance with the prevailing opinion"
+  },
+  {
+    "ID": "25",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be greek to one",
+    "explanation_en": "said of something that is incomprehensible"
+  },
+  {
+    "ID": "26",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be on the ropes",
+    "explanation_en": "be close to defeat"
+  },
+  {
+    "ID": "27",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be smooth sailing",
+    "explanation_en": "said of something that proceeds without problems"
+  },
+  {
+    "ID": "28",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "cost an arm and a leg",
+    "explanation_en": "said of something that is very expensive"
+  },
+  {
+    "ID": "29",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "catch someone's eye",
+    "explanation_en": "draw attention"
+  },
+  {
+    "ID": "30",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "come in from the cold",
+    "explanation_en": "resume part in an activity"
+  },
+  {
+    "ID": "31",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "slip on a banana skin",
+    "explanation_en": "make a silly mistake"
+  },
+  {
+    "ID": "32",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "count sheep",
+    "explanation_en": "attempt to fall asleep"
+  },
+  {
+    "ID": "33",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "have a screw loose",
+    "explanation_en": "be extravagant"
+  },
+  {
+    "ID": "34",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be joined at the hip",
+    "explanation_en": "be close friends"
+  },
+  {
+    "ID": "35",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be in hot water",
+    "explanation_en": "be in extreme difficulty"
+  },
+  {
+    "ID": "36",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "do something over my dead body",
+    "explanation_en": "not let something happen"
+  },
+  {
+    "ID": "37",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be above board",
+    "explanation_en": "act without subterfuge"
+  },
+  {
+    "ID": "38",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be up the river",
+    "explanation_en": "be in prison"
+  },
+  {
+    "ID": "39",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "kick the bucket",
+    "explanation_en": "die"
+  },
+  {
+    "ID": "40",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "vanish into thin air",
+    "explanation_en": "disappear without a trace"
+  },
+  {
+    "ID": "41",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "have a place in the sun",
+    "explanation_en": "have a prestigious economic and social position"
+  },
+  {
+    "ID": "42",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be a ray of sunshine",
+    "explanation_en": "said of a person who brings happiness"
+  },
+  {
+    "ID": "43",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "hang on someone's lips",
+    "explanation_en": "listen very carefully to someone's words"
+  },
+  {
+    "ID": "45",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "hit rock bottom",
+    "explanation_en": "have reached the worst situation imaginable"
+  },
+  {
+    "ID": "46",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be a dead ringer for someone",
+    "explanation_en": "look a lot like someone"
+  },
+  {
+    "ID": "47",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be full of holes",
+    "explanation_en": "said of something that has many flaws"
+  },
+  {
+    "ID": "48",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "break someone's heart",
+    "explanation_en": "make someone suffer"
+  },
+  {
+    "ID": "49",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be the last straw",
+    "explanation_en": "said of the latest in a series of unpleasant events that leads to no longer tolerating a situation"
+  },
+  {
+    "ID": "50",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be fit as a fiddle",
+    "explanation_en": "be in perfect physical condition"
+  },
+  {
+    "ID": "51",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "lose your head",
+    "explanation_en": "go crazy"
+  },
+  {
+    "ID": "52",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be on top of the world",
+    "explanation_en": "feel very happy"
+  },
+  {
+    "ID": "53",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "bite someone's head off",
+    "explanation_en": "verbally attack someone"
+  },
+  {
+    "ID": "54",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "hold the whip hand",
+    "explanation_en": "be in an advantageous position"
+  },
+  {
+    "ID": "55",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be an old flame",
+    "explanation_en": "said of a former lover"
+  },
+  {
+    "ID": "56",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "have two left feet",
+    "explanation_en": "be lacking in agility"
+  },
+  {
+    "ID": "57",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "have something down to a fine art",
+    "explanation_en": "do something in the best way possible"
+  },
+  {
+    "ID": "58",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be in the dark",
+    "explanation_en": "not being aware"
+  },
+  {
+    "ID": "59",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be on the same page",
+    "explanation_en": "agree with someone"
+  },
+  {
+    "ID": "60",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "get someone's goat",
+    "explanation_en": "make someone angry"
+  },
+  {
+    "ID": "61",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be green with envy",
+    "explanation_en": "be unhappy because someone possesses something that you want"
+  },
+  {
+    "ID": "62",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "have broad shoulders",
+    "explanation_en": "be a morally strong person"
+  },
+  {
+    "ID": "63",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be a feather in one’s cap",
+    "explanation_en": "said of something that is matter of pride"
+  },
+  {
+    "ID": "64",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "go through the mill",
+    "explanation_en": "experience many vicissitudes"
+  },
+  {
+    "ID": "65",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "spill the beans",
+    "explanation_en": "confess a secret"
+  },
+  {
+    "ID": "66",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "twiddle one's thumbs",
+    "explanation_en": "do nothing"
+  },
+  {
+    "ID": "67",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "get wind of something",
+    "explanation_en": "become aware of confidential information"
+  },
+  {
+    "ID": "68",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "buy time",
+    "explanation_en": "stall"
+  },
+  {
+    "ID": "69",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "need fresh blood",
+    "explanation_en": "need new members within an organization"
+  },
+  {
+    "ID": "70",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be bad blood between someone",
+    "explanation_en": "said of when there is no good relationship between two or more people"
+  },
+  {
+    "ID": "71",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "put your foot down",
+    "explanation_en": "persist"
+  },
+  {
+    "ID": "72",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "hit the bottle",
+    "explanation_en": "drink a lot of alcohol"
+  },
+  {
+    "ID": "73",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "break the ice",
+    "explanation_en": "overcome awkwardness"
+  },
+  {
+    "ID": "74",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be a sucker for someone or something",
+    "explanation_en": "prefer someone or something"
+  },
+  {
+    "ID": "75",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be out of the picture",
+    "explanation_en": "not be involved in something"
+  },
+  {
+    "ID": "76",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "get your head down",
+    "explanation_en": "work with commitment"
+  },
+  {
+    "ID": "77",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "turn tail",
+    "explanation_en": "leave"
+  },
+  {
+    "ID": "78",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "put your oar in something",
+    "explanation_en": "intervene in something even if not asked to do so"
+  },
+  {
+    "ID": "79",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "chew the fat",
+    "explanation_en": "chat leisurely"
+  },
+  {
+    "ID": "80",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be in the lion's den",
+    "explanation_en": "be in a threatening situation"
+  },
+  {
+    "ID": "81",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be behind bars",
+    "explanation_en": "be in prison"
+  },
+  {
+    "ID": "82",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "win hands down",
+    "explanation_en": "get a victory very easily"
+  },
+  {
+    "ID": "83",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be hot air",
+    "explanation_en": "said of useless talk"
+  },
+  {
+    "ID": "84",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "shut the door on someone",
+    "explanation_en": "reject someone"
+  },
+  {
+    "ID": "85",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "hum and haw",
+    "explanation_en": "hesitate"
+  },
+  {
+    "ID": "86",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "put one’s light out",
+    "explanation_en": "knock someone unconscious"
+  },
+  {
+    "ID": "87",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "take the bull by the horns",
+    "explanation_en": "address a problematic situation head-on"
+  },
+  {
+    "ID": "88",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "go down the tubes",
+    "explanation_en": "fail"
+  },
+  {
+    "ID": "89",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "pick up the pieces",
+    "explanation_en": "return to a better condition after a crisis"
+  },
+  {
+    "ID": "90",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "pull the plug",
+    "explanation_en": "interrupt an activity"
+  },
+  {
+    "ID": "91",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be a basket case",
+    "explanation_en": "be in poor condition"
+  },
+  {
+    "ID": "92",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "get to the bottom of something",
+    "explanation_en": "find an explanation for something"
+  },
+  {
+    "ID": "93",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "get up someone's nose",
+    "explanation_en": "annoy someone"
+  },
+  {
+    "ID": "94",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "fit like a glove",
+    "explanation_en": "said of something that suits perfectly"
+  },
+  {
+    "ID": "95",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "go through the wringer",
+    "explanation_en": "suffer a lot"
+  },
+  {
+    "ID": "96",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be back to square one",
+    "explanation_en": "have to start over"
+  },
+  {
+    "ID": "97",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "drive someone up the wall",
+    "explanation_en": "make someone angry"
+  },
+  {
+    "ID": "98",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be under someone's feet",
+    "explanation_en": "be an impediment to someone"
+  },
+  {
+    "ID": "99",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "hold down the fort",
+    "explanation_en": "have responsibility for something while someone is absent"
+  },
+  {
+    "ID": "100",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "drown one's sorrows",
+    "explanation_en": "try to forget problems by drinking alcohol"
+  },
+  {
+    "ID": "101",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be off the mark",
+    "explanation_en": "be wrong"
+  },
+  {
+    "ID": "102",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "read between the lines",
+    "explanation_en": "intuit what is implied"
+  },
+  {
+    "ID": "103",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "die for someone or something",
+    "explanation_en": "long for someone or something"
+  },
+  {
+    "ID": "104",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "have one's hands tied",
+    "explanation_en": "not be able to act"
+  },
+  {
+    "ID": "105",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "do something behind closed doors",
+    "explanation_en": "do something in private"
+  },
+  {
+    "ID": "106",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "go against the grain",
+    "explanation_en": "behave in the opposite way to the majority"
+  },
+  {
+    "ID": "107",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "spread your wings",
+    "explanation_en": "have new experiences"
+  },
+  {
+    "ID": "108",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "recharge your batteries",
+    "explanation_en": "rest"
+  },
+  {
+    "ID": "109",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "lose the plot",
+    "explanation_en": "no longer have control"
+  },
+  {
+    "ID": "110",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "walk all over someone",
+    "explanation_en": "overpower someone"
+  },
+  {
+    "ID": "111",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "see the light of day",
+    "explanation_en": "be born"
+  },
+  {
+    "ID": "112",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "do sth behind someone's back",
+    "explanation_en": "do something without someone's knowledge"
+  },
+  {
+    "ID": "113",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "do a number on someone",
+    "explanation_en": "be unfair to someone"
+  },
+  {
+    "ID": "114",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "give someone the willies",
+    "explanation_en": "scare someone"
+  },
+  {
+    "ID": "115",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "wrap someone around your little finger",
+    "explanation_en": "have control over someone"
+  },
+  {
+    "ID": "116",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "pull someone's leg",
+    "explanation_en": "tease someone"
+  },
+  {
+    "ID": "117",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "point the finger",
+    "explanation_en": "accuse"
+  },
+  {
+    "ID": "118",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "cook one’s goose",
+    "explanation_en": "ruin someone's plans"
+  },
+  {
+    "ID": "119",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "make a splash",
+    "explanation_en": "arouse considerable impression"
+  },
+  {
+    "ID": "120",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be on the ball",
+    "explanation_en": "be responsive"
+  },
+  {
+    "ID": "121",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "jump on the bandwagon",
+    "explanation_en": "join with other people to do or support something just because it is popular"
+  },
+  {
+    "ID": "122",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "do something in cold blood",
+    "explanation_en": "do something consciously"
+  },
+  {
+    "ID": "123",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "have writer’s block",
+    "explanation_en": "not be able to write"
+  },
+  {
+    "ID": "124",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be a shot in the arm",
+    "explanation_en": "said of something that gives an immediate positive stimulus"
+  },
+  {
+    "ID": "125",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "talk to a brick wall",
+    "explanation_en": "waste words on those who won't listen"
+  },
+  {
+    "ID": "126",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "make one's blood boil",
+    "explanation_en": "make someone angry"
+  },
+  {
+    "ID": "127",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be with bated breath",
+    "explanation_en": "wait anxiously"
+  },
+  {
+    "ID": "128",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "run for the hills",
+    "explanation_en": "rush away"
+  },
+  {
+    "ID": "129",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be out of this world",
+    "explanation_en": "said of something that is excellent"
+  },
+  {
+    "ID": "130",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "force someone's hand",
+    "explanation_en": "force someone to do something"
+  },
+  {
+    "ID": "131",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be the bomb",
+    "explanation_en": "said of something that is very much liked"
+  },
+  {
+    "ID": "132",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "follow one’s nose",
+    "explanation_en": "follow your intuition"
+  },
+  {
+    "ID": "133",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "take someone to the cleaners",
+    "explanation_en": "rob someone"
+  },
+  {
+    "ID": "134",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be in someone's blood",
+    "explanation_en": "said of a natural talent"
+  },
+  {
+    "ID": "135",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "jump through hoops",
+    "explanation_en": "make great efforts"
+  },
+  {
+    "ID": "136",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be a slow burn",
+    "explanation_en": "said of a feeling that gradually increases"
+  },
+  {
+    "ID": "137",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "show one's true colors",
+    "explanation_en": "reveal your intentions"
+  },
+  {
+    "ID": "138",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "reach the end of one's rope",
+    "explanation_en": "have exhausted every resource"
+  },
+  {
+    "ID": "139",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "fly off the handle",
+    "explanation_en": "get angry"
+  },
+  {
+    "ID": "140",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "beat around the bush",
+    "explanation_en": "procrastinate"
+  },
+  {
+    "ID": "141",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "put words into someone's mouth",
+    "explanation_en": "attribute opinions to someone"
+  },
+  {
+    "ID": "142",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be someone's better half",
+    "explanation_en": "said of the person with whom one has a romantic relationship"
+  },
+  {
+    "ID": "143",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "be dead on one’s feet",
+    "explanation_en": "be very tired"
+  },
+  {
+    "ID": "144",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "take the floor",
+    "explanation_en": "intervene in a discussion"
+  },
+  {
+    "ID": "145",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "throw in the towel",
+    "explanation_en": "surrender"
+  },
+  {
+    "ID": "146",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "tug at someone's heartstrings",
+    "explanation_en": "get someone emotional"
+  },
+  {
+    "ID": "147",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "ruffle someone's feathers",
+    "explanation_en": "make someone angry"
+  },
+  {
+    "ID": "148",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "hit the mark",
+    "explanation_en": "succeed in something"
+  },
+  {
+    "ID": "149",
+    "source": "Pagliai",
+    "language": "en",
+    "proverb": "rock the boat",
+    "explanation_en": "disturb the stability of a situation"
+  }
+]

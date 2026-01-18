@@ -1,0 +1,5742 @@
+[
+  {
+    "ID": "1",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "abbitte leisten",
+    "explanation_en": "to ask for pardon, make amends"
+  },
+  {
+    "ID": "2",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "um den heißen brei herumreden",
+    "explanation_en": "speaking avoiding the main topic"
+  },
+  {
+    "ID": "3",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ach was!",
+    "explanation_en": "of course not!"
+  },
+  {
+    "ID": "4",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "da kannst du gift drauf nehmen",
+    "explanation_en": "absolutely ​certain about truth of something"
+  },
+  {
+    "ID": "5",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "alle jubeljahre",
+    "explanation_en": "something happening seldom"
+  },
+  {
+    "ID": "6",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "etwas in einem aufwasch erledigen",
+    "explanation_en": "to solve two problem through one action"
+  },
+  {
+    "ID": "7",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "alles grau in grau malen",
+    "explanation_en": "to be pessimistic"
+  },
+  {
+    "ID": "8",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "den nagel auf den kopf treffen",
+    "explanation_en": "to do something exactly correct"
+  },
+  {
+    "ID": "9",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "andere länder, andere sitten.",
+    "explanation_en": "respect the beliefs and practices of a local culture"
+  },
+  {
+    "ID": "10",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "jdm die daumen drucken",
+    "explanation_en": "to hope that good things happen in according to thinking or praying"
+  },
+  {
+    "ID": "11",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "arbeit macht das leben süß.",
+    "explanation_en": "one should expect to do hard or difficult work and not avoid doing it."
+  },
+  {
+    "ID": "12",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "auf biegen oder brechen",
+    "explanation_en": "by any means possible, in one way or another."
+  },
+  {
+    "ID": "13",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "auf den beinen sein",
+    "explanation_en": "standing up again after a fall."
+  },
+  {
+    "ID": "14",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "auf die beine kommen",
+    "explanation_en": "standing up again after a fall."
+  },
+  {
+    "ID": "15",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "auf die pauke hauen",
+    "explanation_en": "to go on a drinking bout; to get drunk."
+  },
+  {
+    "ID": "16",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "auf draht sein",
+    "explanation_en": "to be smart"
+  },
+  {
+    "ID": "17",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "auf eigene faust",
+    "explanation_en": "by or through one's individual efforts or means"
+  },
+  {
+    "ID": "18",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "auf gut glück",
+    "explanation_en": "on the off chance"
+  },
+  {
+    "ID": "19",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "aufs ganze gehen",
+    "explanation_en": "to go all out"
+  },
+  {
+    "ID": "20",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "aufs tote gleis kommen",
+    "explanation_en": "to come to a dead end"
+  },
+  {
+    "ID": "21",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "aus dem gröbsten heraus sein",
+    "explanation_en": "something which makes you believe that a difficult or unpleasant situation will end"
+  },
+  {
+    "ID": "22",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "aus den augen, aus dem sinn.",
+    "explanation_en": "if you do not see someone or something frequently, you will forget about it."
+  },
+  {
+    "ID": "23",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "aus einer mücke einen elefanten machen",
+    "explanation_en": "to exaggerate the importance of something."
+  },
+  {
+    "ID": "24",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "bei ihm ist hopfen und malz verloren.",
+    "explanation_en": "he's such a loser."
+  },
+  {
+    "ID": "25",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "bei ihm rieselt schon der kalk.",
+    "explanation_en": "he's losing his marbles."
+  },
+  {
+    "ID": "26",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "beim bart des propheten!",
+    "explanation_en": "something you say in order to emphasize that you are telling the truth"
+  },
+  {
+    "ID": "27",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "bekannt wie ein bunter hund",
+    "explanation_en": "well known"
+  },
+  {
+    "ID": "28",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "bellende hunde beißen nicht.",
+    "explanation_en": "who talks a lot, shouts, threatens, generally does nothing."
+  },
+  {
+    "ID": "29",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "bis in die puppen",
+    "explanation_en": "when something is taking a long time"
+  },
+  {
+    "ID": "30",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "blass vor neid sein",
+    "explanation_en": "wishing very much that you had what someone else has"
+  },
+  {
+    "ID": "31",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "blau machen",
+    "explanation_en": "to skip school/work"
+  },
+  {
+    "ID": "32",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "borgen macht sorgen.",
+    "explanation_en": "it is difficult to be friends with someone who owes you money or with someone to whom you owe something"
+  },
+  {
+    "ID": "33",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "böses im schilde führen",
+    "explanation_en": "be up to no good"
+  },
+  {
+    "ID": "34",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "da bist du auf dem holzweg.",
+    "explanation_en": "looking in the wrong place. accusing the wrong person"
+  },
+  {
+    "ID": "35",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "da liegt der hund begraben.",
+    "explanation_en": "the focal, central, or most important element of a topic, problem, or issue."
+  },
+  {
+    "ID": "36",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "da wo selbst der kaiser zu fuß hingeht.",
+    "explanation_en": "the bathroom"
+  },
+  {
+    "ID": "37",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "danach kräht kein hahn mehr.",
+    "explanation_en": "no one gives a hoot about that anymore."
+  },
+  {
+    "ID": "38",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das a und o",
+    "explanation_en": "the most important thing"
+  },
+  {
+    "ID": "39",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das dicke ende kommt noch.",
+    "explanation_en": "the worst is yet to come."
+  },
+  {
+    "ID": "40",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ei des kolumbus",
+    "explanation_en": "just the thing, a simple solution to a seemingly difficult problem"
+  },
+  {
+    "ID": "41",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ei will klüger als die henne sein.",
+    "explanation_en": "don't think you're smarter than your elders."
+  },
+  {
+    "ID": "42",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das eisen schmieden, so lange es heiß ist.",
+    "explanation_en": "when you have an opportunity to do something, do it before you lose your chance."
+  },
+  {
+    "ID": "43",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ende vom lied",
+    "explanation_en": "the most important fact in a situation"
+  },
+  {
+    "ID": "44",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das geht auf keine kuhhaut!",
+    "explanation_en": "that's absolutlely incredible."
+  },
+  {
+    "ID": "45",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das hält ja kein pferd aus.",
+    "explanation_en": "that's more than flesh and blood can stand."
+  },
+  {
+    "ID": "46",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das hast du dir selbst eingebrockt.",
+    "explanation_en": "you got yourself into this mess."
+  },
+  {
+    "ID": "47",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ist alles für die katz.",
+    "explanation_en": "trivial; worthless; only of interest to gullible people."
+  },
+  {
+    "ID": "48",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ist eine brotlose kunst.",
+    "explanation_en": "there's no money in it."
+  },
+  {
+    "ID": "49",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ist gehüpft wie gesprungen.",
+    "explanation_en": "it doesn't make a difference."
+  },
+  {
+    "ID": "50",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ist jacke wie hose.",
+    "explanation_en": "it doesn't make a difference."
+  },
+  {
+    "ID": "51",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ist keine kunst.",
+    "explanation_en": "it's like taking candy from a baby."
+  },
+  {
+    "ID": "52",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ist mein bier!",
+    "explanation_en": "that's my business!"
+  },
+  {
+    "ID": "53",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ist nicht dein bier!",
+    "explanation_en": "none of your business!"
+  },
+  {
+    "ID": "54",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ist nicht mein fall.",
+    "explanation_en": "that's not my cup of tea."
+  },
+  {
+    "ID": "55",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das ist schnee von gestern.",
+    "explanation_en": "that's old news."
+  },
+  {
+    "ID": "56",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das kommt mir spanisch vor.",
+    "explanation_en": "something that is not clear for anyone without meaning"
+  },
+  {
+    "ID": "57",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das liegt auf der hand.",
+    "explanation_en": "that's obvious."
+  },
+  {
+    "ID": "58",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das passt wie die faust aufs auge.",
+    "explanation_en": "to be a perfect match"
+  },
+  {
+    "ID": "59",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das sind mir böhmische dörfer.",
+    "explanation_en": "something that is not clear for anyone without meaning"
+  },
+  {
+    "ID": "60",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das sind ungelegte eier.",
+    "explanation_en": "we'll cross that bridge when we come to it."
+  },
+  {
+    "ID": "61",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das steht auf einem anderen blatt.",
+    "explanation_en": "that's another story."
+  },
+  {
+    "ID": "62",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das wird nicht so heiß gegessen wie gekocht.",
+    "explanation_en": "it's not as bad as it seems."
+  },
+  {
+    "ID": "63",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "das wird sich alles finden.",
+    "explanation_en": "everything will turn out alright."
+  },
+  {
+    "ID": "64",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "daumen drehen",
+    "explanation_en": "be bored or idle"
+  },
+  {
+    "ID": "65",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "daumen drücken!",
+    "explanation_en": "to wish or pray for something or someone"
+  },
+  {
+    "ID": "66",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "den karren in den dreck fahren",
+    "explanation_en": "to make a mess of things"
+  },
+  {
+    "ID": "67",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "der apfel fällt nicht weit vom stamm.",
+    "explanation_en": "kids are like their parents"
+  },
+  {
+    "ID": "68",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "der fisch stinkt vom kopf her.",
+    "explanation_en": "the problems start at the top."
+  },
+  {
+    "ID": "69",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "der groschen ist gefallen",
+    "explanation_en": "to get it something"
+  },
+  {
+    "ID": "70",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "der haussegen hängt schief",
+    "explanation_en": "the marriage is in trouble"
+  },
+  {
+    "ID": "71",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "der karren steckt im dreck.",
+    "explanation_en": "things/they are really in a mess."
+  },
+  {
+    "ID": "72",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "der krug geht so lange zum brunnen, bis er bricht.",
+    "explanation_en": "one day you'll take it too far."
+  },
+  {
+    "ID": "73",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "die axt im haus erspart den zimmermann.",
+    "explanation_en": "an axe in the house keeps the carpenter away."
+  },
+  {
+    "ID": "74",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "die büchse der pandora öffnen",
+    "explanation_en": "a source of unforeseen trouble"
+  },
+  {
+    "ID": "75",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "die kirche im dorf lassen",
+    "explanation_en": "to not get carried away"
+  },
+  {
+    "ID": "76",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "die sache hat ein aber.",
+    "explanation_en": "there's a catch"
+  },
+  {
+    "ID": "77",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "die sache hat einen haken.",
+    "explanation_en": "there's a catch."
+  },
+  {
+    "ID": "78",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "dir haben sie wohl etwas in den kaffee getan.",
+    "explanation_en": "you've got to be joking/kidding."
+  },
+  {
+    "ID": "79",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "dreck am stecken haben",
+    "explanation_en": "to hidden and shocking secret"
+  },
+  {
+    "ID": "80",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "du flasche!",
+    "explanation_en": "you loser!"
+  },
+  {
+    "ID": "81",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "dumm wie bohnenstroh",
+    "explanation_en": "one person very stupid"
+  },
+  {
+    "ID": "82",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "dumm wie brot",
+    "explanation_en": "one person very stupid"
+  },
+  {
+    "ID": "83",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "dumm wie eine gans",
+    "explanation_en": "one person very stupid"
+  },
+  {
+    "ID": "84",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "dümmer als die polizei erlaubt",
+    "explanation_en": "as dumb as it gets"
+  },
+  {
+    "ID": "85",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ehre, wem ehre gebührt",
+    "explanation_en": "acknowledge someone's contribution or ability"
+  },
+  {
+    "ID": "86",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "eigenlob stinkt.",
+    "explanation_en": "to brag about one's own talents."
+  },
+  {
+    "ID": "87",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "eile mit weile.",
+    "explanation_en": "you do not save any time by working too fast; hurrying will cause you to make mistakes, and you will have to take extra time to do the job over again."
+  },
+  {
+    "ID": "88",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ein haar in der suppe",
+    "explanation_en": "something to complain about"
+  },
+  {
+    "ID": "89",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ein herz und eine seele sein",
+    "explanation_en": "to be the best of friends"
+  },
+  {
+    "ID": "90",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ein katzensprung",
+    "explanation_en": "a very short distance"
+  },
+  {
+    "ID": "91",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ein mann vom fach",
+    "explanation_en": "an expert"
+  },
+  {
+    "ID": "92",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ein mann, ein wort.",
+    "explanation_en": "a promise is a promise."
+  },
+  {
+    "ID": "93",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ein unglück kommt selten allein.",
+    "explanation_en": "bad things tend to happen in groups."
+  },
+  {
+    "ID": "94",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "eine fährte verfolgen",
+    "explanation_en": "to follow a lead"
+  },
+  {
+    "ID": "95",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "eine grimasse schneiden",
+    "explanation_en": "to make a face"
+  },
+  {
+    "ID": "96",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "eine hand wäscht die andere.",
+    "explanation_en": "if someone does you a favor, you should do a favor for that person in return"
+  },
+  {
+    "ID": "97",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "einem geschenkten gaul schaut man nicht ins maul.",
+    "explanation_en": "to be ungrateful to someone who gives you something"
+  },
+  {
+    "ID": "98",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "einen abbeißen",
+    "explanation_en": "to have a drink"
+  },
+  {
+    "ID": "99",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "einen guten draht zu jemandem haben",
+    "explanation_en": "to be on good terms with someone"
+  },
+  {
+    "ID": "100",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "einen langen bart haben",
+    "explanation_en": "something is very old"
+  },
+  {
+    "ID": "101",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "einen schönen bockmist machen",
+    "explanation_en": "to make a holy mess"
+  },
+  {
+    "ID": "102",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "einen vogel haben",
+    "explanation_en": "to be nuts"
+  },
+  {
+    "ID": "103",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "einen ziemlichen bockmist verzapfen",
+    "explanation_en": "to come out with a load of bull"
+  },
+  {
+    "ID": "104",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "eintracht nährt, unfriede verzehrt.",
+    "explanation_en": "people who join together as a group are much harder to defeat than they would be separately."
+  },
+  {
+    "ID": "105",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "er hat das pulver nicht gerade erfunden.",
+    "explanation_en": "he's not the sharpest tool in the shed."
+  },
+  {
+    "ID": "106",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "er ist kein unbeschriebenes blatt.",
+    "explanation_en": "he has a (criminal) record."
+  },
+  {
+    "ID": "107",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "es hofft der mensch so lang er lebt.",
+    "explanation_en": "as long as you are alive, you should be hopeful, because it is possible that your situation will improve."
+  },
+  {
+    "ID": "108",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "es ist kein baum, der nicht zuvor ein sträuchlein gewesen.",
+    "explanation_en": "great things start with small beginnings."
+  },
+  {
+    "ID": "109",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "es ist nicht alles gold, was glänzt.",
+    "explanation_en": "just because something looks attractive does not mean it is genuine or valuable."
+  },
+  {
+    "ID": "110",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "es ist noch kein meister vom himmel gefallen.",
+    "explanation_en": "you can't always expect to get it right the first time."
+  },
+  {
+    "ID": "111",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "etwas auf die lange bank schieben",
+    "explanation_en": "to put something off"
+  },
+  {
+    "ID": "112",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "etwas aus dem ärmel schütteln",
+    "explanation_en": "to pull something out of a hat"
+  },
+  {
+    "ID": "113",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "etwas mit den füßen treten",
+    "explanation_en": "to treat something with contempt"
+  },
+  {
+    "ID": "114",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "farbe bedienen",
+    "explanation_en": "to follow suit"
+  },
+  {
+    "ID": "115",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "farbe bekennen",
+    "explanation_en": "to come clean"
+  },
+  {
+    "ID": "116",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "fix und fertig sein",
+    "explanation_en": "to reach the lowest possible level or be in the worst possible situation"
+  },
+  {
+    "ID": "117",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "gebranntes kind scheut das feuer.",
+    "explanation_en": "when something or someone has hurt you once, you tend to avoid that thing or person"
+  },
+  {
+    "ID": "118",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "gedrängt wie die sardinen",
+    "explanation_en": "someplace too much crowded"
+  },
+  {
+    "ID": "119",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "geld wie heu haben",
+    "explanation_en": "to have lot's of money"
+  },
+  {
+    "ID": "120",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "gleich und gleich gesellt sich gern.",
+    "explanation_en": "similar people tend to associate with each other"
+  },
+  {
+    "ID": "121",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "glück im unglück",
+    "explanation_en": "good luck in misfortune"
+  },
+  {
+    "ID": "122",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "grottenschlecht",
+    "explanation_en": "the worst of the worst"
+  },
+  {
+    "ID": "123",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "hahn im korb sein",
+    "explanation_en": "be one who dominates a group/situation"
+  },
+  {
+    "ID": "124",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "hals über kopf",
+    "explanation_en": "to be joyful when you are especially in love"
+  },
+  {
+    "ID": "125",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "hals und beinbruch!",
+    "explanation_en": "good luck! ironic way"
+  },
+  {
+    "ID": "126",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "hinter den kulissen",
+    "explanation_en": "without receiving credit or fame; out of public view."
+  },
+  {
+    "ID": "127",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "hör mal zu!",
+    "explanation_en": "to requestion attention"
+  },
+  {
+    "ID": "128",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "hüte deine zunge!",
+    "explanation_en": "watch what you say!"
+  },
+  {
+    "ID": "129",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ich bin keine kuh, die man melken kann.",
+    "explanation_en": "something that you say in order to tell someone who asks you for money that you do not have very much"
+  },
+  {
+    "ID": "130",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ich fresse einen besen, wenn...",
+    "explanation_en": "i will be very surprised. (used to express strong disbelief in something.)"
+  },
+  {
+    "ID": "131",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ich habe die elster vernommen, es werden gäste kommen.",
+    "explanation_en": "company's coming."
+  },
+  {
+    "ID": "132",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "ich lasse mir keine grauen haare darüber wachsen.",
+    "explanation_en": "to worry about someone or something a lot"
+  },
+  {
+    "ID": "133",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "im eimer",
+    "explanation_en": "to waste or lose something"
+  },
+  {
+    "ID": "134",
+    "source": "LIdioms",
+    "language": "de",
+    "proverb": "zwei fliegen mit einer klappe schlagen",
+    "explanation_en": "To solve two problems with unique action"
+  },
+  {
+    "ID": "135",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "a short fuse",
+    "explanation_en": "a quick temper"
+  },
+  {
+    "ID": "136",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "jack of all trades",
+    "explanation_en": "someone that can do many different jobs."
+  },
+  {
+    "ID": "137",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "a shot in the dark",
+    "explanation_en": "a wild guess; an attempt to do something when there is little chance of success"
+  },
+  {
+    "ID": "138",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "you can bet your life on that",
+    "explanation_en": "completely ​certain that something is ​true or will ​happen"
+  },
+  {
+    "ID": "139",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "actions speak louder than words",
+    "explanation_en": "people's intentions can be judged better by what they do than what they say."
+  },
+  {
+    "ID": "140",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "add insult to injury",
+    "explanation_en": "make a bad situation even worse"
+  },
+  {
+    "ID": "141",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "it's greek to me.",
+    "explanation_en": "meaningless and incomprehensible"
+  },
+  {
+    "ID": "142",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "all in the same boat",
+    "explanation_en": "when everyone is facing the same challenges"
+  },
+  {
+    "ID": "143",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "arm and a leg",
+    "explanation_en": "very expensive; a large amount of money"
+  },
+  {
+    "ID": "144",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "at the drop of a hat",
+    "explanation_en": "willing to do something immediately, on the slightest signal or urging"
+  },
+  {
+    "ID": "145",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "back to square one",
+    "explanation_en": "having to start all over again"
+  },
+  {
+    "ID": "146",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "back to the drawing board",
+    "explanation_en": "when an attempt fails and it's time to start all over"
+  },
+  {
+    "ID": "147",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "be glad to see the back of",
+    "explanation_en": "be happy when a person leaves."
+  },
+  {
+    "ID": "148",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "beat a dead horse",
+    "explanation_en": "to force an issue that has already ended"
+  },
+  {
+    "ID": "149",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "beat around the bush",
+    "explanation_en": "avoiding the main topic"
+  },
+  {
+    "ID": "150",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "beck and call",
+    "explanation_en": "to serve anyone or fulfill any wish."
+  },
+  {
+    "ID": "151",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "behind the times",
+    "explanation_en": "old-fashioned"
+  },
+  {
+    "ID": "152",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "bet your bottom dollar",
+    "explanation_en": "absolutely sure about something or someone"
+  },
+  {
+    "ID": "153",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "bite off more than you can chew",
+    "explanation_en": "to take on a task that is way too big."
+  },
+  {
+    "ID": "154",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "bite your tongue",
+    "explanation_en": "to stop yourself from saying something that you would really like to say"
+  },
+  {
+    "ID": "155",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "blessing in disguise",
+    "explanation_en": "something good that isn't recognized at first"
+  },
+  {
+    "ID": "156",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "bonehead",
+    "explanation_en": "a stupid person"
+  },
+  {
+    "ID": "157",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "bored to death",
+    "explanation_en": "extremely unhappy because something is not interesting or because you have nothing to do"
+  },
+  {
+    "ID": "158",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "brass monkey weather",
+    "explanation_en": "extremely cold weather"
+  },
+  {
+    "ID": "159",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "break the ice",
+    "explanation_en": "to break initial awkwardness and start conversation"
+  },
+  {
+    "ID": "160",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "butterflies in my stomach",
+    "explanation_en": "to be nervous"
+  },
+  {
+    "ID": "161",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "buy a lemon",
+    "explanation_en": "to buy a car that constantly gives problems soon after being purchased"
+  },
+  {
+    "ID": "162",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "by the book",
+    "explanation_en": "following the rules literally"
+  },
+  {
+    "ID": "163",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "call it a night",
+    "explanation_en": "to stop an activity for the rest of the night"
+  },
+  {
+    "ID": "164",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "can't judge a book by its cover",
+    "explanation_en": "cannot judge something primarily on appearance."
+  },
+  {
+    "ID": "165",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "cat got your tongue?",
+    "explanation_en": "can’t you speak? (usually said to embarrass the other person)"
+  },
+  {
+    "ID": "166",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "catch 22",
+    "explanation_en": "a paradoxical situation from which an individual cannot escape because of contradictory rules"
+  },
+  {
+    "ID": "167",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "fall between two stools",
+    "explanation_en": "to fail because of an inability to reconcile or choose between two courses of action."
+  },
+  {
+    "ID": "168",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "come a long way",
+    "explanation_en": "make a lot of progress and improvement"
+  },
+  {
+    "ID": "169",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "cross that bridge when you come to it",
+    "explanation_en": "deal with a problem if and when it becomes necessary, not before."
+  },
+  {
+    "ID": "170",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "cry over spilt milk",
+    "explanation_en": "when you complain about a loss that cannot be recovered"
+  },
+  {
+    "ID": "171",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "cut corners",
+    "explanation_en": "to do something in the fastest or cheapest way"
+  },
+  {
+    "ID": "172",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "cut it out!",
+    "explanation_en": "stop doing something bad"
+  },
+  {
+    "ID": "173",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "cut the mustard",
+    "explanation_en": "to succeed; to come up to expectations; adequate enough to compete or participate"
+  },
+  {
+    "ID": "174",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "cut to the chase",
+    "explanation_en": "leave out unnecessary details and just get to the point"
+  },
+  {
+    "ID": "175",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "devil's advocate",
+    "explanation_en": "one who takes a contrary position just for the sake of argument"
+  },
+  {
+    "ID": "176",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "don't put all your eggs in one basket",
+    "explanation_en": "do not put all your resources in one possibility."
+  },
+  {
+    "ID": "177",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "elvis has left the building",
+    "explanation_en": "the show has come to an end. it's all over."
+  },
+  {
+    "ID": "178",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "far cry from",
+    "explanation_en": "very different from."
+  },
+  {
+    "ID": "179",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "feeling a bit under the weather",
+    "explanation_en": "feeling slightly ill"
+  },
+  {
+    "ID": "180",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "finding a needle in a haystack",
+    "explanation_en": "virtually impossible to find"
+  },
+  {
+    "ID": "181",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "from the horse's mouth",
+    "explanation_en": "to hear something directly from the authoritative or dependable source"
+  },
+  {
+    "ID": "182",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "get over it",
+    "explanation_en": "to move beyond something that is bothering you"
+  },
+  {
+    "ID": "183",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "good samaritan",
+    "explanation_en": "one who helps others when they are in need, with no thought of a reward"
+  },
+  {
+    "ID": "184",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "have an ax to grind",
+    "explanation_en": "to have something to complain about; to have a selfish reason for saying or doing something; to have a strong opinion about something that influences your actions"
+  },
+  {
+    "ID": "185",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "head over heels",
+    "explanation_en": "very excited and/or joyful, especially when in love"
+  },
+  {
+    "ID": "186",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "hear it on the grapevine",
+    "explanation_en": "receive information indirectly, similar to a rumor"
+  },
+  {
+    "ID": "187",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "high five",
+    "explanation_en": "slapping palms above each others heads as celebration gesture"
+  },
+  {
+    "ID": "188",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "hit the books",
+    "explanation_en": "to study; prepare for class"
+  },
+  {
+    "ID": "189",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "hit the nail on the head",
+    "explanation_en": "do something or say something exactly right"
+  },
+  {
+    "ID": "190",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "hit the sack / sheets / hay",
+    "explanation_en": "to go to bed."
+  },
+  {
+    "ID": "191",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "hocus pocus",
+    "explanation_en": "in general, a term used in magic or trickery and also : meaningless talk or activity, often designed to draw attention away from and disguise what is actually happening; trickery"
+  },
+  {
+    "ID": "192",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "hot potato",
+    "explanation_en": "something that is difficult or dangerous to deal with"
+  },
+  {
+    "ID": "193",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "hot water",
+    "explanation_en": "in trouble; in difficulties"
+  },
+  {
+    "ID": "194",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "in ages",
+    "explanation_en": "for a very long time"
+  },
+  {
+    "ID": "195",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "in the blink of an eye",
+    "explanation_en": "in an extremely short time"
+  },
+  {
+    "ID": "196",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "in the fast lane",
+    "explanation_en": "a life filled with excitement"
+  },
+  {
+    "ID": "197",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "it's a small world",
+    "explanation_en": "something you say when encountering a familiar person in an unexpected place."
+  },
+  {
+    "ID": "198",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "juggle frogs",
+    "explanation_en": "you are trying to do something very difficult."
+  },
+  {
+    "ID": "199",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "keep something at bay",
+    "explanation_en": "keep something away."
+  },
+  {
+    "ID": "200",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "keep your eye on the ball",
+    "explanation_en": "paying close attention and understanding the situation well"
+  },
+  {
+    "ID": "201",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "kick the bucket",
+    "explanation_en": "to die"
+  },
+  {
+    "ID": "202",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "kill two birds with one stone",
+    "explanation_en": "accomplish two tasks with only one effort"
+  },
+  {
+    "ID": "203",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "lend a hand",
+    "explanation_en": "to help; to give assistance"
+  },
+  {
+    "ID": "204",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "let sleeping dogs lie",
+    "explanation_en": "to avoid restarting a conflict"
+  },
+  {
+    "ID": "205",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "let the cat out of the bag",
+    "explanation_en": "a secret or some hidden information has been revealed"
+  },
+  {
+    "ID": "206",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "long shot",
+    "explanation_en": "something you try although it is unlikely to be successful"
+  },
+  {
+    "ID": "207",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "long time, no see!",
+    "explanation_en": "an expression used to greet someone who you have not seen for a long time"
+  },
+  {
+    "ID": "208",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "look like a million dollars",
+    "explanation_en": "to be very well dressed; to look great"
+  },
+  {
+    "ID": "209",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "loose cannon",
+    "explanation_en": "someone whose actions (especially speech) are unpredictable and uncontrollable"
+  },
+  {
+    "ID": "210",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "lose your head",
+    "explanation_en": "to become upset, confused or overly emotional about something"
+  },
+  {
+    "ID": "211",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "lose your shirt",
+    "explanation_en": "lose all their money through a bad investment, gambling,"
+  },
+  {
+    "ID": "212",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "make a long story short",
+    "explanation_en": "come to the point - leave out details"
+  },
+  {
+    "ID": "213",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "method to my madness",
+    "explanation_en": "an assertion that, despite one's approach seeming random, there actually is structure to it."
+  },
+  {
+    "ID": "214",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "miss the boat",
+    "explanation_en": "to be too late; lose the opportunity; fail to take action"
+  },
+  {
+    "ID": "215",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "money talks",
+    "explanation_en": "the influence of money trumps other influences"
+  },
+  {
+    "ID": "216",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "mumbo jumbo",
+    "explanation_en": "nonsense or meaningless speech or writing"
+  },
+  {
+    "ID": "217",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "nest egg",
+    "explanation_en": "savings set aside for future use"
+  },
+  {
+    "ID": "218",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "not a spark of decency",
+    "explanation_en": "meaning: no manners"
+  },
+  {
+    "ID": "219",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "not playing with a full deck",
+    "explanation_en": "someone who lacks intelligence."
+  },
+  {
+    "ID": "220",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "off one's rocker",
+    "explanation_en": "crazy, demented, out of one's mind, in a confused or befuddled state of mind, senile."
+  },
+  {
+    "ID": "221",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "off the hook",
+    "explanation_en": "freed from a blame or obligation; having avoided a difficult situation"
+  },
+  {
+    "ID": "222",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "once in a blue moon",
+    "explanation_en": "something that happens very rarely"
+  },
+  {
+    "ID": "223",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "once in a while",
+    "explanation_en": "sometimes, not very often"
+  },
+  {
+    "ID": "224",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "out of the blue",
+    "explanation_en": "something that suddenly and unexpectedly occurs"
+  },
+  {
+    "ID": "225",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "over my dead body",
+    "explanation_en": "when you absolutely will not accept or allow something to happen"
+  },
+  {
+    "ID": "226",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "over the top",
+    "explanation_en": "very excessive; outrageously overdone"
+  },
+  {
+    "ID": "227",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "penny for your thoughts",
+    "explanation_en": "asking someone what they are thinking about"
+  },
+  {
+    "ID": "228",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "picture paints a thousand words",
+    "explanation_en": "a visual presentation is far more descriptive than words."
+  },
+  {
+    "ID": "229",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "piece of cake",
+    "explanation_en": "when some task is very easy"
+  },
+  {
+    "ID": "230",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "play second fiddle",
+    "explanation_en": "to be less important"
+  },
+  {
+    "ID": "231",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "poker face",
+    "explanation_en": "an impassive facial expression hiding real feelings"
+  },
+  {
+    "ID": "232",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "pull the plug",
+    "explanation_en": "to stop something; to bring something to an end"
+  },
+  {
+    "ID": "233",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "pulling someone's leg",
+    "explanation_en": "tricking someone as a joke"
+  },
+  {
+    "ID": "234",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "scapegoat",
+    "explanation_en": "someone else who takes the blame"
+  },
+  {
+    "ID": "235",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "see eye to eye",
+    "explanation_en": "be in agreement"
+  },
+  {
+    "ID": "236",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "shake a leg",
+    "explanation_en": "to go fast, hurry"
+  },
+  {
+    "ID": "237",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "shy away from a daring task",
+    "explanation_en": "avoid something due to fear or uncertainty"
+  },
+  {
+    "ID": "238",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "slap on the wrist",
+    "explanation_en": "a very mild punishment"
+  },
+  {
+    "ID": "239",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "sleep on it",
+    "explanation_en": "wait until the next day before making an important decision"
+  },
+  {
+    "ID": "240",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "snake in the grass",
+    "explanation_en": "a treacherous person, especially one who feigns friendship."
+  },
+  {
+    "ID": "241",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "snug as a bug in a rug",
+    "explanation_en": "warm and cozy; content"
+  },
+  {
+    "ID": "242",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "speak of the devil!",
+    "explanation_en": "reference to a person who appears unexpectedly while being talked about"
+  },
+  {
+    "ID": "243",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "spill the beans",
+    "explanation_en": "to expose a secret"
+  },
+  {
+    "ID": "244",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "start from scratch",
+    "explanation_en": "to do it all over again from the beginning"
+  },
+  {
+    "ID": "245",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "take it easy",
+    "explanation_en": "to relax"
+  },
+  {
+    "ID": "246",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "taste of your own medicine",
+    "explanation_en": "means that something happens to you, or is done to you, that you have done to someone else"
+  },
+  {
+    "ID": "247",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the ball is in your court",
+    "explanation_en": "your turn to speak or act next"
+  },
+  {
+    "ID": "248",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the last straw",
+    "explanation_en": "the last little burden or problem that causes previous problems, which had been tolerated, to become unsupportable"
+  },
+  {
+    "ID": "249",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the whole nine yards",
+    "explanation_en": "everything, all of it"
+  },
+  {
+    "ID": "250",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "time out",
+    "explanation_en": "stop; take a break; calm down"
+  },
+  {
+    "ID": "251",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "tip of the iceberg",
+    "explanation_en": "the small easily visible part of a larger problem"
+  },
+  {
+    "ID": "252",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "toss-up",
+    "explanation_en": "a situation where two or more possibilities are equally likely"
+  },
+  {
+    "ID": "253",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "turn a blind eye",
+    "explanation_en": "to ignore something you know is real and pretend you do not see it"
+  },
+  {
+    "ID": "254",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "twenty-four/seven",
+    "explanation_en": "all the time; continuous operation"
+  },
+  {
+    "ID": "255",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "up a creek without a paddle",
+    "explanation_en": "in an unlucky/bad situation"
+  },
+  {
+    "ID": "256",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "when pigs fly",
+    "explanation_en": "something that will never ever happen"
+  },
+  {
+    "ID": "257",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "wouldn't be caught dead",
+    "explanation_en": "would never like to do something"
+  },
+  {
+    "ID": "258",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "you bet!",
+    "explanation_en": "sure, yes, of course"
+  },
+  {
+    "ID": "259",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "your guess is as good as mine",
+    "explanation_en": "to have no idea, do not know the answer to a question"
+  },
+  {
+    "ID": "260",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "zero tolerance",
+    "explanation_en": "absolutely no toleration of even the smallest infraction of a rule"
+  },
+  {
+    "ID": "261",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "zip your lip",
+    "explanation_en": "if someone tells you to zip your lip, they want to to shut up or keep quiet about something. ('zip it' is also used.)"
+  },
+  {
+    "ID": "262",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "tit for tat",
+    "explanation_en": "an action done to revenge against a person who has done some wrong to you"
+  },
+  {
+    "ID": "263",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "don't wash your dirty laundry in public",
+    "explanation_en": "people, especially couples, who argue in front of others or involve others in their personal problems and crises, are said to be washing their dirty laundry in public; making public things that are best left private."
+  },
+  {
+    "ID": "264",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "don't cry over spilt milk",
+    "explanation_en": "when something bad happens and nothing can be done to help it people say, 'don't cry over spilt milk'"
+  },
+  {
+    "ID": "265",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "you reap what you sow",
+    "explanation_en": "this means that if you do bad things to people, bad things will happen to you, or good things if you do good things. it is normally used when someone has done something bad."
+  },
+  {
+    "ID": "266",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "put the cart before the horse",
+    "explanation_en": "doing things in a wrong manner"
+  },
+  {
+    "ID": "267",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "brand-new",
+    "explanation_en": "to get over, tottally new"
+  },
+  {
+    "ID": "268",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "walk on thin ice",
+    "explanation_en": "to be careful"
+  },
+  {
+    "ID": "269",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "third wheel",
+    "explanation_en": "the third wheel may feel uncomfortable about watching the couple canoodle on his her her sofa, but none of this is taken into consideration."
+  },
+  {
+    "ID": "270",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the shoemaker's son always goes barefoot",
+    "explanation_en": "meaning that the family of a skilled or knowledgeable person are often the last to benefit from their expertise."
+  },
+  {
+    "ID": "271",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "have two pennies to rub together",
+    "explanation_en": "a person very poor without any penny"
+  },
+  {
+    "ID": "272",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the early bird gets the worm",
+    "explanation_en": "success comes to those who prepare well and put in effort."
+  },
+  {
+    "ID": "273",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "too many cooks spoil the broth",
+    "explanation_en": "if too many people are involved in a task or activity, it will not be done well."
+  },
+  {
+    "ID": "274",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "hopping mad",
+    "explanation_en": "to be extremelly angry"
+  },
+  {
+    "ID": "275",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "on cloud nine",
+    "explanation_en": "in an extremely blissful state."
+  },
+  {
+    "ID": "276",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "get laid",
+    "explanation_en": "to have sex"
+  },
+  {
+    "ID": "277",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "bit the bullet",
+    "explanation_en": "decide to do something difficult"
+  },
+  {
+    "ID": "278",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "made your bed, now lie",
+    "explanation_en": "you made a decision and now must accept its consequences."
+  },
+  {
+    "ID": "279",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "scatterbrain",
+    "explanation_en": "a person who tends to be disorganized and lacking in concentration."
+  },
+  {
+    "ID": "280",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "run into the sand",
+    "explanation_en": "come to nothing"
+  },
+  {
+    "ID": "281",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "be in seventh heaven",
+    "explanation_en": "to be extremely happy"
+  },
+  {
+    "ID": "282",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "whale of a time",
+    "explanation_en": "to enjoy yourself very much"
+  },
+  {
+    "ID": "283",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "a bitter pill to swallow",
+    "explanation_en": "something unpleasant that must be accepted or endured."
+  },
+  {
+    "ID": "284",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "feel the pinch",
+    "explanation_en": "to have problems with money"
+  },
+  {
+    "ID": "285",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "cast in the same mould",
+    "explanation_en": "people or things very similar."
+  },
+  {
+    "ID": "286",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "penny-pincher",
+    "explanation_en": "a stingy person"
+  },
+  {
+    "ID": "287",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "your belly button is bigger than your stomach",
+    "explanation_en": "you take on more responsibilities than you can handle."
+  },
+  {
+    "ID": "288",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "bow and scrap",
+    "explanation_en": "to try too hard to please someone in a position of authority"
+  },
+  {
+    "ID": "289",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "pull the wool over one's eyes",
+    "explanation_en": "to deceive someone"
+  },
+  {
+    "ID": "290",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "make hair stand on end",
+    "explanation_en": "to make someone feel very frightened"
+  },
+  {
+    "ID": "291",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "that's the heart of the matter.",
+    "explanation_en": "central or critical point of an issue."
+  },
+  {
+    "ID": "292",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "give the third degree, give a sound trashing",
+    "explanation_en": "to interrogate"
+  },
+  {
+    "ID": "293",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "a voice crying in the wilderness",
+    "explanation_en": "someone who expresses an idea"
+  },
+  {
+    "ID": "294",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "naked truth",
+    "explanation_en": "unadorned facts, without concealment or embellishment."
+  },
+  {
+    "ID": "295",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "lame duck",
+    "explanation_en": "someone who is in the last period of a term in an elective office"
+  },
+  {
+    "ID": "296",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "draw the short straw",
+    "explanation_en": "specially a group of people have chosen to perfom some unpleaseant task"
+  },
+  {
+    "ID": "297",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "shoot the breeze",
+    "explanation_en": "to ​spend ​time ​talking about things that are not ​important:"
+  },
+  {
+    "ID": "298",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "old hand",
+    "explanation_en": "a person who is experienced in or familiar with a subject, area, procedure, etc.:"
+  },
+  {
+    "ID": "299",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "talk hot air",
+    "explanation_en": "to lie about something"
+  },
+  {
+    "ID": "300",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "bone of contention",
+    "explanation_en": "the subject or point of an argument; an unsettled point of disagreement."
+  },
+  {
+    "ID": "301",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "pandora's box",
+    "explanation_en": "a source of extensive but unforeseen troubles or problems:"
+  },
+  {
+    "ID": "302",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "east or west, home is best",
+    "explanation_en": "home is the best place to be no matter where it is."
+  },
+  {
+    "ID": "303",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the ends justifies the means",
+    "explanation_en": "you can use bad or immoral methods as long as you accomplish something good by using them"
+  },
+  {
+    "ID": "304",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the forbidden fruit is the sweetest",
+    "explanation_en": "forbidden things have more worthwhile short-term consequences."
+  },
+  {
+    "ID": "305",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the apple doesn't fall far from the tree",
+    "explanation_en": "a child grows up to be similar to its parents"
+  },
+  {
+    "ID": "306",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "there's no smoke without fire",
+    "explanation_en": "gossip or accusations are often substantiated by fact."
+  },
+  {
+    "ID": "307",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "fight fire with fire, one fire drives out another",
+    "explanation_en": "it's a warning that one way to stop a mess, it to create a bigger mess."
+  },
+  {
+    "ID": "308",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "no flying from fate",
+    "explanation_en": ""
+  },
+  {
+    "ID": "309",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "all that glitters is not gold",
+    "explanation_en": "things that appear on the surface to be of great value may be quite worthless."
+  },
+  {
+    "ID": "310",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "don't look a gift horse in the mouth",
+    "explanation_en": "don't question the value of a gift."
+  },
+  {
+    "ID": "311",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "you couldn't split them apart with water/as thick as thieves",
+    "explanation_en": "to be tight or best friends with someone"
+  },
+  {
+    "ID": "312",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "its raining cats and dogs",
+    "explanation_en": "to raining a lot"
+  },
+  {
+    "ID": "313",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "talking to a brick wall",
+    "explanation_en": "the person you are speaking to does not listen"
+  },
+  {
+    "ID": "314",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "red in the face",
+    "explanation_en": "suffer embarrassment or shame"
+  },
+  {
+    "ID": "315",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "mum's the word.",
+    "explanation_en": "to keep silent about a secret"
+  },
+  {
+    "ID": "316",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "know like the back of your hand ?",
+    "explanation_en": "to know a place very well"
+  },
+  {
+    "ID": "317",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the odd one out",
+    "explanation_en": "a ​person or thing that is different from or ​kept ​apart from ​others that ​form a ​group or set:"
+  },
+  {
+    "ID": "318",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "a friend in need",
+    "explanation_en": "a true friend is one who helps you when you are in need"
+  },
+  {
+    "ID": "319",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "no pain no gain",
+    "explanation_en": "withot work hard, without sucess"
+  },
+  {
+    "ID": "320",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "live and learn",
+    "explanation_en": "learn from experience and from your mistakes."
+  },
+  {
+    "ID": "321",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "every dog has his day",
+    "explanation_en": "even the lowest of us enjoys a moment of glory."
+  },
+  {
+    "ID": "322",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "love is blind",
+    "explanation_en": "a person who is in love can see no faults or imperfections in the person whom he or she loves."
+  },
+  {
+    "ID": "323",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "it doesn't hurt to ask",
+    "explanation_en": "when you think that someone should ask for something, even if the answer is probably \"no\"."
+  },
+  {
+    "ID": "324",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "three sheets to the wind",
+    "explanation_en": "when a man is drunk, he does not fear anything"
+  },
+  {
+    "ID": "325",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "lose one's train of thought",
+    "explanation_en": "to forget about one thinking"
+  },
+  {
+    "ID": "326",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "off one's guard",
+    "explanation_en": "to surprise someone"
+  },
+  {
+    "ID": "327",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "look alive!",
+    "explanation_en": "pay attention! move quickly!:"
+  },
+  {
+    "ID": "328",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to do one's utmost",
+    "explanation_en": "to make the greatest possible effort"
+  },
+  {
+    "ID": "329",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "a bigwig",
+    "explanation_en": "a ​person who has an ​important or ​powerful ​position:"
+  },
+  {
+    "ID": "330",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "hold your tongue back",
+    "explanation_en": "to not speak"
+  },
+  {
+    "ID": "331",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "rome wasn't built in a day!",
+    "explanation_en": "important work takes time."
+  },
+  {
+    "ID": "332",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "neck and neck",
+    "explanation_en": "even or very close; indeterminate as to the outcome:"
+  },
+  {
+    "ID": "333",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "don't count your chickens before they've hatched",
+    "explanation_en": "you should not expect all of your hopes to be fulfilled."
+  },
+  {
+    "ID": "334",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "tomorrow is another day",
+    "explanation_en": "tomorrow will bring new opportunities and a fresh start for one's endeavors"
+  },
+  {
+    "ID": "335",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "pull the cat's tail",
+    "explanation_en": "to do something slowly"
+  },
+  {
+    "ID": "336",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "scratch head",
+    "explanation_en": "to have ​difficulty ​understanding something:"
+  },
+  {
+    "ID": "337",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "a fish rots from the head down",
+    "explanation_en": "when an organization or state fails, it is the leadership that is the root cause."
+  },
+  {
+    "ID": "338",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "every which way",
+    "explanation_en": "in all directions; in disorganized fashion"
+  },
+  {
+    "ID": "339",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "hold one's breath",
+    "explanation_en": "be excited, anxious, or nervous."
+  },
+  {
+    "ID": "340",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "narrow escape",
+    "explanation_en": "a person saves yourself of a danger situation"
+  },
+  {
+    "ID": "341",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "rock the boat",
+    "explanation_en": "to disrupt the smooth functioning or routine of something:"
+  },
+  {
+    "ID": "342",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "look before you leap",
+    "explanation_en": "to think of the consequences before you act"
+  },
+  {
+    "ID": "343",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "all the way to egery and back",
+    "explanation_en": "a long distance to travel"
+  },
+  {
+    "ID": "344",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to have your cake and eat it, too.",
+    "explanation_en": "you can’t enjoy both of two desirable but mutually exclusive alternatives:"
+  },
+  {
+    "ID": "345",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "have finger in too many pies",
+    "explanation_en": "to be ​involved in and have ​influence over many different ​activities"
+  },
+  {
+    "ID": "346",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "on the pig's back",
+    "explanation_en": "to be in luck"
+  },
+  {
+    "ID": "347",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "throw the baby out with the bathwater",
+    "explanation_en": "don't discard something valuable along with something undesirable."
+  },
+  {
+    "ID": "348",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "land on one's feet",
+    "explanation_en": "to be lucky or successful, especially after difficulties"
+  },
+  {
+    "ID": "349",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "pull someone's bacon out of the fire",
+    "explanation_en": "to save someone or something"
+  },
+  {
+    "ID": "350",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "caught with one's hand in the cookie jar",
+    "explanation_en": "seen by somebody while trying to take a thing that he/she was not entitled to."
+  },
+  {
+    "ID": "351",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "in dire straits",
+    "explanation_en": "in a very ​bad ​situation that is ​difficult to ​fix"
+  },
+  {
+    "ID": "352",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "heart of gold",
+    "explanation_en": "a person very kind"
+  },
+  {
+    "ID": "353",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "god forbid.",
+    "explanation_en": "i ​hope this does not ​happen:"
+  },
+  {
+    "ID": "354",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "water under the bridge",
+    "explanation_en": "something that ​happened in the past and cannot now be ​changed:"
+  },
+  {
+    "ID": "355",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to be broke",
+    "explanation_en": "to not have enough money."
+  },
+  {
+    "ID": "356",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to be on the ball",
+    "explanation_en": "to be ​quick to ​understand and ​react to things:"
+  },
+  {
+    "ID": "357",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "turn a deaf ear",
+    "explanation_en": "refuse to listen"
+  },
+  {
+    "ID": "358",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to progress by leaps and bounds",
+    "explanation_en": "with unexpectedly rapid progess"
+  },
+  {
+    "ID": "359",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "smell a rat",
+    "explanation_en": "this is when you suspect something not quite right"
+  },
+  {
+    "ID": "360",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "crème de la crème",
+    "explanation_en": "the best part of something"
+  },
+  {
+    "ID": "361",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "old chicken makes good soup",
+    "explanation_en": "when a person is very interisting despite its age"
+  },
+  {
+    "ID": "362",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "tough nut to crack",
+    "explanation_en": "a problem difficult to solve or a person difficult to understand"
+  },
+  {
+    "ID": "363",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to throw cold water on something",
+    "explanation_en": "to be ​negative about someone's ​ideas or ​plans:"
+  },
+  {
+    "ID": "364",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "muddy the waters",
+    "explanation_en": "to make a ​situation more ​confused and less ​easy to ​understand or ​deal with"
+  },
+  {
+    "ID": "365",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the straw that broke the camel's back",
+    "explanation_en": "the seemingly minor or routine action which causes an unpredictably large and sudden reaction"
+  },
+  {
+    "ID": "366",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "calm before the storm",
+    "explanation_en": "a ​quiet or ​peaceful ​period before a ​period during which there is ​great ​activity, ​argument, or ​difficulty:"
+  },
+  {
+    "ID": "367",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "give up the ghost",
+    "explanation_en": "to die, or in the case of inanimate objects, to cease working."
+  },
+  {
+    "ID": "368",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "company in distress makes sorrow less",
+    "explanation_en": "shared trouble is more comforting"
+  },
+  {
+    "ID": "369",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "one card shy of a full deck",
+    "explanation_en": "a dement person"
+  },
+  {
+    "ID": "370",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to place the cherry on top",
+    "explanation_en": "to conclude some task with something extra"
+  },
+  {
+    "ID": "371",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to throw a monkey wrench in the works",
+    "explanation_en": "to do something that ​prevents a ​plan or ​activity from ​succeeding"
+  },
+  {
+    "ID": "372",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to rub salt in the wound",
+    "explanation_en": "to make a ​difficult ​situation ​even ​worse for someone"
+  },
+  {
+    "ID": "373",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the icing on the cake",
+    "explanation_en": "something that makes a good ​situation ​even ​better:"
+  },
+  {
+    "ID": "374",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "put salt on his tail",
+    "explanation_en": "to capture"
+  },
+  {
+    "ID": "375",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "neither fish nor fowl",
+    "explanation_en": "having no specific character or conviction"
+  },
+  {
+    "ID": "376",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "none of your business",
+    "explanation_en": "it is none of your concern"
+  },
+  {
+    "ID": "377",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "speak off the cuff",
+    "explanation_en": "to speak without preparing a speech"
+  },
+  {
+    "ID": "378",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "a cold day in hell",
+    "explanation_en": "an event that will never happen."
+  },
+  {
+    "ID": "379",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "reinvent the wheel",
+    "explanation_en": "to design or implement a tool equivalent to an existing one or part of one"
+  },
+  {
+    "ID": "380",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "nip and tuck",
+    "explanation_en": "in a ​situation in which one ​side ​seems to be ​winning and then the other, so that the ​result is ​uncertain:"
+  },
+  {
+    "ID": "381",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to bite the dust",
+    "explanation_en": "to ​die or to ​stop ​working:"
+  },
+  {
+    "ID": "382",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "roll up one's sleeves",
+    "explanation_en": "getting ready to hard work"
+  },
+  {
+    "ID": "383",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "take the wind out of someone's sails",
+    "explanation_en": "to cause someone to lose hope or the will to continue"
+  },
+  {
+    "ID": "384",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "there is many a slip between cup and lip",
+    "explanation_en": "to ​emphasize that many ​bad things might ​happen before something is ​finished"
+  },
+  {
+    "ID": "385",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "all sizzle and no steak",
+    "explanation_en": "someone or something fails to live up to expectations"
+  },
+  {
+    "ID": "386",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "hard work never hurt anyone.",
+    "explanation_en": "one should expect to do hard or difficult work and not avoid doing it."
+  },
+  {
+    "ID": "387",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "by hook or crook",
+    "explanation_en": "by whatever means possible, fair or unfair."
+  },
+  {
+    "ID": "388",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "back on one's feet",
+    "explanation_en": "to be weary"
+  },
+  {
+    "ID": "389",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to paint the town red",
+    "explanation_en": "to go out and have fun"
+  },
+  {
+    "ID": "390",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "on one's own",
+    "explanation_en": "to feel responsibility for something yourself"
+  },
+  {
+    "ID": "391",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "see light at the end of the tunnel",
+    "explanation_en": "hope of sucess"
+  },
+  {
+    "ID": "392",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "out of sight, out of mind.",
+    "explanation_en": "to forget about something"
+  },
+  {
+    "ID": "393",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "honest to god!",
+    "explanation_en": "to emphasize something that it is true"
+  },
+  {
+    "ID": "394",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to be green with envy",
+    "explanation_en": "to be very ​unhappy because someone has something that you ​want:"
+  },
+  {
+    "ID": "395",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "neither a borrower or a lender be.",
+    "explanation_en": "it is difficult to be friends with someone who owes you money"
+  },
+  {
+    "ID": "396",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the bottom line",
+    "explanation_en": "the most ​important ​fact in a ​situation:"
+  },
+  {
+    "ID": "397",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "that's for the birds.",
+    "explanation_en": "trivial; worthless; only of interest to gullible people."
+  },
+  {
+    "ID": "398",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to twiddle one's thumbs",
+    "explanation_en": "to do nothing for a ​period of ​time, usually while you are ​waiting for something to ​happen:"
+  },
+  {
+    "ID": "399",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "keep your fingers crossed!",
+    "explanation_en": "to hope that things will happen in the way that you want them to:"
+  },
+  {
+    "ID": "400",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "the penny dropped,",
+    "explanation_en": "a belated realization of something after a period of confusion or ignorance."
+  },
+  {
+    "ID": "401",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "a skeleton in the closet",
+    "explanation_en": "to describe a shameful secret."
+  },
+  {
+    "ID": "402",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "dumb as a post",
+    "explanation_en": "a person very stupid"
+  },
+  {
+    "ID": "403",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "give credit where credit is due.",
+    "explanation_en": "to ​praise someone who ​deserves"
+  },
+  {
+    "ID": "404",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "don't toot your own horn.",
+    "explanation_en": "to have no patience or energy to tolerate something anymore"
+  },
+  {
+    "ID": "405",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "haste makes waste.",
+    "explanation_en": "to hurry"
+  },
+  {
+    "ID": "406",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "a stone's throw",
+    "explanation_en": "very short distance"
+  },
+  {
+    "ID": "407",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "misfortunes never come singly",
+    "explanation_en": "bad things or situations always come in groups"
+  },
+  {
+    "ID": "408",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "one good turn deserves another.",
+    "explanation_en": "you do a ​helpful or ​kind ​act for someone who has done something good for you"
+  },
+  {
+    "ID": "409",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "as old as the hills",
+    "explanation_en": "something or someone too old"
+  },
+  {
+    "ID": "410",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "united we stand, divided we fall.",
+    "explanation_en": "people are more successful as a group than as individuals"
+  },
+  {
+    "ID": "411",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "while there is life there is hope.",
+    "explanation_en": "as long as you are alive, you should be hopeful, because it is possible that your situation will improve"
+  },
+  {
+    "ID": "412",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to be at the end of one's rope",
+    "explanation_en": "to have no patience or energy to tolerate something anymore"
+  },
+  {
+    "ID": "413",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "once bitten, twice shy.",
+    "explanation_en": "when you are ​frightened to do something again"
+  },
+  {
+    "ID": "414",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "packed (in) like sardines",
+    "explanation_en": "​the people positioned very ​close together so that they cannot ​move"
+  },
+  {
+    "ID": "415",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "birds of a feather flock together.",
+    "explanation_en": "about ​people who have ​similar ​characters or ​interests"
+  },
+  {
+    "ID": "416",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "behind the scenes",
+    "explanation_en": "out of sight of the audience or public"
+  },
+  {
+    "ID": "417",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "listen!",
+    "explanation_en": "to aks for attention"
+  },
+  {
+    "ID": "418",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "to not be made of money.",
+    "explanation_en": "to not be very rich or do not have enough money"
+  },
+  {
+    "ID": "419",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "i'll eat my hat if...",
+    "explanation_en": "you are ​sure something will not ​happen:"
+  },
+  {
+    "ID": "420",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "lose sleep over it",
+    "explanation_en": "to concern about something"
+  },
+  {
+    "ID": "421",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "down the drain",
+    "explanation_en": "on the way to being lost or wasted"
+  },
+  {
+    "ID": "422",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "what’s eating you?",
+    "explanation_en": "this is a question of concern, asking if something’s bothering you"
+  },
+  {
+    "ID": "423",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "bend over backwards",
+    "explanation_en": "where someone goes out of their way or makes an exceptional effort"
+  },
+  {
+    "ID": "424",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "a bird in the hand is worth two in the bush",
+    "explanation_en": "having one certain thing is better than having two possibilities that might not happen"
+  },
+  {
+    "ID": "425",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "popping out",
+    "explanation_en": "when someone is leaving their spot for a little while"
+  },
+  {
+    "ID": "426",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "talk the hind legs off a donkey",
+    "explanation_en": "a person who really talks too much"
+  },
+  {
+    "ID": "427",
+    "source": "LIdioms",
+    "language": "en",
+    "proverb": "throw a spanner in the works",
+    "explanation_en": "to do something that ​prevents a ​plan or ​activity from ​succeeding"
+  },
+  {
+    "ID": "428",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "a casa del diavolo",
+    "explanation_en": "a long distance to travel."
+  },
+  {
+    "ID": "429",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "a piede libero",
+    "explanation_en": "out of jail"
+  },
+  {
+    "ID": "430",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "acqua in bocca!",
+    "explanation_en": "keep quite, not to say anything."
+  },
+  {
+    "ID": "431",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "ad ogni morte di papa",
+    "explanation_en": "something that happens very rarely"
+  },
+  {
+    "ID": "432",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "affibbiare",
+    "explanation_en": "to pin something on someone"
+  },
+  {
+    "ID": "433",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "affogare in un bicchier d'acqua",
+    "explanation_en": "to lose heart when encountering the smallest difficulty"
+  },
+  {
+    "ID": "434",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "alla come viene, viene",
+    "explanation_en": "to do something sloppily"
+  },
+  {
+    "ID": "435",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "alla meglio",
+    "explanation_en": "to do something as best one can, in a hurry or under constraint, with the implication that this isn’t very good."
+  },
+  {
+    "ID": "436",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "alle calende greche",
+    "explanation_en": "never something will happen"
+  },
+  {
+    "ID": "437",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "allo sbaraglio",
+    "explanation_en": "to certain death."
+  },
+  {
+    "ID": "438",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "alto come un soldo di cacio",
+    "explanation_en": "short; especially relating to when the subject was a small child"
+  },
+  {
+    "ID": "439",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "alzare il gomito",
+    "explanation_en": "to drink too much"
+  },
+  {
+    "ID": "440",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "andarci coi piedi di piombo",
+    "explanation_en": "to be cautious"
+  },
+  {
+    "ID": "441",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "andare a rotoli",
+    "explanation_en": "to fall apart, to become ruined"
+  },
+  {
+    "ID": "442",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "andare coi piedi di piombo",
+    "explanation_en": "to proceed with extreme caution."
+  },
+  {
+    "ID": "443",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "arrivare dopo la puzza",
+    "explanation_en": "action that was taken too late and is too feeble to be of any use."
+  },
+  {
+    "ID": "444",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "attaccare il cappello",
+    "explanation_en": "to hang up one’s hat: used of a man who marries a wealthy woman, and (presumably) doesn’t have to work anymore."
+  },
+  {
+    "ID": "445",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "avere il prosciutto sugli occhi",
+    "explanation_en": "to be unable to see the truth, either figuratively (somebody’s trying to trick you and you don’t see it) or realistically (the referee didn’t see the foul as he had prosciutto over his eyes)"
+  },
+  {
+    "ID": "446",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "avere la botte piena e la moglie ubriaca",
+    "explanation_en": "the impossibility of having something both ways, if those two ways conflict."
+  },
+  {
+    "ID": "447",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "avere la faccia come il culo",
+    "explanation_en": "to have a bare-faced cheek."
+  },
+  {
+    "ID": "448",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "avere la puzza sotto il naso",
+    "explanation_en": "you are sofisticate and to feel more important to other. to be arrogant."
+  },
+  {
+    "ID": "449",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "avere le mani d'oro",
+    "explanation_en": "to be gifted in doing things"
+  },
+  {
+    "ID": "450",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "avere le mani di pastafrolla",
+    "explanation_en": "to be unable to hold something without dropping it, to be clumsy"
+  },
+  {
+    "ID": "451",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "avere le mani in pasta",
+    "explanation_en": "to be involved in too many things; to have too many tasks going to be able to do any of them well."
+  },
+  {
+    "ID": "452",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "avere le mani legate",
+    "explanation_en": "to have one's hands tied"
+  },
+  {
+    "ID": "453",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "avere sale in zucca",
+    "explanation_en": "to be smart"
+  },
+  {
+    "ID": "454",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "avere un culo così grande",
+    "explanation_en": "to be lucky"
+  },
+  {
+    "ID": "455",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "avere un po' di terra al sole",
+    "explanation_en": "to own a small piece of farming land"
+  },
+  {
+    "ID": "456",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "battere il ferro finché è caldo",
+    "explanation_en": "to act on an opportunity promptly while favorable conditions exist; to avoid waiting."
+  },
+  {
+    "ID": "457",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "bellezza acqua e sapone",
+    "explanation_en": "natural (rather than artificial) beauty"
+  },
+  {
+    "ID": "458",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "buona notte al secchio",
+    "explanation_en": "we’re screwed.why there should be a bucket involved i do not know."
+  },
+  {
+    "ID": "459",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "buono come il pane",
+    "explanation_en": "as good as bread.when someone or something has unexpectedly behaved very badly,"
+  },
+  {
+    "ID": "460",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "buttare il bambino con l'acqua sporca",
+    "explanation_en": "to discard, especially inadvertently, something valuable while in the process of removing or rejecting something unwanted."
+  },
+  {
+    "ID": "461",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "c’entra come i cavoli a merenda",
+    "explanation_en": "it doesn’t fit, it’s inappropriate"
+  },
+  {
+    "ID": "462",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "cadere dalle nuvole",
+    "explanation_en": "you are absent in some moment"
+  },
+  {
+    "ID": "463",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "cadere in piedi",
+    "explanation_en": "to land on one's feet, to come out of a situation without damage"
+  },
+  {
+    "ID": "464",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "cadere sempre in piedi",
+    "explanation_en": "to be lucky, or successful"
+  },
+  {
+    "ID": "465",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "caduto dalle nuvole",
+    "explanation_en": "completely surprised, or pretending to be."
+  },
+  {
+    "ID": "466",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "campa cavallo",
+    "explanation_en": "something, that is eagerly, but hopelessly, anticipated."
+  },
+  {
+    "ID": "467",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "capita a fagiolo",
+    "explanation_en": "happens at exactly the right moment. this derives from a time when beans were an essential and common part of the diet of many poor italians, so to capitare a fagiolo was to turn up just in time for a (probably much-needed) meal."
+  },
+  {
+    "ID": "468",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "cavallo di battaglia",
+    "explanation_en": "forte, strong suit, strong point, flagship product/piece of art."
+  },
+  {
+    "ID": "469",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "cavare le castagne dal fuoco",
+    "explanation_en": "to rescue someone, especially at the last moment."
+  },
+  {
+    "ID": "470",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "cercare il pelo nell'uovo",
+    "explanation_en": "to be picky"
+  },
+  {
+    "ID": "471",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "chiudere la stalla",
+    "explanation_en": "to attempt to prevent a problem only to find it has already happened"
+  },
+  {
+    "ID": "472",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "ci corre quanto dal cielo alla terra",
+    "explanation_en": "there is a very great difference between two things"
+  },
+  {
+    "ID": "473",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "cogliere qualcuno con le mani nel sacco",
+    "explanation_en": "to catch someone red"
+  },
+  {
+    "ID": "474",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "colto con le mani nel sacco",
+    "explanation_en": "observed or apprehended while committing a theft, especially while embezzling money."
+  },
+  {
+    "ID": "475",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "comandare é meglio che fottere",
+    "explanation_en": "the pleasures of power are even greater than the pleasures of sex."
+  },
+  {
+    "ID": "476",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "con l'acqua alla gola",
+    "explanation_en": "in a very serious, bad circumstance."
+  },
+  {
+    "ID": "477",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "cuore d'oro",
+    "explanation_en": "a kind, compassionate, or caring attitude; kindheartedness."
+  },
+  {
+    "ID": "478",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "da cosa nasce cosa",
+    "explanation_en": "one thing leads to another"
+  },
+  {
+    "ID": "479",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "dalle stelle alle stalle from riches to rugs",
+    "explanation_en": "to fall from grace"
+  },
+  {
+    "ID": "480",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "dare acqua alle funi",
+    "explanation_en": "to speed up or hurry a task"
+  },
+  {
+    "ID": "481",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "dare manforte",
+    "explanation_en": "to come to the rescue"
+  },
+  {
+    "ID": "482",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "dare una mano a qualcuno",
+    "explanation_en": "to help someone"
+  },
+  {
+    "ID": "483",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "darsela a gambe",
+    "explanation_en": "to run away"
+  },
+  {
+    "ID": "484",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "dente avvelenato – ho il dente avvelenato",
+    "explanation_en": "i am quite upset"
+  },
+  {
+    "ID": "485",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "dio ce ne scampi",
+    "explanation_en": "when a person wants to ​hope that something do not ​happen:"
+  },
+  {
+    "ID": "486",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "dio li fa, poi li accoppia",
+    "explanation_en": "said of any couple or pair who seem destined to be together by reason of sheer eccentricity."
+  },
+  {
+    "ID": "487",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "è acqua passata",
+    "explanation_en": "something belongs to the past and isn't important or disturbing any more."
+  },
+  {
+    "ID": "488",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "e’ andato tutto liscio come l’olio",
+    "explanation_en": "it went smooth as silk, there weren’t any problems"
+  },
+  {
+    "ID": "489",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "e’ buono come un pezzo di pane",
+    "explanation_en": "he’s a good person, a really nice guy"
+  },
+  {
+    "ID": "490",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "e’ dolce come lo zucchero",
+    "explanation_en": "pretty self-explanatory, usually used to describe fruit it is also used for people sometimes"
+  },
+  {
+    "ID": "491",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "e’ facile come rubare le caramelle a un bambino",
+    "explanation_en": "it is very simple task that anyone can do"
+  },
+  {
+    "ID": "492",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "e’ rigido come un baccala",
+    "explanation_en": "he is not comfortable, he looks stiff"
+  },
+  {
+    "ID": "493",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "essere al verde",
+    "explanation_en": "to have no money"
+  },
+  {
+    "ID": "494",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "essere alla frutta",
+    "explanation_en": "to reach the lowest possible level or be in the worst possible situation"
+  },
+  {
+    "ID": "495",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "essere alla mano",
+    "explanation_en": "to be easy going"
+  },
+  {
+    "ID": "496",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "essere con l'acqua alla gola",
+    "explanation_en": "to be in a dangerous situation"
+  },
+  {
+    "ID": "497",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "essere di bocca buona",
+    "explanation_en": "to eat everything"
+  },
+  {
+    "ID": "498",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "essere in gamba",
+    "explanation_en": "to be smart"
+  },
+  {
+    "ID": "499",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "essere rosso come un peperone",
+    "explanation_en": "to look lobster red- said of a sunburn but also of someone who’s blushing"
+  },
+  {
+    "ID": "500",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "essere su questa terra",
+    "explanation_en": "to live"
+  },
+  {
+    "ID": "501",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "fa un freddo cane!",
+    "explanation_en": "really, really cold"
+  },
+  {
+    "ID": "502",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "fare giri di parole",
+    "explanation_en": "to delay or avoid talking about something difficult or unpleasant."
+  },
+  {
+    "ID": "503",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "fare i salti mortali",
+    "explanation_en": "to bend over backwards"
+  },
+  {
+    "ID": "504",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "fare il passo più lungo della gamba",
+    "explanation_en": "to try to do more than you are able to do"
+  },
+  {
+    "ID": "505",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "fare la scarpetta",
+    "explanation_en": "to mop up the sauce from a plate of food with a piece of bread"
+  },
+  {
+    "ID": "506",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "fare orecchi da mercante",
+    "explanation_en": "to refuse to listen or hear something"
+  },
+  {
+    "ID": "507",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "fare passi da gigante",
+    "explanation_en": "to make extraordinary progress in a short period of time."
+  },
+  {
+    "ID": "508",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "fare una figuraccia",
+    "explanation_en": "to make a bad impression."
+  },
+  {
+    "ID": "509",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "farsene una ragione",
+    "explanation_en": "to reach an agreement or settle a dispute."
+  },
+  {
+    "ID": "510",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "farsi furbo",
+    "explanation_en": "to sense something suspicious, get wise"
+  },
+  {
+    "ID": "511",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "fior fiore",
+    "explanation_en": "the best part of something"
+  },
+  {
+    "ID": "512",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "fuori di testa",
+    "explanation_en": "something insane"
+  },
+  {
+    "ID": "513",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "gallina vecchia fa buon brodo",
+    "explanation_en": "for people, experience is very important"
+  },
+  {
+    "ID": "514",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "gatta da pelare",
+    "explanation_en": "a problem that is challenging to solve."
+  },
+  {
+    "ID": "515",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "gettar fumo negli occhi",
+    "explanation_en": "to deceive (someone)"
+  },
+  {
+    "ID": "516",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "gettare acqua sul fuoco",
+    "explanation_en": "to belittle or dismiss; to cast doubt upon; to debunk."
+  },
+  {
+    "ID": "517",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "girarci intorno",
+    "explanation_en": "to delay or avoid talking about something difficult or unpleasant."
+  },
+  {
+    "ID": "518",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "guai",
+    "explanation_en": "someone is in trouble"
+  },
+  {
+    "ID": "519",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "ha la faccia da pesce lesso",
+    "explanation_en": "he looks like someone uninteresting and uninterested, not someone you want to make friends with"
+  },
+  {
+    "ID": "520",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "hai voluto la bicicletta? e adesso pedala!",
+    "explanation_en": "when someone refuses to take responsibility for his or her own actions."
+  },
+  {
+    "ID": "521",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "ho la testa nel pallone",
+    "explanation_en": "i am in pannic"
+  },
+  {
+    "ID": "522",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "il gatto ti ha mangiato la lingua",
+    "explanation_en": "why are you not saying anything?"
+  },
+  {
+    "ID": "523",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "il sangue al cervello",
+    "explanation_en": "to describe that anger incrases"
+  },
+  {
+    "ID": "524",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "il treno non passa due volte",
+    "explanation_en": "when you have an opportunity you must not it get away."
+  },
+  {
+    "ID": "525",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "in bocca al lupo!",
+    "explanation_en": "good luck! ironic way"
+  },
+  {
+    "ID": "526",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "intorbidare le acque",
+    "explanation_en": "to make something unclear and difficult to understand."
+  },
+  {
+    "ID": "527",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "l'abito non fa il monaco",
+    "explanation_en": "it is not possible to judge things by external appearances alone"
+  },
+  {
+    "ID": "528",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "l’ho comprato per un tozzo di pane",
+    "explanation_en": "it was a real deal, very underpriced compared to its value"
+  },
+  {
+    "ID": "529",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "la goccia che fa traboccare il vaso",
+    "explanation_en": "there is something bad that happens and represents an added problem to an already problematic situation."
+  },
+  {
+    "ID": "530",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "la quiete prima della tempesta",
+    "explanation_en": "a period of peace before a disturbance or crisis; an unnatural or false calm before a storm."
+  },
+  {
+    "ID": "531",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "lasciarci le cuoia",
+    "explanation_en": "to cease clinging to life; to die"
+  },
+  {
+    "ID": "532",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "lasciare questa terra",
+    "explanation_en": "to die"
+  },
+  {
+    "ID": "533",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "legarsela al dito",
+    "explanation_en": "to remember a wrong bitterly"
+  },
+  {
+    "ID": "534",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "levati di torno",
+    "explanation_en": "to tell somebody to go away or leave one alone."
+  },
+  {
+    "ID": "535",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "mal comune, mezzo gaudio",
+    "explanation_en": "trouble shared is trouble halved"
+  },
+  {
+    "ID": "536",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "mancargli qualche rotella",
+    "explanation_en": "mentally deranged; demented; insane."
+  },
+  {
+    "ID": "537",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "mandare a monte",
+    "explanation_en": "to mess up, to ruin"
+  },
+  {
+    "ID": "538",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "menare il can per l'aia",
+    "explanation_en": "to delay or avoid talking about something difficult or unpleasant."
+  },
+  {
+    "ID": "539",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "metter le mani avanti (prima di cadere)",
+    "explanation_en": "to take action to prevent later damage"
+  },
+  {
+    "ID": "540",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "metterci il cappello",
+    "explanation_en": "to falsely claim ownership of or credit for."
+  },
+  {
+    "ID": "541",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "metterci la ciliegina sopra",
+    "explanation_en": "to finish up something putting extra beyond the basic requirement"
+  },
+  {
+    "ID": "542",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "mettere il bastone tra",
+    "explanation_en": "to hinder the carrying out of an activity or plan."
+  },
+  {
+    "ID": "543",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "mettere il dito sulla piaga",
+    "explanation_en": "to touch where it hurts"
+  },
+  {
+    "ID": "544",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "mettere la ciliegina sulla torta",
+    "explanation_en": "something that intensifies the appreciation of something already good"
+  },
+  {
+    "ID": "545",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "mettersi le mani nei capelli",
+    "explanation_en": "to be desperate, helpless"
+  },
+  {
+    "ID": "546",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "metti il sale sulla coda",
+    "explanation_en": "try to catch it !"
+  },
+  {
+    "ID": "547",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "mi piace un casino",
+    "explanation_en": "i like it a lot."
+  },
+  {
+    "ID": "548",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "mollarne una",
+    "explanation_en": "to fart; to let one rip."
+  },
+  {
+    "ID": "549",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "mordersi le mani",
+    "explanation_en": "to regret something"
+  },
+  {
+    "ID": "550",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "nè carne nè pesce",
+    "explanation_en": "something or someone which is not easily categorized; something or someone that does not rightly belong or fit well in a given group or situation."
+  },
+  {
+    "ID": "551",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "nella botte piccola c'è vino buono",
+    "explanation_en": "a friendly compliment to a short person."
+  },
+  {
+    "ID": "552",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "non mi rompere i maroni",
+    "explanation_en": "typically what you’d say to someone annoying."
+  },
+  {
+    "ID": "553",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "non sono affari tuoi",
+    "explanation_en": "something does not interest to another"
+  },
+  {
+    "ID": "554",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "non tutti i mali vengono per nuocere",
+    "explanation_en": "every bad situation has some good aspect to it."
+  },
+  {
+    "ID": "555",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "parlare a braccio",
+    "explanation_en": "to extemporize"
+  },
+  {
+    "ID": "556",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "parlare fuori dai denti",
+    "explanation_en": "to say openly what’s on your mind."
+  },
+  {
+    "ID": "557",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "peli sulla lingua",
+    "explanation_en": "to speak frankly about something in negative way"
+  },
+  {
+    "ID": "558",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "peli sulla pancia",
+    "explanation_en": "to be tough, able to stand up to criticism."
+  },
+  {
+    "ID": "559",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "per favore, non rompermi le palle",
+    "explanation_en": "you dont have to piece me off"
+  },
+  {
+    "ID": "560",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "perdere la bussola",
+    "explanation_en": "you are crazy"
+  },
+  {
+    "ID": "561",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "perdere le staffe",
+    "explanation_en": "to lose self-control by getting extremely angry."
+  },
+  {
+    "ID": "562",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "pestar l'acqua nel mortaio",
+    "explanation_en": "to do something useless; to waste time"
+  },
+  {
+    "ID": "563",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "piove sul bagnato",
+    "explanation_en": "too much of a good thing."
+  },
+  {
+    "ID": "564",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "prendere due piccioni con una fava",
+    "explanation_en": "to solve two problems with one single action"
+  },
+  {
+    "ID": "565",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "prendere qualcosa sottogamba",
+    "explanation_en": "not to take it seriously"
+  },
+  {
+    "ID": "566",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "punta dell'iceberg",
+    "explanation_en": "a problem is much bigger than it seems"
+  },
+  {
+    "ID": "567",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "qualcosa bolle in pentola",
+    "explanation_en": "to be illogical"
+  },
+  {
+    "ID": "568",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "quando gli asini voleranno",
+    "explanation_en": "something that will not never happen"
+  },
+  {
+    "ID": "569",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "quella persona ha il pelo sullo stomaco",
+    "explanation_en": "it is said of people who are unethical, reckless, and overall willing to push the limits of legality in business"
+  },
+  {
+    "ID": "570",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "questa cosa mi fa venire il latte alle ginocchia",
+    "explanation_en": "it is said of something (or someone) boring and exasperating, something that makes you want to get away as fast as possible!"
+  },
+  {
+    "ID": "571",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "questa cosa mi sta sullo stomaco",
+    "explanation_en": "this thing is really unpleasant and annoying. often also said of people (questa persona mi sta sullo stomaco)"
+  },
+  {
+    "ID": "572",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "questa cosa/ questa persona e’ amara come la cicoria",
+    "explanation_en": "said of something bitter in taste, but also of a bitter person"
+  },
+  {
+    "ID": "573",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "radere al suolo",
+    "explanation_en": "to destroy"
+  },
+  {
+    "ID": "574",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "rendere pan per focaccia",
+    "explanation_en": "t is used metaphorically to illustrate a payback for a suffered wrong"
+  },
+  {
+    "ID": "575",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "ridotto all’osso",
+    "explanation_en": "as bare-bone as it gets- often said of a price during bargaining, or of a family budget, it means it has been rid of the excess, muck like bones used to make stock."
+  },
+  {
+    "ID": "576",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "rimboccarsi le maniche",
+    "explanation_en": "to prepare to work"
+  },
+  {
+    "ID": "577",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "sbagliando s'impara",
+    "explanation_en": "you learn from your mistakes"
+  },
+  {
+    "ID": "578",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "scoprire l'acqua calda",
+    "explanation_en": "to do work unnecessarily when it has already been done satisfactorily by others"
+  },
+  {
+    "ID": "579",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "se non e zuppa, e pan bagnato",
+    "explanation_en": "to say something equal to another. to be redundant"
+  },
+  {
+    "ID": "580",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "sei sempre in mezzo come il prezzemolo",
+    "explanation_en": "you mingle in things that are not your own, you are always in the way"
+  },
+  {
+    "ID": "581",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "sentirsi mancare la terra sotto i piedi",
+    "explanation_en": "to feel lost or lacking support"
+  },
+  {
+    "ID": "582",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "sentirsi prudere le mani",
+    "explanation_en": "to feel like hitting someone"
+  },
+  {
+    "ID": "583",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "siamo incasinati",
+    "explanation_en": "we’re in a mess(or we’re very busy”)."
+  },
+  {
+    "ID": "584",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "sono cotta/o",
+    "explanation_en": "you are really like person"
+  },
+  {
+    "ID": "585",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "sono pieno come un uovo",
+    "explanation_en": "i am stuffed, i can’t eat anymore (very useful when someone is trying to fill your plate yet again!)"
+  },
+  {
+    "ID": "586",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "star con le mani in mano",
+    "explanation_en": "to be idle, to be sitting on the fence"
+  },
+  {
+    "ID": "587",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "stare tra le due acque",
+    "explanation_en": "to not compromise oneself too much"
+  },
+  {
+    "ID": "588",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "tenero come il burro",
+    "explanation_en": "it is very tender, it usually refers to meat or other foods, and sometimes to people"
+  },
+  {
+    "ID": "589",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "testa a testa",
+    "explanation_en": "so evenly matched that the advantage shifts from one to the other, and the outcome is uncertain"
+  },
+  {
+    "ID": "590",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "ti scureggia il cervello",
+    "explanation_en": "you are saying something very stupid"
+  },
+  {
+    "ID": "591",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "tirar l'acqua al proprio mulino",
+    "explanation_en": "to do only what is in one's own interest"
+  },
+  {
+    "ID": "592",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "tirare acqua al proprio mulino",
+    "explanation_en": "to act in one's own interests"
+  },
+  {
+    "ID": "593",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "tirare le cuoia",
+    "explanation_en": "to die"
+  },
+  {
+    "ID": "594",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "tirarsi su le maniche",
+    "explanation_en": "getting ready to work"
+  },
+  {
+    "ID": "595",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "togliere il terreno da sotto i piedi",
+    "explanation_en": "to discourage someone greatly"
+  },
+  {
+    "ID": "596",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "togliersi un peso dallo stomaco",
+    "explanation_en": "to relieve oneself by talking to someone"
+  },
+  {
+    "ID": "597",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "tra il dire e il fare c'è di mezzo il mare",
+    "explanation_en": "this expression is a comment on good intentions and the idea that they often don't come to fruition."
+  },
+  {
+    "ID": "598",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "tutto fumo e niente arrosto",
+    "explanation_en": "a thing or person which fails to measure up to its description or advanced promotion"
+  },
+  {
+    "ID": "599",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "vai a quel paese",
+    "explanation_en": "to tell somebody to go away or leave one alone."
+  },
+  {
+    "ID": "600",
+    "source": "LIdioms",
+    "language": "it",
+    "proverb": "venire alle mani",
+    "explanation_en": "to fight"
+  },
+  {
+    "ID": "601",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "a cavalo",
+    "explanation_en": "to do something too fast"
+  },
+  {
+    "ID": "602",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "a coisa tá preta",
+    "explanation_en": "things are looking bad"
+  },
+  {
+    "ID": "603",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "a meu ver",
+    "explanation_en": "in my opinion"
+  },
+  {
+    "ID": "604",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "à moda antiga",
+    "explanation_en": "in the old-fashioned way"
+  },
+  {
+    "ID": "605",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "a perder de vista",
+    "explanation_en": "something in long period"
+  },
+  {
+    "ID": "606",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "abotoar o paletó",
+    "explanation_en": "to die"
+  },
+  {
+    "ID": "607",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "abra o olho",
+    "explanation_en": "to be in alert"
+  },
+  {
+    "ID": "608",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "acabar em pizza",
+    "explanation_en": "to end some happening without any consequence"
+  },
+  {
+    "ID": "609",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "acertar na mosca",
+    "explanation_en": "to hit precisely"
+  },
+  {
+    "ID": "610",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "afinal de contas",
+    "explanation_en": "to conclude some story"
+  },
+  {
+    "ID": "611",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "afogar o ganso",
+    "explanation_en": "to have sex"
+  },
+  {
+    "ID": "612",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "agora que são elas",
+    "explanation_en": "start some challenge that is difficult"
+  },
+  {
+    "ID": "613",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "ajoelhou, tem que rezar",
+    "explanation_en": "accepted, now go on until the end"
+  },
+  {
+    "ID": "614",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "amarelar",
+    "explanation_en": "to be afraid"
+  },
+  {
+    "ID": "615",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "amarrar o burro",
+    "explanation_en": "to relax"
+  },
+  {
+    "ID": "616",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "amigo da onça",
+    "explanation_en": "a false friend"
+  },
+  {
+    "ID": "617",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "ao pé da letra",
+    "explanation_en": "literally"
+  },
+  {
+    "ID": "618",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "apareça!",
+    "explanation_en": "come again (to visit us)"
+  },
+  {
+    "ID": "619",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "apertar o passo",
+    "explanation_en": "to walk fastest"
+  },
+  {
+    "ID": "620",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "às suas ordens",
+    "explanation_en": "at your disposal"
+  },
+  {
+    "ID": "621",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "até que enfim",
+    "explanation_en": "to finish something"
+  },
+  {
+    "ID": "622",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "atirar-se de cabeça",
+    "explanation_en": "face a problem without hesitation"
+  },
+  {
+    "ID": "623",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "bater o queixo",
+    "explanation_en": "to be cold"
+  },
+  {
+    "ID": "624",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "bem feito!",
+    "explanation_en": "nice going! (sarcastic)"
+  },
+  {
+    "ID": "625",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "bicho de sete cabeças",
+    "explanation_en": "huge complication"
+  },
+  {
+    "ID": "626",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "botar a boca no mundo",
+    "explanation_en": "to tell evebody any secret"
+  },
+  {
+    "ID": "627",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "botar no olho da rua",
+    "explanation_en": "to fire"
+  },
+  {
+    "ID": "628",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "botar os pingos nos i’s",
+    "explanation_en": "to get things straightened out"
+  },
+  {
+    "ID": "629",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "cabeça de vento",
+    "explanation_en": "a person who is disorganized and forgetting many things"
+  },
+  {
+    "ID": "630",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "cada macaco no seu galho.",
+    "explanation_en": "everyone should care for their own life"
+  },
+  {
+    "ID": "631",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "cair a ficha",
+    "explanation_en": "got it"
+  },
+  {
+    "ID": "632",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "cair de maduro",
+    "explanation_en": "when something happens that was predictable since a long time"
+  },
+  {
+    "ID": "633",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "cair de quatro",
+    "explanation_en": "to be passionate"
+  },
+  {
+    "ID": "634",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "cair em si",
+    "explanation_en": "to suddenly realize"
+  },
+  {
+    "ID": "635",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "cair por terra",
+    "explanation_en": "to fail"
+  },
+  {
+    "ID": "636",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "calar o bico",
+    "explanation_en": "to be quiet, keep a secret"
+  },
+  {
+    "ID": "637",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "calma que brasil é nosso!",
+    "explanation_en": "something very easy"
+  },
+  {
+    "ID": "638",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "cantar de galo",
+    "explanation_en": "to dictate the rules"
+  },
+  {
+    "ID": "639",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "cerrar as cortinas",
+    "explanation_en": "fabulous finish"
+  },
+  {
+    "ID": "640",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "chamar a atenção",
+    "explanation_en": "to give an advice"
+  },
+  {
+    "ID": "641",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "chega!",
+    "explanation_en": "that’s enough!"
+  },
+  {
+    "ID": "642",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "cheio de si",
+    "explanation_en": "proud"
+  },
+  {
+    "ID": "643",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "chutar para canto",
+    "explanation_en": "it does not matter"
+  },
+  {
+    "ID": "644",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "com as mãos abanando",
+    "explanation_en": "without achieving one’s purpose"
+  },
+  {
+    "ID": "645",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "comer com os olhos",
+    "explanation_en": "to want something very much"
+  },
+  {
+    "ID": "646",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "comer o pão que o diabo amassou",
+    "explanation_en": "to suffer intolerably"
+  },
+  {
+    "ID": "647",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "contente da vida",
+    "explanation_en": "very happy"
+  },
+  {
+    "ID": "648",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "correr o mundo",
+    "explanation_en": "to travel"
+  },
+  {
+    "ID": "649",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "cospir no prato que comeu",
+    "explanation_en": "to renege"
+  },
+  {
+    "ID": "650",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "dar a volta em",
+    "explanation_en": "to \"milk\" money from a gullible person or to cheat someone"
+  },
+  {
+    "ID": "651",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "dar com os burros n'água",
+    "explanation_en": "to have a great frustration or to not accomplish an aim"
+  },
+  {
+    "ID": "652",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "dar no couro",
+    "explanation_en": "to have sex (brazil only)"
+  },
+  {
+    "ID": "653",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "dar uma mão",
+    "explanation_en": "to help or to support"
+  },
+  {
+    "ID": "654",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "dar o troco",
+    "explanation_en": "to have a revenge"
+  },
+  {
+    "ID": "655",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "deitar o cabelo",
+    "explanation_en": "to enjoy"
+  },
+  {
+    "ID": "656",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "deixar passar em brancas nuvens",
+    "explanation_en": "to ignore something, to forgive"
+  },
+  {
+    "ID": "657",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "descascar um abacaxi",
+    "explanation_en": "to solve a hard problem"
+  },
+  {
+    "ID": "658",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "dizem as más línguas",
+    "explanation_en": "somebody is talking about it"
+  },
+  {
+    "ID": "659",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "do outro mundo",
+    "explanation_en": "extraordinary"
+  },
+  {
+    "ID": "660",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "doidinho da silva",
+    "explanation_en": "raving mad, completely crazy"
+  },
+  {
+    "ID": "661",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "dormir como anjo",
+    "explanation_en": "to sleep softly"
+  },
+  {
+    "ID": "662",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "dormir como uma pedra",
+    "explanation_en": "to sleep deeply"
+  },
+  {
+    "ID": "663",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "é canja de galinha",
+    "explanation_en": "it’s a piece of cake, very easy"
+  },
+  {
+    "ID": "664",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "enfiar o pé na jaca",
+    "explanation_en": "to eat a lot"
+  },
+  {
+    "ID": "665",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "engolir sapo",
+    "explanation_en": "something unpleasant that must be accepted or endured"
+  },
+  {
+    "ID": "666",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "estar cheio de dedos",
+    "explanation_en": "to be careful"
+  },
+  {
+    "ID": "667",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "estar duro",
+    "explanation_en": "to be without money"
+  },
+  {
+    "ID": "668",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "estar pela hora da morte",
+    "explanation_en": "to be exorbitant in price"
+  },
+  {
+    "ID": "669",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "falar pelos cotovelos",
+    "explanation_en": "to speak too much"
+  },
+  {
+    "ID": "670",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "farinha do mesmo saco",
+    "explanation_en": "when a person is similar to another person or group"
+  },
+  {
+    "ID": "671",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "ficar a ver navios",
+    "explanation_en": "to be left without anything"
+  },
+  {
+    "ID": "672",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "ficar de molho",
+    "explanation_en": "to be forgotten"
+  },
+  {
+    "ID": "673",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "ir para o saco",
+    "explanation_en": "to die"
+  },
+  {
+    "ID": "674",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "isso é o de menos",
+    "explanation_en": "that is not the worst part"
+  },
+  {
+    "ID": "675",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "jogar água fora da bacia",
+    "explanation_en": "to make a mistake"
+  },
+  {
+    "ID": "676",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "lavar a égua",
+    "explanation_en": "to do something one had been desiring for a long time"
+  },
+  {
+    "ID": "677",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "levar a vida na flauta",
+    "explanation_en": "not to take something seriously"
+  },
+  {
+    "ID": "678",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "não faz mal",
+    "explanation_en": "it does not matter, never mind"
+  },
+  {
+    "ID": "679",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "não ter pés nem cabeça",
+    "explanation_en": "not to make any sense"
+  },
+  {
+    "ID": "680",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "não tô nem aí",
+    "explanation_en": "i just don’t care"
+  },
+  {
+    "ID": "681",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "novinho em folha",
+    "explanation_en": "to be recovered from disease or game"
+  },
+  {
+    "ID": "682",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "olhar com o rabo do olho",
+    "explanation_en": "to look at someone briefly, obliquely"
+  },
+  {
+    "ID": "683",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "osso difícil de roer",
+    "explanation_en": "an ignorant person that is hard to satisfy or persuade"
+  },
+  {
+    "ID": "684",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "ouvir o galo cantar e não saber onde",
+    "explanation_en": "give an opinion without having a deep knowledge"
+  },
+  {
+    "ID": "685",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "pão-duro",
+    "explanation_en": "miser, a stingy person"
+  },
+  {
+    "ID": "686",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "para inglês ver",
+    "explanation_en": "just for show - make an impression"
+  },
+  {
+    "ID": "687",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "pisar em ovos",
+    "explanation_en": "to be careful"
+  },
+  {
+    "ID": "688",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "pisar na bola",
+    "explanation_en": "to make a mistake"
+  },
+  {
+    "ID": "689",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "pôr o rabo entre as pernas",
+    "explanation_en": "to withdraw from a position, usually with shame"
+  },
+  {
+    "ID": "690",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "santo de casa não faz milagre",
+    "explanation_en": "if you are someone important at work or in the world, at home you are no one special"
+  },
+  {
+    "ID": "691",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "segurar vela",
+    "explanation_en": "when a friend accompany some couple to somewhere"
+  },
+  {
+    "ID": "692",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "sem eira nem beira",
+    "explanation_en": "someone that do not have anything"
+  },
+  {
+    "ID": "693",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "ser carta fora do baralho",
+    "explanation_en": "to be relegated to an irrelevant position"
+  },
+  {
+    "ID": "694",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "tirar o cavalinho da chuva",
+    "explanation_en": "forget it/don't wait for it"
+  },
+  {
+    "ID": "695",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "custa os olhos da cara",
+    "explanation_en": "something very expensive"
+  },
+  {
+    "ID": "696",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "o gato comeu sua língua",
+    "explanation_en": "someone that do not want to speak"
+  },
+  {
+    "ID": "697",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "café com leite",
+    "explanation_en": "someone tha is not expert to do something"
+  },
+  {
+    "ID": "698",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "querer abracar o mundo",
+    "explanation_en": "to make many thing in the same time"
+  },
+  {
+    "ID": "699",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "estamos no mesmo barco",
+    "explanation_en": "everybody is facing the same problem"
+  },
+  {
+    "ID": "700",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "puxão de orelhas",
+    "explanation_en": "soft penalty"
+  },
+  {
+    "ID": "701",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "bem vindo ao grupo",
+    "explanation_en": "someone just arrived in somewhere and to join a group in the bad situation"
+  },
+  {
+    "ID": "702",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "puxa saco",
+    "explanation_en": "a person trying to please someone with a better position than it"
+  },
+  {
+    "ID": "703",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "quebra galho",
+    "explanation_en": "a person that is"
+  },
+  {
+    "ID": "704",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "comprei um mamão",
+    "explanation_en": "a person buys something that all time gives problems"
+  },
+  {
+    "ID": "705",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "não morre tão cedo",
+    "explanation_en": "when is talking about one person and this person appears"
+  },
+  {
+    "ID": "706",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "lavar a roupa suja",
+    "explanation_en": "to discuss in public"
+  },
+  {
+    "ID": "707",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "chorar pelo leite derramado",
+    "explanation_en": "when something happens and nothing can be done."
+  },
+  {
+    "ID": "708",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "o mundo da voltas",
+    "explanation_en": "when a person does something bad for someone, in the future bad thing can happen for her"
+  },
+  {
+    "ID": "709",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "mamão com acucar",
+    "explanation_en": "something easy to solving"
+  },
+  {
+    "ID": "710",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "deus ajuda quem cedo madruga",
+    "explanation_en": "good things come for whom to prepare very well"
+  },
+  {
+    "ID": "711",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "muito cacique para pouco indio",
+    "explanation_en": "many people doing the same thing, it will not result in good things"
+  },
+  {
+    "ID": "712",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "ficar puto",
+    "explanation_en": "to be angry with something or someone"
+  },
+  {
+    "ID": "713",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "estar nas nuvens",
+    "explanation_en": "to be bliss way"
+  },
+  {
+    "ID": "714",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "nem que a vaca tussa",
+    "explanation_en": "something that will not happen"
+  },
+  {
+    "ID": "715",
+    "source": "LIdioms",
+    "language": "pt",
+    "proverb": "matar dois coelhos com uma cajadada só",
+    "explanation_en": "to solve two problems with one resource"
+  },
+  {
+    "ID": "716",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "вернемся к нашим баранам",
+    "explanation_en": "let's return to our subject"
+  },
+  {
+    "ID": "717",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "льёт как из ведра",
+    "explanation_en": "heavly rain"
+  },
+  {
+    "ID": "718",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "водить за нос",
+    "explanation_en": "fool, trick"
+  },
+  {
+    "ID": "719",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "мастер на все руки",
+    "explanation_en": "guy who can do everything (in a good way)"
+  },
+  {
+    "ID": "720",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "волосы дыбом",
+    "explanation_en": "to make someone feel very frightened"
+  },
+  {
+    "ID": "721",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "ни рыба ни мясо",
+    "explanation_en": "not this, not that (like something in the middle which nobody wants)"
+  },
+  {
+    "ID": "722",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "вот где собака зарыта",
+    "explanation_en": "the essential part or cause of something"
+  },
+  {
+    "ID": "723",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "смотреть в оба",
+    "explanation_en": "be aware, looking out for something, be suspicious"
+  },
+  {
+    "ID": "724",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "всыпать по первое число",
+    "explanation_en": "to interrogate, scrutinize, or question someone intensely or thoroughly"
+  },
+  {
+    "ID": "725",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "проще пареной репы",
+    "explanation_en": "easier than easy (super easy)"
+  },
+  {
+    "ID": "726",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "втирать очки",
+    "explanation_en": "to deceive someone"
+  },
+  {
+    "ID": "727",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "убить двух зайцев одним выстрелом",
+    "explanation_en": "make two things with one action"
+  },
+  {
+    "ID": "728",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "глас вопиющего в пустыне",
+    "explanation_en": "someone who expresses an idea or opinion that is not popular"
+  },
+  {
+    "ID": "729",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "гол как сокол",
+    "explanation_en": "very poor"
+  },
+  {
+    "ID": "730",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "голая правда",
+    "explanation_en": "the complete, unembellished truth."
+  },
+  {
+    "ID": "731",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "горе луковое",
+    "explanation_en": "having to do with someone in the last period of a term in an elective office."
+  },
+  {
+    "ID": "732",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "двуликий янус",
+    "explanation_en": "two-faced (janus)"
+  },
+  {
+    "ID": "733",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "дело в шляпе",
+    "explanation_en": "it's in the bag, it's a sure thing"
+  },
+  {
+    "ID": "734",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "деньги не пахнут",
+    "explanation_en": "the source of money doesn't matter (it could be dirty money, but it doesn't smell)"
+  },
+  {
+    "ID": "735",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "довести до белого каления",
+    "explanation_en": "to make somebody get very angry"
+  },
+  {
+    "ID": "736",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "египетские казни",
+    "explanation_en": "very severe punishment (cruel and unusual)"
+  },
+  {
+    "ID": "737",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "зарубить на носу",
+    "explanation_en": "take that information and give it some thought, get it in your head"
+  },
+  {
+    "ID": "738",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "как кур во щи (попасть)",
+    "explanation_en": "to be the person (as in drawing lots) to whom an unwelcome task or fate falls"
+  },
+  {
+    "ID": "739",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "калиф на час",
+    "explanation_en": "king for a day"
+  },
+  {
+    "ID": "740",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "козел отпущения",
+    "explanation_en": "to make someone take the blame for something"
+  },
+  {
+    "ID": "741",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "отложить в долгий ящик",
+    "explanation_en": "to shelve, put off for another time"
+  },
+  {
+    "ID": "742",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "разводить антимонии",
+    "explanation_en": "to chat casually and without purpose."
+  },
+  {
+    "ID": "743",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "сбоку припека",
+    "explanation_en": "redundant"
+  },
+  {
+    "ID": "744",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "тертый калач",
+    "explanation_en": "someone who is experienced at doing something"
+  },
+  {
+    "ID": "745",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "точить лясы",
+    "explanation_en": "casual or unconstrained conversation or reports about other people, typically involving details which are not confirmed as true."
+  },
+  {
+    "ID": "746",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "филькина грамота",
+    "explanation_en": "useless scrap of paper (of promise, certificate)"
+  },
+  {
+    "ID": "747",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "яблоко раздора",
+    "explanation_en": "the subject or point of an argument; an unsettled point of disagreement."
+  },
+  {
+    "ID": "748",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "ящик пандоры",
+    "explanation_en": "a source of unforeseen trouble"
+  },
+  {
+    "ID": "749",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "в ногах правды нет",
+    "explanation_en": "there's no point in stadning, have a seat"
+  },
+  {
+    "ID": "750",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "кто рано встает тому бог подает",
+    "explanation_en": "something that you say in order to tell someone that if they want to be successful they should do something immediately"
+  },
+  {
+    "ID": "751",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "в гостях хорошо а дома лучше",
+    "explanation_en": "home is the best place to be no matter where it is."
+  },
+  {
+    "ID": "752",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "цель оправдывает средства",
+    "explanation_en": "if a goal is morally important enough, any method of achieving it is acceptable."
+  },
+  {
+    "ID": "753",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "на вкус и цвет товарищей нет",
+    "explanation_en": "each person has the right to make choices."
+  },
+  {
+    "ID": "754",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "исключение подтверждает правило",
+    "explanation_en": "to prove"
+  },
+  {
+    "ID": "755",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "все хорошо в свое время",
+    "explanation_en": "everything is good when it's in season"
+  },
+  {
+    "ID": "756",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "запретный плод сладок",
+    "explanation_en": "forbidden things have more worthwhile short-term consequences."
+  },
+  {
+    "ID": "757",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "яблоко от яблони недалеко падает",
+    "explanation_en": "kids are like their parents"
+  },
+  {
+    "ID": "758",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "нет дыма без огня",
+    "explanation_en": "something that you say which means that if people are saying that someone has done something bad but no one knows whether it is true, it probably is true"
+  },
+  {
+    "ID": "759",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "клин клином вышибается",
+    "explanation_en": "use against your opponent the same methods he or she is using against you."
+  },
+  {
+    "ID": "760",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "от судьбы не уйти",
+    "explanation_en": "you set your mind on something and devote all your strength to do it, thou just may succeed."
+  },
+  {
+    "ID": "761",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "не все то золото, что блестит",
+    "explanation_en": "just because something looks attractive does not mean it is genuine or valuable."
+  },
+  {
+    "ID": "762",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "внешность обманчива",
+    "explanation_en": "apperances can be deceiving"
+  },
+  {
+    "ID": "763",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "каждый сам строитель своего счастья",
+    "explanation_en": "every man is the forger of his own luck"
+  },
+  {
+    "ID": "764",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "лучше синица в руках чем журавль в небе",
+    "explanation_en": "having something for certain is better than the possibility of getting something better."
+  },
+  {
+    "ID": "765",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "дареному коню в зубы не смотрят",
+    "explanation_en": "to be ungrateful to someone who gives you something"
+  },
+  {
+    "ID": "766",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "водой не разольёшь",
+    "explanation_en": "to have very good friends, to be always together"
+  },
+  {
+    "ID": "767",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "лить как из ведра",
+    "explanation_en": "to rain a lot"
+  },
+  {
+    "ID": "768",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "как об стенку горох",
+    "explanation_en": "the person you are speaking to does not listen"
+  },
+  {
+    "ID": "769",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "красный как рак",
+    "explanation_en": "suffer embarrassment or shame"
+  },
+  {
+    "ID": "770",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "набрать в рот воды",
+    "explanation_en": "say nothing about this, it's a secret"
+  },
+  {
+    "ID": "771",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "знать как свои пять пальцев",
+    "explanation_en": "a display of rejection, disdain, or contempt (for a person or thing)"
+  },
+  {
+    "ID": "772",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "белая ворона",
+    "explanation_en": "someone or something that is different from the other people or things in a group"
+  },
+  {
+    "ID": "773",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "друг познаётся в беде",
+    "explanation_en": "something that you say which means that someone who gives you help when you need it is a really good friend"
+  },
+  {
+    "ID": "774",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "без труда не вытащишь и рыбку из пруда",
+    "explanation_en": "no exist sucess without hard work"
+  },
+  {
+    "ID": "775",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "век живи век учись",
+    "explanation_en": "to increase one's knowledge by experience."
+  },
+  {
+    "ID": "776",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "будет и на нашей улице праздник",
+    "explanation_en": "everyone gets a chance eventually."
+  },
+  {
+    "ID": "777",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "любовь зла, полюбишь и козла",
+    "explanation_en": "when you love someone, you don't see any faults in the person"
+  },
+  {
+    "ID": "778",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "за спрос не бьют в нос",
+    "explanation_en": "when one asks a question, even when the answer is known to be no"
+  },
+  {
+    "ID": "779",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "пьяному море по колено",
+    "explanation_en": "when a man is drunk, he does not fear anything"
+  },
+  {
+    "ID": "780",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "до свадьбы заживёт",
+    "explanation_en": "a person will survive after some problem"
+  },
+  {
+    "ID": "781",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "когда рак на горе свистнет",
+    "explanation_en": "something that will not happen"
+  },
+  {
+    "ID": "782",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "как гром среди ясного неба",
+    "explanation_en": "it happens suddenly and you are not expecting it"
+  },
+  {
+    "ID": "783",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "на воре и шапка горит",
+    "explanation_en": "to say something so often that people doubt you are sincere"
+  },
+  {
+    "ID": "784",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "кот наплакал",
+    "explanation_en": "very little"
+  },
+  {
+    "ID": "785",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "по коням!",
+    "explanation_en": "let's go! (let's ride outta here, in the car)"
+  },
+  {
+    "ID": "786",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "хоть шаром покати",
+    "explanation_en": "completely empty, nothing up there"
+  },
+  {
+    "ID": "787",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "мышь повесилась (в холодильнике)",
+    "explanation_en": "there's nothing to eat (in the fridge)"
+  },
+  {
+    "ID": "788",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "выбивать из колеи",
+    "explanation_en": "to forget what one was talking or thinking about"
+  },
+  {
+    "ID": "789",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "заговаривать зубы",
+    "explanation_en": "change the subject/butter up/charm away a problem"
+  },
+  {
+    "ID": "790",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "э´то eжу´ я´сно (это ежу понятно)",
+    "explanation_en": "anyone could see it"
+  },
+  {
+    "ID": "791",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "глядеть в оба",
+    "explanation_en": "to be unprepared."
+  },
+  {
+    "ID": "792",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "быть начеку(')",
+    "explanation_en": "move faster!"
+  },
+  {
+    "ID": "793",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "из ко´жи вон лeзть",
+    "explanation_en": "to do something as well as you can by making a ​great ​effort:"
+  },
+  {
+    "ID": "794",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "тaнцeвa´ть от пe´чки",
+    "explanation_en": "to start something again that was unsucessful"
+  },
+  {
+    "ID": "795",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "вороти´лa",
+    "explanation_en": "an important person; a self-important person."
+  },
+  {
+    "ID": "796",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "медведь на ухо наступил",
+    "explanation_en": "to be tone deaf"
+  },
+  {
+    "ID": "797",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "остаешься за главного",
+    "explanation_en": "to remain behind and take care of things"
+  },
+  {
+    "ID": "798",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "обвести вокруг пальца",
+    "explanation_en": "to be able to persuade someone to do anything you want, usually because they like you so much"
+  },
+  {
+    "ID": "799",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "держать язык за зубами",
+    "explanation_en": "keep a secret"
+  },
+  {
+    "ID": "800",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "москва не сразу строилась",
+    "explanation_en": "important work takes time."
+  },
+  {
+    "ID": "801",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "нужда заставляет",
+    "explanation_en": "something that you say which means that if you want to do something very much you will think of a way to do it"
+  },
+  {
+    "ID": "802",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "плечом к плечу",
+    "explanation_en": "to be very close or equal with someone"
+  },
+  {
+    "ID": "803",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "цыплят по осени считают",
+    "explanation_en": "make plans based on events that may or may not happen."
+  },
+  {
+    "ID": "804",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "не имей сто рублей, а имей сто друзей",
+    "explanation_en": "better to have friends than money"
+  },
+  {
+    "ID": "805",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "береги честь смолоду, а платье снову",
+    "explanation_en": "those who would be young when they are old must be old when they are young."
+  },
+  {
+    "ID": "806",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "утро вечера мудренее",
+    "explanation_en": "one may not accomplish everything today but will have another chance."
+  },
+  {
+    "ID": "807",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "тянуть кота за хвост",
+    "explanation_en": "to keep delaying something"
+  },
+  {
+    "ID": "808",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "бьется как рыба об лед",
+    "explanation_en": "do something without a result"
+  },
+  {
+    "ID": "809",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "стучаться в закрытую дверь",
+    "explanation_en": "there's no point to it"
+  },
+  {
+    "ID": "810",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "чесать репу",
+    "explanation_en": "to have difficulty understanding something"
+  },
+  {
+    "ID": "811",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "рыба тухнет с головы",
+    "explanation_en": "when an organization or state fails, it is the leadership that is the root cause."
+  },
+  {
+    "ID": "812",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "грызть гранит науки",
+    "explanation_en": "to work studiously, especially late into the night."
+  },
+  {
+    "ID": "813",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "менять шило на мыло",
+    "explanation_en": "to trade bad for worse"
+  },
+  {
+    "ID": "814",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "и так и сяк",
+    "explanation_en": "in many different directions"
+  },
+  {
+    "ID": "815",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "затаить дыхание",
+    "explanation_en": "you feel very excited or anxious while you are waiting"
+  },
+  {
+    "ID": "816",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "для красного словца",
+    "explanation_en": "to say something for effect"
+  },
+  {
+    "ID": "817",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "дешево отделаться",
+    "explanation_en": "a situation in which you were lucky because you just managed to avoid danger or trouble"
+  },
+  {
+    "ID": "818",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "подловили!",
+    "explanation_en": "when someone is tricking to another and this another person discover that is a joke"
+  },
+  {
+    "ID": "819",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "не поднимай кипиш",
+    "explanation_en": "to do or say something that causes problems, especially if you try to change a situation which most people do not want to change"
+  },
+  {
+    "ID": "820",
+    "source": "LIdioms",
+    "language": "rus",
+    "proverb": "семь раз отмерь один раз отрежь",
+    "explanation_en": "something that you say in order to advise someone to think about possible problems before doing something"
+  }
+]

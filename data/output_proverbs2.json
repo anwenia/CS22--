@@ -1,0 +1,1024 @@
+[
+  {
+    "ID": "1",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere una boccata di aria fresca",
+    "explanation_en": "said of a positive news"
+  },
+  {
+    "ID": "2",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare l'avvocato del diavolo",
+    "explanation_en": "expresses a contentious opinion only to provoke debate"
+  },
+  {
+    "ID": "3",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "aprire la strada",
+    "explanation_en": "start something new"
+  },
+  {
+    "ID": "4",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "prendere qualcuno per mano",
+    "explanation_en": "be a guide to someone"
+  },
+  {
+    "ID": "5",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "ricevere una fetta della torta",
+    "explanation_en": "get a share of the profits"
+  },
+  {
+    "ID": "6",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "avere l'argento vivo addosso",
+    "explanation_en": "be very lively"
+  },
+  {
+    "ID": "7",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare quattro chiacchiere",
+    "explanation_en": "have a relaxed conversation"
+  },
+  {
+    "ID": "8",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "battere il ferro finché è caldo",
+    "explanation_en": "take advantage of circumstances while they are favorable"
+  },
+  {
+    "ID": "9",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "non alzare un dito",
+    "explanation_en": "do nothing to help someone"
+  },
+  {
+    "ID": "10",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "colpire nel segno",
+    "explanation_en": "get exactly something right"
+  },
+  {
+    "ID": "11",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "vuotare il sacco",
+    "explanation_en": "reveal a secret"
+  },
+  {
+    "ID": "12",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere la ciliegina sulla torta",
+    "explanation_en": "said of something extra that makes a good thing even better"
+  },
+  {
+    "ID": "13",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere a un bivio",
+    "explanation_en": "be uncertain between two decisions"
+  },
+  {
+    "ID": "14",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "andare a rotoli",
+    "explanation_en": "fail"
+  },
+  {
+    "ID": "15",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "rimettersi in piedi",
+    "explanation_en": "get well again after a period of crisis"
+  },
+  {
+    "ID": "16",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere al settimo cielo",
+    "explanation_en": "be happy"
+  },
+  {
+    "ID": "17",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "mettersi nei panni di qualcuno",
+    "explanation_en": "empathize with the circumstances of others"
+  },
+  {
+    "ID": "18",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "andare a braccetto",
+    "explanation_en": "get along"
+  },
+  {
+    "ID": "19",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare accapponare la pelle a qualcuno",
+    "explanation_en": "arouse horror in someone"
+  },
+  {
+    "ID": "20",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "stare in campana",
+    "explanation_en": "stay alert"
+  },
+  {
+    "ID": "21",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "sapere qualcosa per filo e per segno",
+    "explanation_en": "know something in great detail"
+  },
+  {
+    "ID": "22",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "passare a pieni voti",
+    "explanation_en": "do something successfully"
+  },
+  {
+    "ID": "23",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "guastare la festa a qualcuno",
+    "explanation_en": "ruin someone's plans"
+  },
+  {
+    "ID": "24",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "andare secondo il vento",
+    "explanation_en": "act in accordance with the prevailing opinion"
+  },
+  {
+    "ID": "25",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere arabo per qualcuno",
+    "explanation_en": "said of something that is incomprehensible"
+  },
+  {
+    "ID": "26",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere alle corde",
+    "explanation_en": "be close to defeat"
+  },
+  {
+    "ID": "27",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "andare liscio come l'olio",
+    "explanation_en": "said of something that proceeds without problems"
+  },
+  {
+    "ID": "28",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "costare un occhio della testa",
+    "explanation_en": "said of something that is very expensive"
+  },
+  {
+    "ID": "29",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "dare nell'occhio",
+    "explanation_en": "draw attention"
+  },
+  {
+    "ID": "30",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "rientrare in gioco",
+    "explanation_en": "resume part in an activity"
+  },
+  {
+    "ID": "31",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "scivolare su una buccia di banana",
+    "explanation_en": "make a silly mistake"
+  },
+  {
+    "ID": "32",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "contare le pecore",
+    "explanation_en": "attempt to fall asleep"
+  },
+  {
+    "ID": "33",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "avere qualche rotella fuori posto",
+    "explanation_en": "be extravagant"
+  },
+  {
+    "ID": "34",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere culo e camicia",
+    "explanation_en": "be close friends"
+  },
+  {
+    "ID": "35",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere con l'acqua alla gola",
+    "explanation_en": "be in extreme difficulty"
+  },
+  {
+    "ID": "36",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "passare sul cadavere di qualcuno",
+    "explanation_en": "not let something happen"
+  },
+  {
+    "ID": "37",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "giocare a carte scoperte",
+    "explanation_en": "act without subterfuge"
+  },
+  {
+    "ID": "38",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere al fresco",
+    "explanation_en": "be in prison"
+  },
+  {
+    "ID": "39",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "tirare le cuoia",
+    "explanation_en": "die"
+  },
+  {
+    "ID": "40",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "svanire nel nulla",
+    "explanation_en": "disappear without a trace"
+  },
+  {
+    "ID": "41",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "avere un posto al sole",
+    "explanation_en": "have a prestigious economic and social position"
+  },
+  {
+    "ID": "42",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere un raggio di sole",
+    "explanation_en": "said of a person who brings happiness"
+  },
+  {
+    "ID": "43",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "pendere dalle labbra di qualcuno",
+    "explanation_en": "listen very carefully to someone's words"
+  },
+  {
+    "ID": "44",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere in rosso",
+    "explanation_en": "have no money"
+  },
+  {
+    "ID": "45",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "toccare il fondo",
+    "explanation_en": "have reached the worst situation imaginable"
+  },
+  {
+    "ID": "46",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere il ritratto sputato di qualcuno",
+    "explanation_en": "look a lot like someone"
+  },
+  {
+    "ID": "47",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare acqua da tutte le parti",
+    "explanation_en": "said of something that has many flaws"
+  },
+  {
+    "ID": "48",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "spezzare il cuore a qualcuno",
+    "explanation_en": "make someone suffer"
+  },
+  {
+    "ID": "49",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere la goccia che fa traboccare il vaso",
+    "explanation_en": "said of the latest in a series of unpleasant events that leads to no longer tolerating a situation"
+  },
+  {
+    "ID": "50",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere sano come un pesce",
+    "explanation_en": "be in perfect physical condition"
+  },
+  {
+    "ID": "51",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "perdere la testa",
+    "explanation_en": "go crazy"
+  },
+  {
+    "ID": "53",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "saltare alla gola di qualcuno",
+    "explanation_en": "verbally attack someone"
+  },
+  {
+    "ID": "54",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "avere il coltello dalla parte del manico",
+    "explanation_en": "be in an advantageous position"
+  },
+  {
+    "ID": "55",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere una vecchia fiamma",
+    "explanation_en": "said of a former lover"
+  },
+  {
+    "ID": "56",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere un pezzo di legno",
+    "explanation_en": ""
+  },
+  {
+    "ID": "150",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere al verde",
+    "explanation_en": "have no money"
+  },
+  {
+    "ID": "57",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare qualcosa a regola d'arte",
+    "explanation_en": "do something in the best way possible"
+  },
+  {
+    "ID": "58",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere all'oscuro",
+    "explanation_en": "not being aware"
+  },
+  {
+    "ID": "59",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere sulla stessa lunghezza d'onda",
+    "explanation_en": "agree with someone"
+  },
+  {
+    "ID": "60",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare imbestialire qualcuno",
+    "explanation_en": "make someone angry"
+  },
+  {
+    "ID": "61",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere verde d'invidia",
+    "explanation_en": "be unhappy because someone possesses something that you want"
+  },
+  {
+    "ID": "62",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "avere le spalle larghe",
+    "explanation_en": "be a morally strong person"
+  },
+  {
+    "ID": "63",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere il fiore all'occhiello",
+    "explanation_en": "said of something that is matter of pride"
+  },
+  {
+    "ID": "64",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "passarne di tutti i colori",
+    "explanation_en": "experience many vicissitudes"
+  },
+  {
+    "ID": "65",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "sputare il rospo",
+    "explanation_en": "confess a secret"
+  },
+  {
+    "ID": "66",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "girarsi i pollici",
+    "explanation_en": "do nothing"
+  },
+  {
+    "ID": "67",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "ricevere una soffiata",
+    "explanation_en": "become aware of confidential information"
+  },
+  {
+    "ID": "68",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "guadagnare tempo",
+    "explanation_en": "stall"
+  },
+  {
+    "ID": "69",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "aver bisogno di sangue fresco",
+    "explanation_en": "need new members within an organization"
+  },
+  {
+    "ID": "70",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "esserci cattivo sangue",
+    "explanation_en": "have no good relationship between two or more people"
+  },
+  {
+    "ID": "71",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "puntare i piedi",
+    "explanation_en": "persist"
+  },
+  {
+    "ID": "72",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "alzare il gomito",
+    "explanation_en": "drink a lot of alcohol"
+  },
+  {
+    "ID": "73",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "rompere il ghiaccio",
+    "explanation_en": "overcome awkwardness"
+  },
+  {
+    "ID": "74",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "avere un debole per qualcuno/qualcosa",
+    "explanation_en": "prefer someone or something"
+  },
+  {
+    "ID": "75",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere fuori dai giochi",
+    "explanation_en": "not be involved in something"
+  },
+  {
+    "ID": "76",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "lavorare a testa bassa",
+    "explanation_en": "work with commitment"
+  },
+  {
+    "ID": "77",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "girare i tacchi",
+    "explanation_en": "leave"
+  },
+  {
+    "ID": "78",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "mettere il becco in qualcosa",
+    "explanation_en": "meddle in others' conversations"
+  },
+  {
+    "ID": "80",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere nella fossa dei leoni",
+    "explanation_en": "be in a threatening situation"
+  },
+  {
+    "ID": "81",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere dietro le sbarre",
+    "explanation_en": "be in prison"
+  },
+  {
+    "ID": "82",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "vincere a mani basse",
+    "explanation_en": "get a victory very easily"
+  },
+  {
+    "ID": "83",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere aria fritta",
+    "explanation_en": "said of useless talk"
+  },
+  {
+    "ID": "84",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "chiudere le porte a qualcuno",
+    "explanation_en": "reject someone"
+  },
+  {
+    "ID": "85",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "ciurlare nel manico",
+    "explanation_en": "stall to evade a duty"
+  },
+  {
+    "ID": "86",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "mettere qualcuno al tappeto",
+    "explanation_en": "defeat someone"
+  },
+  {
+    "ID": "87",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "prendere il toro per le corna",
+    "explanation_en": "address a problematic situation head-on"
+  },
+  {
+    "ID": "88",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "colare a picco",
+    "explanation_en": "fail"
+  },
+  {
+    "ID": "89",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "raccogliere i pezzi",
+    "explanation_en": "return to a better condition after a crisis"
+  },
+  {
+    "ID": "90",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "staccare la spina",
+    "explanation_en": "interrupt an activity"
+  },
+  {
+    "ID": "91",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere uno straccio",
+    "explanation_en": "be in poor condition"
+  },
+  {
+    "ID": "92",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "andare in fondo a qualcosa",
+    "explanation_en": "find an explanation for something"
+  },
+  {
+    "ID": "93",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "arricciare il naso",
+    "explanation_en": "express disapproval"
+  },
+  {
+    "ID": "94",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "calzare a pennello",
+    "explanation_en": "fit to perfection"
+  },
+  {
+    "ID": "95",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "passare le pene dell'inferno",
+    "explanation_en": "suffer a lot"
+  },
+  {
+    "ID": "96",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere punto e a capo",
+    "explanation_en": "have to start over"
+  },
+  {
+    "ID": "97",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "far saltare i nervi a qualcuno",
+    "explanation_en": "make lose control in anger"
+  },
+  {
+    "ID": "98",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "stare tra i piedi a qualcuno",
+    "explanation_en": "be an impediment to someone"
+  },
+  {
+    "ID": "99",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "difendere il fortino",
+    "explanation_en": "have responsibility for something while someone is absent"
+  },
+  {
+    "ID": "100",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "annegare i propri dispiaceri",
+    "explanation_en": "try to forget problems by drinking alcohol"
+  },
+  {
+    "ID": "101",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere fuori strada",
+    "explanation_en": "be wrong"
+  },
+  {
+    "ID": "102",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "leggere tra le righe",
+    "explanation_en": "intuit what is implied"
+  },
+  {
+    "ID": "103",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "morire dietro a qualcuno/qualcosa",
+    "explanation_en": "long for someone or something"
+  },
+  {
+    "ID": "104",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "avere le mani legate",
+    "explanation_en": "not be able to act"
+  },
+  {
+    "ID": "105",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare qualcosa a porte chiuse",
+    "explanation_en": "do something in private"
+  },
+  {
+    "ID": "106",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "andare controcorrente",
+    "explanation_en": "behave in the opposite way to the majority"
+  },
+  {
+    "ID": "107",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "spiegare le ali",
+    "explanation_en": "have new experiences"
+  },
+  {
+    "ID": "108",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "ricaricare le pile",
+    "explanation_en": "rest"
+  },
+  {
+    "ID": "109",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "perdere la bussola",
+    "explanation_en": "no longer have control"
+  },
+  {
+    "ID": "110",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "mettere i piedi in testa a qualcuno",
+    "explanation_en": "overpower someone"
+  },
+  {
+    "ID": "111",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "vedere la luce",
+    "explanation_en": "be born"
+  },
+  {
+    "ID": "112",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare qualcosa alle spalle di qualcuno",
+    "explanation_en": "do something without someone's knowledge"
+  },
+  {
+    "ID": "113",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "giocare un brutto tiro a qualcuno",
+    "explanation_en": "be unfair to someone"
+  },
+  {
+    "ID": "114",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "far venire i brividi a qualcuno",
+    "explanation_en": "scare someone"
+  },
+  {
+    "ID": "115",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "avere qualcuno in pugno",
+    "explanation_en": "have control over someone"
+  },
+  {
+    "ID": "116",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "prendere qualcuno per il naso",
+    "explanation_en": "tease someone"
+  },
+  {
+    "ID": "117",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "puntare il dito",
+    "explanation_en": "accuse someone"
+  },
+  {
+    "ID": "118",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "rompere le uova nel paniere a qualcuno",
+    "explanation_en": "ruin someone's plans"
+  },
+  {
+    "ID": "119",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare colpo",
+    "explanation_en": "arouse considerable impression"
+  },
+  {
+    "ID": "121",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "saltare sul carrozzone",
+    "explanation_en": "join with other people to do or support something just because it is popular"
+  },
+  {
+    "ID": "122",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare qualcosa a sangue freddo",
+    "explanation_en": "do something consciously"
+  },
+  {
+    "ID": "123",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "avere il blocco dello scrittore",
+    "explanation_en": "not be able to write"
+  },
+  {
+    "ID": "124",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere un'iniezione di fiducia",
+    "explanation_en": "said of something that gives an immediate positive stimulus"
+  },
+  {
+    "ID": "125",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "parlare al muro",
+    "explanation_en": "waste words on those who won't listen"
+  },
+  {
+    "ID": "126",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "far ribollire il sangue a qualcuno",
+    "explanation_en": "make someone angry"
+  },
+  {
+    "ID": "127",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "stare col fiato sospeso",
+    "explanation_en": "wait anxiously"
+  },
+  {
+    "ID": "128",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "scappare a gambe levate",
+    "explanation_en": "rush away"
+  },
+  {
+    "ID": "129",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere la fine del mondo",
+    "explanation_en": "said of something that is excellent"
+  },
+  {
+    "ID": "130",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "forzare la mano a qualcuno",
+    "explanation_en": "force someone to do something"
+  },
+  {
+    "ID": "131",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere una bomba",
+    "explanation_en": "said of something that is very much liked"
+  },
+  {
+    "ID": "132",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "andare a naso",
+    "explanation_en": "follow your intuition"
+  },
+  {
+    "ID": "133",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "ripulire le tasche a qualcuno",
+    "explanation_en": "rob someone"
+  },
+  {
+    "ID": "134",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "avere qualcosa nelle vene",
+    "explanation_en": "have a natural talent"
+  },
+  {
+    "ID": "135",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare i salti mortali",
+    "explanation_en": "make great efforts"
+  },
+  {
+    "ID": "136",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "bruciare a fuoco lento",
+    "explanation_en": "be in the grip of a passion that consumes little by little"
+  },
+  {
+    "ID": "137",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "gettare la maschera",
+    "explanation_en": "reveal your intentions"
+  },
+  {
+    "ID": "138",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere alla frutta",
+    "explanation_en": "have exhausted every resource"
+  },
+  {
+    "ID": "139",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "perdere le staffe",
+    "explanation_en": "get angry"
+  },
+  {
+    "ID": "140",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "menare il can per l'aia",
+    "explanation_en": "procrastinate"
+  },
+  {
+    "ID": "141",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "mettere parole in bocca a qualcuno",
+    "explanation_en": "attribute opinions to someone"
+  },
+  {
+    "ID": "142",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "essere la dolce metà di qualcuno",
+    "explanation_en": "said of the person with whom one has a romantic relationship"
+  },
+  {
+    "ID": "143",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "non reggersi in piedi",
+    "explanation_en": "be very tired"
+  },
+  {
+    "ID": "144",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "prendere la parola",
+    "explanation_en": "intervene in a discussion"
+  },
+  {
+    "ID": "145",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "gettare la spugna",
+    "explanation_en": "surrender"
+  },
+  {
+    "ID": "146",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "toccare corde sensibili",
+    "explanation_en": "deal with topics that can arouse emotions"
+  },
+  {
+    "ID": "147",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "fare arruffare le penne a qualcuno",
+    "explanation_en": "make someone angry"
+  },
+  {
+    "ID": "149",
+    "source": "Pagliai",
+    "language": "it",
+    "proverb": "agitare le acque",
+    "explanation_en": "disturb the stability of a situation"
+  }
+]

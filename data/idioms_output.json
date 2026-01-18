@@ -1,0 +1,4202 @@
+[
+  {
+    "ID": "1",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "a fish out of water",
+    "explanation_en": "awkward because in a situation one is not accustomed to"
+  },
+  {
+    "ID": "1",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein Fisch auf dem Trockenen",
+    "explanation_en": "awkward because in a situation one is not accustomed to"
+  },
+  {
+    "ID": "2",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "a piece of cake",
+    "explanation_en": "something that can be done or obtained very easily"
+  },
+  {
+    "ID": "2",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein Klacks sein",
+    "explanation_en": "something that can be done or obtained very easily"
+  },
+  {
+    "ID": "3",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "add fuel to the fire",
+    "explanation_en": "make an already difficult situation, e.g. an argument, worse by one's actions or words"
+  },
+  {
+    "ID": "3",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Öl ins Feuer gießen",
+    "explanation_en": "make an already difficult situation, e.g. an argument, worse by one's actions or words"
+  },
+  {
+    "ID": "4",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "go against the grain",
+    "explanation_en": "in opposition to a natural tendency, custom, etc."
+  },
+  {
+    "ID": "4",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "gegen den Strich gehen",
+    "explanation_en": "in opposition to a natural tendency, custom, etc."
+  },
+  {
+    "ID": "5",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "armed to the teeth",
+    "explanation_en": "fully armed with the neccessary weapons, tools, etc."
+  },
+  {
+    "ID": "5",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "bis zu den Zähnen bewaffnet sein",
+    "explanation_en": "fully armed with the neccessary weapons, tools, etc."
+  },
+  {
+    "ID": "6",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "like two peas in a pod",
+    "explanation_en": "very or exactly alike"
+  },
+  {
+    "ID": "6",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich gleichen wie ein Ei dem anderen",
+    "explanation_en": "very or exactly alike"
+  },
+  {
+    "ID": "7",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "be at the back of one's mind",
+    "explanation_en": "(of an idea, hidden intention, or worry) in a person's thoughts"
+  },
+  {
+    "ID": "7",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "in jmds Hinterkopf sein",
+    "explanation_en": "(of an idea, hidden intention, or worry) in a person's thoughts"
+  },
+  {
+    "ID": "8",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "be back to square one",
+    "explanation_en": "back to the original starting point, especially when a point is reached in which no further progress can be made and the work, activity, etc. must be begun again"
+  },
+  {
+    "ID": "8",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "wieder so weit sein wie zuvor",
+    "explanation_en": "back to the original starting point, especially when a point is reached in which no further progress can be made and the work, activity, etc. must be begun again"
+  },
+  {
+    "ID": "9",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "balance the books",
+    "explanation_en": "determine through accounting that accounts are in balance, that all money is accounted for"
+  },
+  {
+    "ID": "9",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Buchführung abstimmen",
+    "explanation_en": "determine through accounting that accounts are in balance, that all money is accounted for"
+  },
+  {
+    "ID": "10",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "bang/beat the drum",
+    "explanation_en": "give one's vigorous support for something"
+  },
+  {
+    "ID": "10",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Trommel rühren",
+    "explanation_en": "give one's vigorous support for something"
+  },
+  {
+    "ID": "11",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "be a wet blanket",
+    "explanation_en": "be a dull or boring person who spoils other people's happiness"
+  },
+  {
+    "ID": "11",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein Spielverderber sein",
+    "explanation_en": "be a dull or boring person who spoils other people's happiness"
+  },
+  {
+    "ID": "12",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "be on cloud nine",
+    "explanation_en": "be very happy"
+  },
+  {
+    "ID": "12",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "auf Wolke sieben schweben",
+    "explanation_en": "be very happy"
+  },
+  {
+    "ID": "13",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "be the spitting image",
+    "explanation_en": "look very alike (another person, especially a relative)"
+  },
+  {
+    "ID": "13",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm wie aus dem Gesicht geschnitten sein",
+    "explanation_en": "look very alike (another person, especially a relative)"
+  },
+  {
+    "ID": "14",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "beat to the punch",
+    "explanation_en": "do or obtain something before (someone)"
+  },
+  {
+    "ID": "14",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm. zuvorkommen",
+    "explanation_en": "do or obtain something before (someone)"
+  },
+  {
+    "ID": "15",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "behind the times",
+    "explanation_en": "old-fashioned; not fashionable, usual etc. at the particular time"
+  },
+  {
+    "ID": "15",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "hinter dem Mond leben",
+    "explanation_en": "old-fashioned; not fashionable, usual etc. at the particular time"
+  },
+  {
+    "ID": "16",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "below the belt",
+    "explanation_en": "(of an attack, blow, remark etc.) not in accordance with rules; unfair"
+  },
+  {
+    "ID": "16",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "unter der Gürtellinie",
+    "explanation_en": "(of an attack, blow, remark etc.) not in accordance with rules; unfair"
+  },
+  {
+    "ID": "17",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "bet your bottom dollar",
+    "explanation_en": "be completely certain (or prepared to bet everything one has because one is completely certain)"
+  },
+  {
+    "ID": "17",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Gift auf etwas nehmen",
+    "explanation_en": "be completely certain (or prepared to bet everything one has because one is completely certain)"
+  },
+  {
+    "ID": "18",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "build castles in the air",
+    "explanation_en": "daydream; imagine visionary ideas"
+  },
+  {
+    "ID": "18",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Luftschlösser bauen",
+    "explanation_en": "daydream; imagine visionary ideas"
+  },
+  {
+    "ID": "19",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "bite someone's head off",
+    "explanation_en": "shout at someone angrily; scold"
+  },
+  {
+    "ID": "19",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jmd. den Kopf abreißen",
+    "explanation_en": "shout at someone angrily; scold"
+  },
+  {
+    "ID": "20",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "bite the bullet",
+    "explanation_en": "face sth. unpleasant"
+  },
+  {
+    "ID": "20",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "in den sauren Apfel beißen",
+    "explanation_en": "face sth. unpleasant"
+  },
+  {
+    "ID": "21",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "bite the dust",
+    "explanation_en": "die"
+  },
+  {
+    "ID": "21",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ins Gras beißen",
+    "explanation_en": "die"
+  },
+  {
+    "ID": "22",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "blaze the trail",
+    "explanation_en": "be the very first in doing something; show the way in some new activity or area of knowledge"
+  },
+  {
+    "ID": "22",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Weg freimachen",
+    "explanation_en": "be the very first in doing something; show the way in some new activity or area of knowledge"
+  },
+  {
+    "ID": "23",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "blow a fuse",
+    "explanation_en": "suddenly become very angry; lose one's temper"
+  },
+  {
+    "ID": "23",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Sicherung durchbrennen",
+    "explanation_en": "suddenly become very angry; lose one's temper"
+  },
+  {
+    "ID": "24",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "blow someone's mind",
+    "explanation_en": "experience or cause someone to experience great mental excitement"
+  },
+  {
+    "ID": "24",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jmd. umhauen",
+    "explanation_en": "experience or cause someone to experience great mental excitement"
+  },
+  {
+    "ID": "25",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "blow to kingdome come",
+    "explanation_en": "kill (a person), especially by using explosives or another very violent method"
+  },
+  {
+    "ID": "25",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jmd ins Jenseits befördern",
+    "explanation_en": "kill (a person), especially by using explosives or another very violent method"
+  },
+  {
+    "ID": "26",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "blow your top",
+    "explanation_en": "become very angry"
+  },
+  {
+    "ID": "26",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "an die Decke gehen",
+    "explanation_en": "become very angry"
+  },
+  {
+    "ID": "27",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "born with a silver spoon",
+    "explanation_en": "have wealthy parents, be born into a rich family"
+  },
+  {
+    "ID": "27",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "mit einem silbernen Löffel im Mund geboren",
+    "explanation_en": "have wealthy parents, be born into a rich family"
+  },
+  {
+    "ID": "28",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "break the bank",
+    "explanation_en": "win all the money that is being risked at a game of chance, esp. in a casino"
+  },
+  {
+    "ID": "28",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Bank sprengen",
+    "explanation_en": "win all the money that is being risked at a game of chance, esp. in a casino"
+  },
+  {
+    "ID": "29",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "break the ice",
+    "explanation_en": "ease the nervousness or formality in a social situation by a friendly act, conversation, etc."
+  },
+  {
+    "ID": "29",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "das Eis brechen",
+    "explanation_en": "ease the nervousness or formality in a social situation by a friendly act, conversation, etc."
+  },
+  {
+    "ID": "30",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "break the record",
+    "explanation_en": "go faster, be greater, do better etc. than was ever the case before"
+  },
+  {
+    "ID": "30",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Rekord brechen",
+    "explanation_en": "go faster, be greater, do better etc. than was ever the case before"
+  },
+  {
+    "ID": "31",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "bring home the bacon",
+    "explanation_en": "succeed in doing something, e.g. in earning enough money to support one's family"
+  },
+  {
+    "ID": "31",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Brötchen verdienen",
+    "explanation_en": "succeed in doing something, e.g. in earning enough money to support one's family"
+  },
+  {
+    "ID": "32",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "burn the midnight oil",
+    "explanation_en": "work very late, especially to study"
+  },
+  {
+    "ID": "32",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Nachtschicht einlegen",
+    "explanation_en": "work very late, especially to study"
+  },
+  {
+    "ID": "33",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "bury the hatchet",
+    "explanation_en": "agree to be friends after having a quarrel, especially a long one"
+  },
+  {
+    "ID": "33",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "das Kriegsbeil begraben",
+    "explanation_en": "agree to be friends after having a quarrel, especially a long one"
+  },
+  {
+    "ID": "34",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "bust a gut",
+    "explanation_en": "make a great effort (to do something)"
+  },
+  {
+    "ID": "34",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich einen abbrechen",
+    "explanation_en": "make a great effort (to do something)"
+  },
+  {
+    "ID": "35",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "by word of mouth",
+    "explanation_en": "spoken and not written"
+  },
+  {
+    "ID": "35",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "durch mündliche Überlieferung",
+    "explanation_en": "spoken and not written"
+  },
+  {
+    "ID": "36",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "call a meeting",
+    "explanation_en": "ask that people assemble for a meeting"
+  },
+  {
+    "ID": "36",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Versammlung einberufen",
+    "explanation_en": "ask that people assemble for a meeting"
+  },
+  {
+    "ID": "37",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "call the shots",
+    "explanation_en": "control events or a situation; decide what should be done and when"
+  },
+  {
+    "ID": "37",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Ton angeben",
+    "explanation_en": "control events or a situation; decide what should be done and when"
+  },
+  {
+    "ID": "38",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "can't believe my ears",
+    "explanation_en": "cannot accept something one has just heard"
+  },
+  {
+    "ID": "38",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "seinen Ohren nicht trauen",
+    "explanation_en": "cannot accept something one has just heard"
+  },
+  {
+    "ID": "39",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "carry a torch (for someone)",
+    "explanation_en": "be in love (with someone), especially someone who does not return one's love"
+  },
+  {
+    "ID": "39",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "nach jdm. schmachten",
+    "explanation_en": "be in love (with someone), especially someone who does not return one's love"
+  },
+  {
+    "ID": "40",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "carry the can",
+    "explanation_en": "accept the responsibility (for something that you or someone else has done)"
+  },
+  {
+    "ID": "40",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Kopf hinhalten",
+    "explanation_en": "accept the responsibility (for something that you or someone else has done)"
+  },
+  {
+    "ID": "41",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "cause a stir",
+    "explanation_en": "shock or alarm people"
+  },
+  {
+    "ID": "41",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Aufsehen erregen",
+    "explanation_en": "shock or alarm people"
+  },
+  {
+    "ID": "42",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "cause an uproar",
+    "explanation_en": "cause an outburst or sensation"
+  },
+  {
+    "ID": "42",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Aufsehen erregen",
+    "explanation_en": "cause an outburst or sensation"
+  },
+  {
+    "ID": "43",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "chew the fat",
+    "explanation_en": "talk about affairs, events, etc., especially those of other people, in a careless way"
+  },
+  {
+    "ID": "43",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "über Gott und die Welt reden",
+    "explanation_en": "talk about affairs, events, etc., especially those of other people, in a careless way"
+  },
+  {
+    "ID": "44",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "clear the air",
+    "explanation_en": "reduce or get rid of misunderstandings, doubts or worries, especially by talking about them"
+  },
+  {
+    "ID": "44",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "reinen Tisch machen",
+    "explanation_en": "reduce or get rid of misunderstandings, doubts or worries, especially by talking about them"
+  },
+  {
+    "ID": "45",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "clear the decks",
+    "explanation_en": "make everything ready, especially before great activity, a fight, etc."
+  },
+  {
+    "ID": "45",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "klar Schiff machen zum Gefecht",
+    "explanation_en": "make everything ready, especially before great activity, a fight, etc."
+  },
+  {
+    "ID": "46",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "climb (jump on/get on) on the band wagon",
+    "explanation_en": "begin to do something"
+  },
+  {
+    "ID": "46",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "auf den fahrenden Zug aufspringen",
+    "explanation_en": "begin to do something"
+  },
+  {
+    "ID": "47",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "climb (up) the walls",
+    "explanation_en": "be extremely anxious, bored, excited"
+  },
+  {
+    "ID": "47",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "hibbelig sein",
+    "explanation_en": "be extremely anxious, bored, excited"
+  },
+  {
+    "ID": "48",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "come up roses",
+    "explanation_en": "have a happy or successful result"
+  },
+  {
+    "ID": "48",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich zum Besten wenden",
+    "explanation_en": "have a happy or successful result"
+  },
+  {
+    "ID": "49",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "cook his goose",
+    "explanation_en": "ruin the chances of success of a person"
+  },
+  {
+    "ID": "49",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm den Garaus machen",
+    "explanation_en": "ruin the chances of success of a person"
+  },
+  {
+    "ID": "50",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "cook the books",
+    "explanation_en": "change facts or figures in order to make the situation seem better than it is or to hide the fact that you have stolen money"
+  },
+  {
+    "ID": "50",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Bücher frisieren",
+    "explanation_en": "change facts or figures in order to make the situation seem better than it is or to hide the fact that you have stolen money"
+  },
+  {
+    "ID": "51",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "cool his heels",
+    "explanation_en": "have nothing to do, especially while being kept waiting"
+  },
+  {
+    "ID": "51",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich die Beine in den Bauch stehen",
+    "explanation_en": "have nothing to do, especially while being kept waiting"
+  },
+  {
+    "ID": "52",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "cost an arm and a leg",
+    "explanation_en": "cost (someone) a large amount of money"
+  },
+  {
+    "ID": "52",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "schweineteuer sein",
+    "explanation_en": "cost (someone) a large amount of money"
+  },
+  {
+    "ID": "53",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "count the cost",
+    "explanation_en": "consider the risks, possible difficulties and costs before doing something"
+  },
+  {
+    "ID": "53",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "dafür büßen müssen / teuer dafür bezahlen müssen",
+    "explanation_en": "consider the risks, possible difficulties and costs before doing something"
+  },
+  {
+    "ID": "54",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "cover the territory",
+    "explanation_en": "deal with many things, much space, or much information from many points of view"
+  },
+  {
+    "ID": "54",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein weites Gebiet abdecken",
+    "explanation_en": "deal with many things, much space, or much information from many points of view"
+  },
+  {
+    "ID": "55",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "cover up one's tracks",
+    "explanation_en": "hide one's activities or movements, especially when these would show one's guilt of a crime, etc."
+  },
+  {
+    "ID": "55",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "seine Spuren verwischen",
+    "explanation_en": "hide one's activities or movements, especially when these would show one's guilt of a crime, etc."
+  },
+  {
+    "ID": "56",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "crack open a bottle",
+    "explanation_en": "open a bottle, especially of wine, and drink it, often in honor of a special occasion"
+  },
+  {
+    "ID": "56",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Flasche köpfen",
+    "explanation_en": "open a bottle, especially of wine, and drink it, often in honor of a special occasion"
+  },
+  {
+    "ID": "57",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "crack a joke",
+    "explanation_en": "tell a joke"
+  },
+  {
+    "ID": "57",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Witz reißen",
+    "explanation_en": "tell a joke"
+  },
+  {
+    "ID": "58",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "crack a smile",
+    "explanation_en": "smile a little, perhaps reluctantly"
+  },
+  {
+    "ID": "58",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein Lächeln zustande bringen",
+    "explanation_en": "smile a little, perhaps reluctantly"
+  },
+  {
+    "ID": "59",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "crack the whip",
+    "explanation_en": "use one's power or influence over other people in a vigerous or severe manner; be in control"
+  },
+  {
+    "ID": "59",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Peitsche schwingen",
+    "explanation_en": "use one's power or influence over other people in a vigerous or severe manner; be in control"
+  },
+  {
+    "ID": "60",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "cramp someone's style",
+    "explanation_en": "make it difficult for someone to do something in the way that he likes or is accustomed to do it"
+  },
+  {
+    "ID": "60",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jemandem im Weg sein",
+    "explanation_en": "make it difficult for someone to do something in the way that he likes or is accustomed to do it"
+  },
+  {
+    "ID": "61",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "dance to another tune",
+    "explanation_en": "behave in a completely different way, especially when someone is forced to do so; express completely different opinions"
+  },
+  {
+    "ID": "61",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "nach jmds Pfeife tanzen",
+    "explanation_en": "behave in a completely different way, especially when someone is forced to do so; express completely different opinions"
+  },
+  {
+    "ID": "62",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "deliver the goods",
+    "explanation_en": "produce the results that one is expected to produce"
+  },
+  {
+    "ID": "62",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "seine Versprechungen einlösen",
+    "explanation_en": "produce the results that one is expected to produce"
+  },
+  {
+    "ID": "63",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "do the honors",
+    "explanation_en": "take charge of a situation and act as the host, e.g. introduce people to one another or serve people at a meal"
+  },
+  {
+    "ID": "63",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich die Ehre geben",
+    "explanation_en": "take charge of a situation and act as the host, e.g. introduce people to one another or serve people at a meal"
+  },
+  {
+    "ID": "64",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "do the rounds",
+    "explanation_en": "visit a number of people or places, usually in a customary order"
+  },
+  {
+    "ID": "64",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Runde machen",
+    "explanation_en": "visit a number of people or places, usually in a customary order"
+  },
+  {
+    "ID": "65",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "do the trick",
+    "explanation_en": "have the desired effect; fulfill one's or its purpose or intention"
+  },
+  {
+    "ID": "65",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Zweck erfüllen",
+    "explanation_en": "have the desired effect; fulfill one's or its purpose or intention"
+  },
+  {
+    "ID": "66",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "draw a blank",
+    "explanation_en": "fail to remember something; forget"
+  },
+  {
+    "ID": "66",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Niete ziehen",
+    "explanation_en": "fail to remember something; forget"
+  },
+  {
+    "ID": "67",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "draw the line",
+    "explanation_en": "set limits (to one's own or another person's behavior) especially when one refuses to go past these limits"
+  },
+  {
+    "ID": "67",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Grenze ziehen",
+    "explanation_en": "set limits (to one's own or another person's behavior) especially when one refuses to go past these limits"
+  },
+  {
+    "ID": "68",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "dressed to kill",
+    "explanation_en": "(especially a woman) dressed in clothes that are intended to attract attention"
+  },
+  {
+    "ID": "68",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "aufgedonnert sein",
+    "explanation_en": "(especially a woman) dressed in clothes that are intended to attract attention"
+  },
+  {
+    "ID": "69",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "drive a hard bargain",
+    "explanation_en": "try to get very favorable results for oneself, expecially in business agreements"
+  },
+  {
+    "ID": "69",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "hart verhandeln",
+    "explanation_en": "try to get very favorable results for oneself, expecially in business agreements"
+  },
+  {
+    "ID": "70",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "drop a bombshell",
+    "explanation_en": "announce something that is unexpected and usually unpleasant"
+  },
+  {
+    "ID": "70",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Bombe platzen lassen",
+    "explanation_en": "announce something that is unexpected and usually unpleasant"
+  },
+  {
+    "ID": "71",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "eat his words",
+    "explanation_en": "admit that something one has said was wrong; take back humbly what one has said"
+  },
+  {
+    "ID": "71",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "zurücknehmen, was man gesagt hat",
+    "explanation_en": "admit that something one has said was wrong; take back humbly what one has said"
+  },
+  {
+    "ID": "72",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "one's eyes are bigger than one's stomach",
+    "explanation_en": "to put more food on one's plate than one is able to eat"
+  },
+  {
+    "ID": "72",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Augen sind größer als der Magen",
+    "explanation_en": "to put more food on one's plate than one is able to eat"
+  },
+  {
+    "ID": "73",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "face the music",
+    "explanation_en": "face the difficulties arising from something one has done"
+  },
+  {
+    "ID": "73",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Suppe auslöffeln",
+    "explanation_en": "face the difficulties arising from something one has done"
+  },
+  {
+    "ID": "74",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "fall from grace",
+    "explanation_en": "lose favor, especially because of bad or foolish action"
+  },
+  {
+    "ID": "74",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "in Ungnade fallen",
+    "explanation_en": "lose favor, especially because of bad or foolish action"
+  },
+  {
+    "ID": "75",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "fall on deaf ears",
+    "explanation_en": "be or remain unnoticed or unregarded (for requests for help, etc.)"
+  },
+  {
+    "ID": "75",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "auf taube Ohren stoßen",
+    "explanation_en": "be or remain unnoticed or unregarded (for requests for help, etc.)"
+  },
+  {
+    "ID": "76",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "fan the flames",
+    "explanation_en": "make an already difficult situation, e.g. an argument, worse by one's actions or words"
+  },
+  {
+    "ID": "76",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Öl ins Feuer gießen",
+    "explanation_en": "make an already difficult situation, e.g. an argument, worse by one's actions or words"
+  },
+  {
+    "ID": "77",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "feather one's nest",
+    "explanation_en": "make sure of one's own profit, etc., especially in a dishonest way"
+  },
+  {
+    "ID": "77",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "seine Schäfchen ins Trockene bringen",
+    "explanation_en": "make sure of one's own profit, etc., especially in a dishonest way"
+  },
+  {
+    "ID": "78",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "fit as a fiddle",
+    "explanation_en": "in very good physical condition"
+  },
+  {
+    "ID": "78",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "fit wie ein Turnschuh",
+    "explanation_en": "in very good physical condition"
+  },
+  {
+    "ID": "79",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "fit the bill",
+    "explanation_en": "do or be everything that is needed or expected"
+  },
+  {
+    "ID": "79",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Anforderungen entsprechen",
+    "explanation_en": "do or be everything that is needed or expected"
+  },
+  {
+    "ID": "80",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "(+a) flash in the pan",
+    "explanation_en": "something that only lasts for a short time, e.g. a success or something that has not happened before and is unlikely to happen again"
+  },
+  {
+    "ID": "80",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Eintagsfliege",
+    "explanation_en": "something that only lasts for a short time, e.g. a success or something that has not happened before and is unlikely to happen again"
+  },
+  {
+    "ID": "81",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "fly a kite",
+    "explanation_en": "find out what the public thinks by spreading stories, suggestions, etc."
+  },
+  {
+    "ID": "81",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Versuchsballon steigen lassen",
+    "explanation_en": "find out what the public thinks by spreading stories, suggestions, etc."
+  },
+  {
+    "ID": "82",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "fly the coop",
+    "explanation_en": "escape; get out or get away"
+  },
+  {
+    "ID": "82",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich aus dem Staub machen",
+    "explanation_en": "escape; get out or get away"
+  },
+  {
+    "ID": "83",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "follow the crowd",
+    "explanation_en": "do or say the same as most other people, esp. because one is weak or has no ideas of his own"
+  },
+  {
+    "ID": "83",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "mit der Masse gehen",
+    "explanation_en": "do or say the same as most other people, esp. because one is weak or has no ideas of his own"
+  },
+  {
+    "ID": "84",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "food for thought",
+    "explanation_en": "something that leads one to think carefully and which itself provides material for consideration"
+  },
+  {
+    "ID": "84",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Denkanstoß",
+    "explanation_en": "something that leads one to think carefully and which itself provides material for consideration"
+  },
+  {
+    "ID": "85",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "foot the bill",
+    "explanation_en": "pay for something, especially something expensive or extravagent"
+  },
+  {
+    "ID": "85",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Zeche bezahlen",
+    "explanation_en": "pay for something, especially something expensive or extravagent"
+  },
+  {
+    "ID": "86",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "force someone's hand",
+    "explanation_en": "make someone do something that he or she may not want to do"
+  },
+  {
+    "ID": "86",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm keine andere Wahl lassen",
+    "explanation_en": "make someone do something that he or she may not want to do"
+  },
+  {
+    "ID": "87",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "frighten out of one's wits",
+    "explanation_en": "frighten someone so much that he does not know what he is doing"
+  },
+  {
+    "ID": "87",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm zu Tode erschrecken",
+    "explanation_en": "frighten someone so much that he does not know what he is doing"
+  },
+  {
+    "ID": "88",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "have a frog in one's throat",
+    "explanation_en": "be unable to speak because one needs to cough or has a sore throat"
+  },
+  {
+    "ID": "88",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Frosch im Hals haben",
+    "explanation_en": "be unable to speak because one needs to cough or has a sore throat"
+  },
+  {
+    "ID": "89",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "get a grip",
+    "explanation_en": "take or keep firm control (of a situation, oneself, disobedient persons, etc.)"
+  },
+  {
+    "ID": "89",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich am Riemen reißen",
+    "explanation_en": "take or keep firm control (of a situation, oneself, disobedient persons, etc.)"
+  },
+  {
+    "ID": "90",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "get the ball rolling",
+    "explanation_en": "get things started; initiate something"
+  },
+  {
+    "ID": "90",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Stein ins Rollen bringen",
+    "explanation_en": "get things started; initiate something"
+  },
+  {
+    "ID": "91",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "get/have the blues",
+    "explanation_en": "become sad or depressed"
+  },
+  {
+    "ID": "91",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Moralischen haben",
+    "explanation_en": "become sad or depressed"
+  },
+  {
+    "ID": "92",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "get the brushoff",
+    "explanation_en": "be ignored, sent away, rejected"
+  },
+  {
+    "ID": "92",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Korb bekommen",
+    "explanation_en": "be ignored, sent away, rejected"
+  },
+  {
+    "ID": "93",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "get the floor",
+    "explanation_en": "receive official permission to address the audience"
+  },
+  {
+    "ID": "93",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "das Rederecht haben",
+    "explanation_en": "receive official permission to address the audience"
+  },
+  {
+    "ID": "94",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "get the message",
+    "explanation_en": "understand what something means"
+  },
+  {
+    "ID": "94",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Nachricht richtig verstehen",
+    "explanation_en": "understand what something means"
+  },
+  {
+    "ID": "95",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "get the nod",
+    "explanation_en": "get chosen"
+  },
+  {
+    "ID": "95",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "grünes Licht haben",
+    "explanation_en": "get chosen"
+  },
+  {
+    "ID": "96",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "get the picture",
+    "explanation_en": "understand the situation"
+  },
+  {
+    "ID": "96",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "kapieren",
+    "explanation_en": "understand the situation"
+  },
+  {
+    "ID": "97",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "get the sack",
+    "explanation_en": "get fired, be dismissed from one's employment"
+  },
+  {
+    "ID": "97",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "rausgeschmissen werden",
+    "explanation_en": "get fired, be dismissed from one's employment"
+  },
+  {
+    "ID": "98",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "get your goat",
+    "explanation_en": "cause someone much annoyance"
+  },
+  {
+    "ID": "98",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jmd auf die Palme bringen",
+    "explanation_en": "cause someone much annoyance"
+  },
+  {
+    "ID": "99",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "get up on the wrong side of the bed",
+    "explanation_en": "have a bad start to the day"
+  },
+  {
+    "ID": "99",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "mit dem falschen Fuß aufstehen",
+    "explanation_en": "have a bad start to the day"
+  },
+  {
+    "ID": "100",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "gild the lily",
+    "explanation_en": "attempt to improve someone or something that is already attractive, especially in a manner that spoils the object's original worth or appearance"
+  },
+  {
+    "ID": "100",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "des Guten zu viel tun",
+    "explanation_en": "attempt to improve someone or something that is already attractive, especially in a manner that spoils the object's original worth or appearance"
+  },
+  {
+    "ID": "101",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "give (someone) the creeps",
+    "explanation_en": "cause someone to have feelings of dislike, fear, nervousness, etc., especially so that he has the sensation of something moving over his flesh"
+  },
+  {
+    "ID": "101",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Gänsehaut bekommen",
+    "explanation_en": "cause someone to have feelings of dislike, fear, nervousness, etc., especially so that he has the sensation of something moving over his flesh"
+  },
+  {
+    "ID": "102",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "give (someone) the willies",
+    "explanation_en": "cause someone to feel nervous or very anxious"
+  },
+  {
+    "ID": "102",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Zustände kriegen",
+    "explanation_en": "cause someone to feel nervous or very anxious"
+  },
+  {
+    "ID": "103",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "give it a whirl",
+    "explanation_en": "try (something or someone new) to see if it works well or if one likes it"
+  },
+  {
+    "ID": "103",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Versuch wagen",
+    "explanation_en": "try (something or someone new) to see if it works well or if one likes it"
+  },
+  {
+    "ID": "104",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "give plenty of rope",
+    "explanation_en": "deliberately give (someone, especially a foolish person) enough freedom for them to make a mistake or get into trouble"
+  },
+  {
+    "ID": "104",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jmd freie Hand lassen",
+    "explanation_en": "deliberately give (someone, especially a foolish person) enough freedom for them to make a mistake or get into trouble"
+  },
+  {
+    "ID": "105",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "give the cold shoulder",
+    "explanation_en": "be unfriendly to (someone), especially by refusing to speak to or to meet him, usually because one is angry, offended, etc."
+  },
+  {
+    "ID": "105",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm die kalte Schulter zeigen",
+    "explanation_en": "be unfriendly to (someone), especially by refusing to speak to or to meet him, usually because one is angry, offended, etc."
+  },
+  {
+    "ID": "106",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "go the limit",
+    "explanation_en": "do as much as possible"
+  },
+  {
+    "ID": "106",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "bis zum Äußersten gehen",
+    "explanation_en": "do as much as possible"
+  },
+  {
+    "ID": "107",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "go the whole hog",
+    "explanation_en": "do something as completely and thoroughly as possible"
+  },
+  {
+    "ID": "107",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "aufs Ganze gehen",
+    "explanation_en": "do something as completely and thoroughly as possible"
+  },
+  {
+    "ID": "108",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "go to pieces",
+    "explanation_en": "fall into a bad condition; especially (of a person) to become suddenly confused or distressed"
+  },
+  {
+    "ID": "108",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "aus den Fugen geraten",
+    "explanation_en": "fall into a bad condition; especially (of a person) to become suddenly confused or distressed"
+  },
+  {
+    "ID": "109",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "grease the wheels",
+    "explanation_en": "make doing or getting something easier; help things to run smoothly"
+  },
+  {
+    "ID": "109",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Weg ebnen",
+    "explanation_en": "make doing or getting something easier; help things to run smoothly"
+  },
+  {
+    "ID": "110",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "handle with kid gloves",
+    "explanation_en": "treat  (a person, situation, etc.) gently or with caution"
+  },
+  {
+    "ID": "110",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "mit Samthandschuhen anfassen",
+    "explanation_en": "treat  (a person, situation, etc.) gently or with caution"
+  },
+  {
+    "ID": "111",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "have a ball",
+    "explanation_en": "have great fun; enjoy oneself very much"
+  },
+  {
+    "ID": "111",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Spaß haben",
+    "explanation_en": "have great fun; enjoy oneself very much"
+  },
+  {
+    "ID": "112",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "have a fit",
+    "explanation_en": "be very angry"
+  },
+  {
+    "ID": "112",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Koller bekommen",
+    "explanation_en": "be very angry"
+  },
+  {
+    "ID": "113",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "have a go",
+    "explanation_en": "make an attempt (at something or doing something)"
+  },
+  {
+    "ID": "113",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Versuch unternehmen",
+    "explanation_en": "make an attempt (at something or doing something)"
+  },
+  {
+    "ID": "114",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "have a screw loose",
+    "explanation_en": "be crazy"
+  },
+  {
+    "ID": "114",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Schraube locker haben",
+    "explanation_en": "be crazy"
+  },
+  {
+    "ID": "115",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "have/take a stab",
+    "explanation_en": "use or try something"
+  },
+  {
+    "ID": "115",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Versuch wagen",
+    "explanation_en": "use or try something"
+  },
+  {
+    "ID": "116",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "have an ax to grind",
+    "explanation_en": "have private, often selfish reasons for being involved in something"
+  },
+  {
+    "ID": "116",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sein eigenes Süppchen kochen",
+    "explanation_en": "have private, often selfish reasons for being involved in something"
+  },
+  {
+    "ID": "117",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "have an out",
+    "explanation_en": "have an excuse, have a means of escape or avoiding something"
+  },
+  {
+    "ID": "117",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Ausrede parat haben",
+    "explanation_en": "have an excuse, have a means of escape or avoiding something"
+  },
+  {
+    "ID": "118",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "have cold feet",
+    "explanation_en": "become nervous or afraid and not wish to be involved in a very important decision or a difficult and dangerous situation"
+  },
+  {
+    "ID": "118",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "kalte Füße bekommen",
+    "explanation_en": "become nervous or afraid and not wish to be involved in a very important decision or a difficult and dangerous situation"
+  },
+  {
+    "ID": "119",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "have (an) egg on your face",
+    "explanation_en": "be shown to be foolish or silly"
+  },
+  {
+    "ID": "119",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "dumm dastehen",
+    "explanation_en": "be shown to be foolish or silly"
+  },
+  {
+    "ID": "120",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "have the heart",
+    "explanation_en": "be willing to do something, to be cruel enough to do something"
+  },
+  {
+    "ID": "120",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "das Herz haben (etw übers Herz bringen)",
+    "explanation_en": "be willing to do something, to be cruel enough to do something"
+  },
+  {
+    "ID": "121",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hit a snag",
+    "explanation_en": "run into a problem"
+  },
+  {
+    "ID": "121",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "auf Schwierigkeiten stoßen",
+    "explanation_en": "run into a problem"
+  },
+  {
+    "ID": "122",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hit the books",
+    "explanation_en": "begin to study"
+  },
+  {
+    "ID": "122",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Nase in die Bücher stecken",
+    "explanation_en": "begin to study"
+  },
+  {
+    "ID": "123",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hit the bottle",
+    "explanation_en": "drink (alcoholic drinks) heavily"
+  },
+  {
+    "ID": "123",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "zur Flasche greifen",
+    "explanation_en": "drink (alcoholic drinks) heavily"
+  },
+  {
+    "ID": "124",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hit the ceiling",
+    "explanation_en": "become very angry"
+  },
+  {
+    "ID": "124",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "an die Decke gehen",
+    "explanation_en": "become very angry"
+  },
+  {
+    "ID": "125",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hit the headlines",
+    "explanation_en": "be brought to the notice of the public, especially suddenly"
+  },
+  {
+    "ID": "125",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "in die Schlagzeilen kommen",
+    "explanation_en": "be brought to the notice of the public, especially suddenly"
+  },
+  {
+    "ID": "126",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hit the jackpot",
+    "explanation_en": "have great success or good luck, especially to win a lot of money"
+  },
+  {
+    "ID": "126",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Jackpot knacken",
+    "explanation_en": "have great success or good luck, especially to win a lot of money"
+  },
+  {
+    "ID": "127",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hit the road",
+    "explanation_en": "begin a journey; start to move or travel"
+  },
+  {
+    "ID": "127",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich auf den Weg machen",
+    "explanation_en": "begin a journey; start to move or travel"
+  },
+  {
+    "ID": "128",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hit the roof",
+    "explanation_en": "become very angry"
+  },
+  {
+    "ID": "128",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "an die Decke gehen",
+    "explanation_en": "become very angry"
+  },
+  {
+    "ID": "129",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hit the sack",
+    "explanation_en": "lie down to sleep; go to bed"
+  },
+  {
+    "ID": "129",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich aufs Ohr hauen",
+    "explanation_en": "lie down to sleep; go to bed"
+  },
+  {
+    "ID": "130",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hit the sauce",
+    "explanation_en": "drink alcohol; especially heavily and habitually"
+  },
+  {
+    "ID": "130",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich volllaufen lassen",
+    "explanation_en": "drink alcohol; especially heavily and habitually"
+  },
+  {
+    "ID": "131",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hit the spot",
+    "explanation_en": "be exactly right"
+  },
+  {
+    "ID": "131",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "gut schmecken",
+    "explanation_en": "be exactly right"
+  },
+  {
+    "ID": "132",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hitch a ride",
+    "explanation_en": "get a ride from a passing motorist"
+  },
+  {
+    "ID": "132",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "per Anhalter fahren",
+    "explanation_en": "get a ride from a passing motorist"
+  },
+  {
+    "ID": "133",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hold the aces",
+    "explanation_en": "be in a position of control because one has greater power or advantages than another"
+  },
+  {
+    "ID": "133",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Trümpfe in der Hand halten",
+    "explanation_en": "be in a position of control because one has greater power or advantages than another"
+  },
+  {
+    "ID": "134",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hold (down) the fort",
+    "explanation_en": "look after a business, organization, state of affairs, etc. while the person who is usually in charge or responsible is abscent"
+  },
+  {
+    "ID": "134",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Stellung halten",
+    "explanation_en": "look after a business, organization, state of affairs, etc. while the person who is usually in charge or responsible is abscent"
+  },
+  {
+    "ID": "135",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "hold your horses",
+    "explanation_en": "stop or wait, especially to control oneself before acting hastily"
+  },
+  {
+    "ID": "135",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "immer mit der Ruhe",
+    "explanation_en": "stop or wait, especially to control oneself before acting hastily"
+  },
+  {
+    "ID": "136",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "horse of another color",
+    "explanation_en": "quite different in manner, question, or point"
+  },
+  {
+    "ID": "136",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein anderes Paar Schuhe",
+    "explanation_en": "quite different in manner, question, or point"
+  },
+  {
+    "ID": "137",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "in a pickle",
+    "explanation_en": "in an awkward or difficult situation"
+  },
+  {
+    "ID": "137",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "in der Patsche sitzen",
+    "explanation_en": "in an awkward or difficult situation"
+  },
+  {
+    "ID": "138",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "in hot water",
+    "explanation_en": "in trouble"
+  },
+  {
+    "ID": "138",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "in der Klemme stecken",
+    "explanation_en": "in trouble"
+  },
+  {
+    "ID": "139",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "in seventh heaven",
+    "explanation_en": "in a state of great happiness or contentment"
+  },
+  {
+    "ID": "139",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "im siebten Himmel",
+    "explanation_en": "in a state of great happiness or contentment"
+  },
+  {
+    "ID": "140",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "in the nick of time",
+    "explanation_en": "at the last possible moment (to prevent something unpleasant or bad from happening or to gain a desired result"
+  },
+  {
+    "ID": "140",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "in letzter Sekunde",
+    "explanation_en": "at the last possible moment (to prevent something unpleasant or bad from happening or to gain a desired result"
+  },
+  {
+    "ID": "141",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "jump the gun",
+    "explanation_en": "be too hasty, e.g. in beginning something new that has not been completely decided upon; start before everyone else"
+  },
+  {
+    "ID": "141",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Fehlstart hinlegen",
+    "explanation_en": "be too hasty, e.g. in beginning something new that has not been completely decided upon; start before everyone else"
+  },
+  {
+    "ID": "142",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "keep a level head",
+    "explanation_en": "be calm, sensible, and able to judge well, especially in difficult situations"
+  },
+  {
+    "ID": "142",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen kühlen Kopf bewahren",
+    "explanation_en": "be calm, sensible, and able to judge well, especially in difficult situations"
+  },
+  {
+    "ID": "143",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "keep an ace up your sleeve",
+    "explanation_en": "have an idea, plan, piece of information, etc. that one keeps secret in order that it may be used at the best possible moment"
+  },
+  {
+    "ID": "143",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein Ass im Ärmel haben",
+    "explanation_en": "have an idea, plan, piece of information, etc. that one keeps secret in order that it may be used at the best possible moment"
+  },
+  {
+    "ID": "144",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "kick a habit",
+    "explanation_en": "break a (bad) habit"
+  },
+  {
+    "ID": "144",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Gewohnheit ablegen",
+    "explanation_en": "break a (bad) habit"
+  },
+  {
+    "ID": "145",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "kick the bucket",
+    "explanation_en": "die"
+  },
+  {
+    "ID": "145",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Löffel abgeben",
+    "explanation_en": "die"
+  },
+  {
+    "ID": "146",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "kick up your heels",
+    "explanation_en": "enjoy oneself, especially in complete freedom"
+  },
+  {
+    "ID": "146",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "auf den Putz hauen",
+    "explanation_en": "enjoy oneself, especially in complete freedom"
+  },
+  {
+    "ID": "147",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "know the score",
+    "explanation_en": "know all that there is to know about a situation, especially to realize the bad things or difficulties of life"
+  },
+  {
+    "ID": "147",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "wissen, wie der Hase läuft",
+    "explanation_en": "know all that there is to know about a situation, especially to realize the bad things or difficulties of life"
+  },
+  {
+    "ID": "148",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "lay down the law",
+    "explanation_en": "give orders or express one's opinion with great force, often when one has no right to"
+  },
+  {
+    "ID": "148",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein Machtwort sprechen",
+    "explanation_en": "give orders or express one's opinion with great force, often when one has no right to"
+  },
+  {
+    "ID": "149",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "lead up a blind alley",
+    "explanation_en": "an activity, situation, etc. that does not lead to any success or advantage"
+  },
+  {
+    "ID": "149",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "zu nichts führen",
+    "explanation_en": "an activity, situation, etc. that does not lead to any success or advantage"
+  },
+  {
+    "ID": "150",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "learn by heart",
+    "explanation_en": "learn or know (a piece of writing, music, etc.) thoroughly, so that one can remember it exactly"
+  },
+  {
+    "ID": "150",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "auswendig lernen",
+    "explanation_en": "learn or know (a piece of writing, music, etc.) thoroughly, so that one can remember it exactly"
+  },
+  {
+    "ID": "151",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "learn the ropes",
+    "explanation_en": "learn all the details, rules, and organization of a business, method, etc."
+  },
+  {
+    "ID": "151",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "lernen, wie die Dinge laufen",
+    "explanation_en": "learn all the details, rules, and organization of a business, method, etc."
+  },
+  {
+    "ID": "152",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "leave someone high and dry",
+    "explanation_en": "offer no beverages to your guests"
+  },
+  {
+    "ID": "152",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdn auf dem Trockenen sitzen lassen",
+    "explanation_en": "offer no beverages to your guests"
+  },
+  {
+    "ID": "153",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "lend (someone) an ear",
+    "explanation_en": "listen or pay attention to (someone's statement, request, etc.)"
+  },
+  {
+    "ID": "153",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm sein Ohr leihen",
+    "explanation_en": "listen or pay attention to (someone's statement, request, etc.)"
+  },
+  {
+    "ID": "154",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "lend a hand",
+    "explanation_en": "give someone some help"
+  },
+  {
+    "ID": "154",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "mit anpacken",
+    "explanation_en": "give someone some help"
+  },
+  {
+    "ID": "155",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "let the cat out of the bag",
+    "explanation_en": "make something known that was a secret, especially to make it known accidentally and at the wrong time"
+  },
+  {
+    "ID": "155",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Katze aus dem Sack lassen",
+    "explanation_en": "make something known that was a secret, especially to make it known accidentally and at the wrong time"
+  },
+  {
+    "ID": "156",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "letter of the law",
+    "explanation_en": "the exact meaning of a written agreement, law, etc."
+  },
+  {
+    "ID": "156",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "nach den Buchstaben des Gesetzes",
+    "explanation_en": "the exact meaning of a written agreement, law, etc."
+  },
+  {
+    "ID": "157",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "lie through one's teeth",
+    "explanation_en": "tell lies in an open and unashamed manner"
+  },
+  {
+    "ID": "157",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "nach Strich und Faden lügen",
+    "explanation_en": "tell lies in an open and unashamed manner"
+  },
+  {
+    "ID": "158",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "lift a finger",
+    "explanation_en": "make any effort, (to do something especially to give help to someone)"
+  },
+  {
+    "ID": "158",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Finger rühren",
+    "explanation_en": "make any effort, (to do something especially to give help to someone)"
+  },
+  {
+    "ID": "159",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "live a lie",
+    "explanation_en": "follow a way of life or continue doing something which one feels (knows) is dishonest"
+  },
+  {
+    "ID": "159",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Lüge leben",
+    "explanation_en": "follow a way of life or continue doing something which one feels (knows) is dishonest"
+  },
+  {
+    "ID": "160",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "long arm of the law",
+    "explanation_en": "the control or power of the law, especially when it seems to stretch over a wide area"
+  },
+  {
+    "ID": "160",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "der lange Arm des Gesetzes",
+    "explanation_en": "the control or power of the law, especially when it seems to stretch over a wide area"
+  },
+  {
+    "ID": "161",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "look the part",
+    "explanation_en": "have the appearance, e.g. in one's clothes or manner of behaving etc., of being a particular kind of person"
+  },
+  {
+    "ID": "161",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "für die Rolle passen / glaubwürdig wirken",
+    "explanation_en": "have the appearance, e.g. in one's clothes or manner of behaving etc., of being a particular kind of person"
+  },
+  {
+    "ID": "162",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "lose face",
+    "explanation_en": "lose the respect or good opinion that others have of one; be made humble"
+  },
+  {
+    "ID": "162",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Gesicht verlieren",
+    "explanation_en": "lose the respect or good opinion that others have of one; be made humble"
+  },
+  {
+    "ID": "163",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "lose one's touch",
+    "explanation_en": "lose one's usual skill; no longer be as successful as one has been"
+  },
+  {
+    "ID": "163",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "nachlassen",
+    "explanation_en": "lose one's usual skill; no longer be as successful as one has been"
+  },
+  {
+    "ID": "164",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "lose the thread",
+    "explanation_en": "fail to follow the course or development (of an argument, conversation, etc.)"
+  },
+  {
+    "ID": "164",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Faden verlieren",
+    "explanation_en": "fail to follow the course or development (of an argument, conversation, etc.)"
+  },
+  {
+    "ID": "165",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "lose your cool",
+    "explanation_en": "become excited, angry, etc., to lose control of one's feelings"
+  },
+  {
+    "ID": "165",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Fassung verlieren",
+    "explanation_en": "become excited, angry, etc., to lose control of one's feelings"
+  },
+  {
+    "ID": "166",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "lose your grip",
+    "explanation_en": "lose control (of a job, situation, etc.) e.g. to allow the quality of one's work to become worse"
+  },
+  {
+    "ID": "166",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Halt verlieren",
+    "explanation_en": "lose control (of a job, situation, etc.) e.g. to allow the quality of one's work to become worse"
+  },
+  {
+    "ID": "167",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make a clean sweep",
+    "explanation_en": "remove all unwanted things or people or win all of the prizes, etc. that are available"
+  },
+  {
+    "ID": "167",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Tabula rasa machen",
+    "explanation_en": "remove all unwanted things or people or win all of the prizes, etc. that are available"
+  },
+  {
+    "ID": "168",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make a fuss",
+    "explanation_en": "make a bother about someone, argue about someone or something"
+  },
+  {
+    "ID": "168",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Aufstand machen",
+    "explanation_en": "make a bother about someone, argue about someone or something"
+  },
+  {
+    "ID": "169",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make a killing",
+    "explanation_en": "make a great profit, especially quickly, easily, through being clever in business"
+  },
+  {
+    "ID": "169",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen großen Reibach machen",
+    "explanation_en": "make a great profit, especially quickly, easily, through being clever in business"
+  },
+  {
+    "ID": "170",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make a living",
+    "explanation_en": "make enough money to live on"
+  },
+  {
+    "ID": "170",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "seinen Lebensunterhalt verdienen",
+    "explanation_en": "make enough money to live on"
+  },
+  {
+    "ID": "171",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make a move",
+    "explanation_en": "leave, depart; to begin to act; take the first action toward doing something"
+  },
+  {
+    "ID": "171",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Anstalten machen",
+    "explanation_en": "leave, depart; to begin to act; take the first action toward doing something"
+  },
+  {
+    "ID": "172",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make a pass",
+    "explanation_en": "attempt to begin a sexual relationship with someone"
+  },
+  {
+    "ID": "172",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jmd an die Wäsche gehen",
+    "explanation_en": "attempt to begin a sexual relationship with someone"
+  },
+  {
+    "ID": "173",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make a pile",
+    "explanation_en": "make a lot of money"
+  },
+  {
+    "ID": "173",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine schöne Stange Geld machen",
+    "explanation_en": "make a lot of money"
+  },
+  {
+    "ID": "174",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make a splash",
+    "explanation_en": "attract much attention"
+  },
+  {
+    "ID": "174",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Furore machen",
+    "explanation_en": "attract much attention"
+  },
+  {
+    "ID": "175",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make no bones about (it)",
+    "explanation_en": "say or do something without restraint, delay, or deception"
+  },
+  {
+    "ID": "175",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "keinen Hehl aus etw machen",
+    "explanation_en": "say or do something without restraint, delay, or deception"
+  },
+  {
+    "ID": "176",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make the grade",
+    "explanation_en": "do as well as excpected; succeed"
+  },
+  {
+    "ID": "176",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Anforderungen gerecht werden",
+    "explanation_en": "do as well as excpected; succeed"
+  },
+  {
+    "ID": "177",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make a scene",
+    "explanation_en": "get excited about something"
+  },
+  {
+    "ID": "177",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Szene machen",
+    "explanation_en": "get excited about something"
+  },
+  {
+    "ID": "178",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "make the scene",
+    "explanation_en": "be present; arrive at a certain place or event"
+  },
+  {
+    "ID": "178",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "es schaffen",
+    "explanation_en": "be present; arrive at a certain place or event"
+  },
+  {
+    "ID": "179",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "miss the boat",
+    "explanation_en": "lose the opportunity to do or get something because one did not act quickly enough"
+  },
+  {
+    "ID": "179",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Anschluss verpassen",
+    "explanation_en": "lose the opportunity to do or get something because one did not act quickly enough"
+  },
+  {
+    "ID": "180",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "miss the mark",
+    "explanation_en": "do something unsuccessfully; especially to make a wrong judgement"
+  },
+  {
+    "ID": "180",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "am Ziel vorbeischießen",
+    "explanation_en": "do something unsuccessfully; especially to make a wrong judgement"
+  },
+  {
+    "ID": "181",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "muddy the waters",
+    "explanation_en": "cause confusion in a situation, discussion, etc., that had been clear and simple before"
+  },
+  {
+    "ID": "181",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Verwirrung stiften",
+    "explanation_en": "cause confusion in a situation, discussion, etc., that had been clear and simple before"
+  },
+  {
+    "ID": "182",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "name the day (date)",
+    "explanation_en": "say on which day a wedding or other formal event is to take place"
+  },
+  {
+    "ID": "182",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "das Datum nennen",
+    "explanation_en": "say on which day a wedding or other formal event is to take place"
+  },
+  {
+    "ID": "183",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "nip in the bud",
+    "explanation_en": "put an end to (an action, situation, etc.) before it has properly begun"
+  },
+  {
+    "ID": "183",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "etw im Keim ersticken",
+    "explanation_en": "put an end to (an action, situation, etc.) before it has properly begun"
+  },
+  {
+    "ID": "184",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "nurse a grudge",
+    "explanation_en": "keep a feeling of envy or dislike towards some person"
+  },
+  {
+    "ID": "184",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "gegen jdn einen Groll hegen",
+    "explanation_en": "keep a feeling of envy or dislike towards some person"
+  },
+  {
+    "ID": "185",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "oil the wheels",
+    "explanation_en": "make doing or getting sth. easier; help things to run smoothly"
+  },
+  {
+    "ID": "185",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Dinge erleichtern",
+    "explanation_en": "make doing or getting sth. easier; help things to run smoothly"
+  },
+  {
+    "ID": "186",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "out of the blue",
+    "explanation_en": "unexpectedly, without warning"
+  },
+  {
+    "ID": "186",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "aus dem Blauen heraus",
+    "explanation_en": "unexpectedly, without warning"
+  },
+  {
+    "ID": "187",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "out of thin air",
+    "explanation_en": "from nothing; from nowhere"
+  },
+  {
+    "ID": "187",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "aus heiterem Himmel",
+    "explanation_en": "from nothing; from nowhere"
+  },
+  {
+    "ID": "188",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "over the hill",
+    "explanation_en": "(of a person) past one's youth and becoming old; past the worst part, especially of an illness, and getting better"
+  },
+  {
+    "ID": "188",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "auf dem absteigenden Ast sein",
+    "explanation_en": "(of a person) past one's youth and becoming old; past the worst part, especially of an illness, and getting better"
+  },
+  {
+    "ID": "189",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "overstep the mark",
+    "explanation_en": "go beyond permitted limits, do more than is allowed"
+  },
+  {
+    "ID": "189",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Bogen überspannen",
+    "explanation_en": "go beyond permitted limits, do more than is allowed"
+  },
+  {
+    "ID": "190",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pack a punch",
+    "explanation_en": "provide a burst of energy, power, or excitement; have a powerful effect, e.g. an alcoholic drink"
+  },
+  {
+    "ID": "190",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "es in sich haben",
+    "explanation_en": "provide a burst of energy, power, or excitement; have a powerful effect, e.g. an alcoholic drink"
+  },
+  {
+    "ID": "191",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pad the bill",
+    "explanation_en": "put unnecessary items in a bill to make the total cost higher"
+  },
+  {
+    "ID": "191",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "zu viel Geld verlangen",
+    "explanation_en": "put unnecessary items in a bill to make the total cost higher"
+  },
+  {
+    "ID": "192",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "paint the town",
+    "explanation_en": "go out to drink and have a good time; celebrate wildly"
+  },
+  {
+    "ID": "192",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Sau rauslassen",
+    "explanation_en": "go out to drink and have a good time; celebrate wildly"
+  },
+  {
+    "ID": "193",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "par for the course",
+    "explanation_en": "not different from what one would usually expect; typical; average"
+  },
+  {
+    "ID": "193",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "nichts anders zu erwarten",
+    "explanation_en": "not different from what one would usually expect; typical; average"
+  },
+  {
+    "ID": "194",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pass the buck",
+    "explanation_en": "pass on to someone else a responsibility that one should accept for oneself"
+  },
+  {
+    "ID": "194",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den schwarzen Peter weitergeben",
+    "explanation_en": "pass on to someone else a responsibility that one should accept for oneself"
+  },
+  {
+    "ID": "195",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pass the hat",
+    "explanation_en": "attempt to collect money for some (charitable) project"
+  },
+  {
+    "ID": "195",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Hut herumreichen",
+    "explanation_en": "attempt to collect money for some (charitable) project"
+  },
+  {
+    "ID": "196",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pave the way",
+    "explanation_en": "make everything ready (for something)"
+  },
+  {
+    "ID": "196",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Weg ebnen",
+    "explanation_en": "make everything ready (for something)"
+  },
+  {
+    "ID": "197",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pay lip service",
+    "explanation_en": "express agreement (with an idea, statement, etc.) without sincerely meaning it or without taking action in support of it"
+  },
+  {
+    "ID": "197",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein Lippenbekenntnis ablegen",
+    "explanation_en": "express agreement (with an idea, statement, etc.) without sincerely meaning it or without taking action in support of it"
+  },
+  {
+    "ID": "198",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pay the piper",
+    "explanation_en": "pay the cost of a loss, job, something enjoyed, etc."
+  },
+  {
+    "ID": "198",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Zeche bezahlen",
+    "explanation_en": "pay the cost of a loss, job, something enjoyed, etc."
+  },
+  {
+    "ID": "199",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pay through the nose",
+    "explanation_en": "pay a very high price (for something)"
+  },
+  {
+    "ID": "199",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Wucherpreise bezahlen",
+    "explanation_en": "pay a very high price (for something)"
+  },
+  {
+    "ID": "200",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "play a part",
+    "explanation_en": "be concerned (in an activity, course of events, etc.); help towards doing something"
+  },
+  {
+    "ID": "200",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Rolle spielen",
+    "explanation_en": "be concerned (in an activity, course of events, etc.); help towards doing something"
+  },
+  {
+    "ID": "201",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "play by ear",
+    "explanation_en": "deal with (matters) as they arise, without making plans in advance"
+  },
+  {
+    "ID": "201",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "es darauf ankommen lassen",
+    "explanation_en": "deal with (matters) as they arise, without making plans in advance"
+  },
+  {
+    "ID": "202",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "play the field",
+    "explanation_en": "take advantage of all the chances offered to one, especially to be romantically or sexually involved with multiple partners"
+  },
+  {
+    "ID": "202",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Beziehung nach der anderen haben",
+    "explanation_en": "take advantage of all the chances offered to one, especially to be romantically or sexually involved with multiple partners"
+  },
+  {
+    "ID": "203",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "play the fool",
+    "explanation_en": "behave foolishly, sometimes in order to amuse other people"
+  },
+  {
+    "ID": "203",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich zum Narren machen",
+    "explanation_en": "behave foolishly, sometimes in order to amuse other people"
+  },
+  {
+    "ID": "204",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "play the game",
+    "explanation_en": "behave in a just, honorable, and fair manner"
+  },
+  {
+    "ID": "204",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich an die Regeln halten",
+    "explanation_en": "behave in a just, honorable, and fair manner"
+  },
+  {
+    "ID": "205",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "play the market",
+    "explanation_en": "try to make money on the stock market by buying and selling stocks"
+  },
+  {
+    "ID": "205",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "an der Börse spekulieren",
+    "explanation_en": "try to make money on the stock market by buying and selling stocks"
+  },
+  {
+    "ID": "206",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "play with fire",
+    "explanation_en": "take risks, especially when these are foolish and unnecessary"
+  },
+  {
+    "ID": "206",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "mit dem Feuer spielen",
+    "explanation_en": "take risks, especially when these are foolish and unnecessary"
+  },
+  {
+    "ID": "207",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pop the question",
+    "explanation_en": "ask someone to marry one"
+  },
+  {
+    "ID": "207",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Heiratsantrag machen",
+    "explanation_en": "ask someone to marry one"
+  },
+  {
+    "ID": "208",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pound the pavement",
+    "explanation_en": "walk through the streets looking for a job"
+  },
+  {
+    "ID": "208",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Straßen abklappern",
+    "explanation_en": "walk through the streets looking for a job"
+  },
+  {
+    "ID": "209",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pour one's heart out",
+    "explanation_en": "tell all one's personal worries, problems, feelings, etc. (to someone)"
+  },
+  {
+    "ID": "209",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jmd sein Herz ausschütten",
+    "explanation_en": "tell all one's personal worries, problems, feelings, etc. (to someone)"
+  },
+  {
+    "ID": "210",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "praise to the skies",
+    "explanation_en": "express great admiration for (someone, something); speak highly of (a person, thing)"
+  },
+  {
+    "ID": "210",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "in den Himmel loben",
+    "explanation_en": "express great admiration for (someone, something); speak highly of (a person, thing)"
+  },
+  {
+    "ID": "211",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pull someone's leg",
+    "explanation_en": "make fun of a person in a friendly way, e.g. by trying to make him believe something that is not true"
+  },
+  {
+    "ID": "211",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm auf den Arm nehmen",
+    "explanation_en": "make fun of a person in a friendly way, e.g. by trying to make him believe something that is not true"
+  },
+  {
+    "ID": "212",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pull the plug (on something or someone)",
+    "explanation_en": "stop being supportive of it or them; destroy them or it, e.g. by cutting off supplies, finance, etc."
+  },
+  {
+    "ID": "212",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm den Stecker ziehen",
+    "explanation_en": "stop being supportive of it or them; destroy them or it, e.g. by cutting off supplies, finance, etc."
+  },
+  {
+    "ID": "213",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "pull the rug out from under someone's feet",
+    "explanation_en": "to shock someone"
+  },
+  {
+    "ID": "213",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm den Boden unter den Füßen wegziehen",
+    "explanation_en": "to shock someone"
+  },
+  {
+    "ID": "214",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "put the screws on",
+    "explanation_en": "use force or threats to make (someone) do something"
+  },
+  {
+    "ID": "214",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Daumenschrauben anlegen",
+    "explanation_en": "use force or threats to make (someone) do something"
+  },
+  {
+    "ID": "215",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "rack one's brains",
+    "explanation_en": "find out someone's ideas and use his knowledge of a subject"
+  },
+  {
+    "ID": "215",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich den Kopf zerbrechen",
+    "explanation_en": "find out someone's ideas and use his knowledge of a subject"
+  },
+  {
+    "ID": "216",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "it's raining cats and dogs",
+    "explanation_en": "rain very heavily"
+  },
+  {
+    "ID": "216",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "es gießt wie aus Kübeln",
+    "explanation_en": "rain very heavily"
+  },
+  {
+    "ID": "217",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "raise an eyebrow",
+    "explanation_en": "show surprise, e.g. by moving one's eyebrows"
+  },
+  {
+    "ID": "217",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Augenbraue hochziehen",
+    "explanation_en": "show surprise, e.g. by moving one's eyebrows"
+  },
+  {
+    "ID": "218",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "raise the roof",
+    "explanation_en": "make a great deal of noise, especially because of excitement or anger"
+  },
+  {
+    "ID": "218",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "an die Decke gehen",
+    "explanation_en": "make a great deal of noise, especially because of excitement or anger"
+  },
+  {
+    "ID": "219",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "rake over the coals",
+    "explanation_en": "discuss or examine memories of the past, especially unpleasant ones; return to an argument, discussion, etc. that has been left or forgotten"
+  },
+  {
+    "ID": "219",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "alte Geschichten ausgraben",
+    "explanation_en": "discuss or examine memories of the past, especially unpleasant ones; return to an argument, discussion, etc. that has been left or forgotten"
+  },
+  {
+    "ID": "220",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "read between the lines",
+    "explanation_en": "discover the true facts or a person's real feelings or opinions that are not directly expressed in words; understand more than is actually written or spoken"
+  },
+  {
+    "ID": "220",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "zwischen den Zeilen lesen",
+    "explanation_en": "discover the true facts or a person's real feelings or opinions that are not directly expressed in words; understand more than is actually written or spoken"
+  },
+  {
+    "ID": "221",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "return the compliment",
+    "explanation_en": "do or say the same things that another person has done or said to one, especially to invite the other person to have a meal, come to one's house etc."
+  },
+  {
+    "ID": "221",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "das Kompliment erwidern",
+    "explanation_en": "do or say the same things that another person has done or said to one, especially to invite the other person to have a meal, come to one's house etc."
+  },
+  {
+    "ID": "222",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "ride the storm",
+    "explanation_en": "control or deal with a situation of great disorder or violence"
+  },
+  {
+    "ID": "222",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "dem Sturm standhalten",
+    "explanation_en": "control or deal with a situation of great disorder or violence"
+  },
+  {
+    "ID": "223",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "ring a bell",
+    "explanation_en": "remind someone of something"
+  },
+  {
+    "ID": "223",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jmd an etw erinnern",
+    "explanation_en": "remind someone of something"
+  },
+  {
+    "ID": "224",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "rise to the bait",
+    "explanation_en": "act in exactly the manner that someone else hoped one would; often to be drawn in a situation, especially in a conversation, that gives amusement to others"
+  },
+  {
+    "ID": "224",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "anbeißen",
+    "explanation_en": "act in exactly the manner that someone else hoped one would; often to be drawn in a situation, especially in a conversation, that gives amusement to others"
+  },
+  {
+    "ID": "225",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "rob the cradle",
+    "explanation_en": "marry or date someone who is much younger than you are"
+  },
+  {
+    "ID": "225",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "mit jemandem ausgehen, der/die viel jünger ist",
+    "explanation_en": "marry or date someone who is much younger than you are"
+  },
+  {
+    "ID": "226",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "rock the boat",
+    "explanation_en": "spoil or trouble a comfortable situation, especially unnecessarily"
+  },
+  {
+    "ID": "226",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Staub aufwirbeln",
+    "explanation_en": "spoil or trouble a comfortable situation, especially unnecessarily"
+  },
+  {
+    "ID": "227",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "rule of thumb",
+    "explanation_en": "a rough or inexact guide or principle used for quick calculations or to get things done quickly"
+  },
+  {
+    "ID": "227",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Faustregel",
+    "explanation_en": "a rough or inexact guide or principle used for quick calculations or to get things done quickly"
+  },
+  {
+    "ID": "228",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "rule the roost",
+    "explanation_en": "be the master or most powerful person in a family, group, etc."
+  },
+  {
+    "ID": "228",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Herr im Hause sein",
+    "explanation_en": "be the master or most powerful person in a family, group, etc."
+  },
+  {
+    "ID": "229",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "rule with an iron fist",
+    "explanation_en": "control or rule (a person, group of people, country, etc.) very severely"
+  },
+  {
+    "ID": "229",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "mit eisener Faust regieren",
+    "explanation_en": "control or rule (a person, group of people, country, etc.) very severely"
+  },
+  {
+    "ID": "230",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "run a mile",
+    "explanation_en": "avoid something"
+  },
+  {
+    "ID": "230",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "es ist zum Davonlaufen",
+    "explanation_en": "avoid something"
+  },
+  {
+    "ID": "231",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "run into the ground",
+    "explanation_en": "to use something so much that it breaks or stops working"
+  },
+  {
+    "ID": "231",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "etw zugrunde richten",
+    "explanation_en": "to use something so much that it breaks or stops working"
+  },
+  {
+    "ID": "232",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "run the gauntlet",
+    "explanation_en": "risk anger, danger, criticism, etc."
+  },
+  {
+    "ID": "232",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Spießruten laufen",
+    "explanation_en": "risk anger, danger, criticism, etc."
+  },
+  {
+    "ID": "233",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "save the day",
+    "explanation_en": "bring success when failure seems certain"
+  },
+  {
+    "ID": "233",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Lage retten",
+    "explanation_en": "bring success when failure seems certain"
+  },
+  {
+    "ID": "234",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "save your skin",
+    "explanation_en": "escape or help someone to escape from a danger, e.g. of being killed or hurt or of failing to do something"
+  },
+  {
+    "ID": "234",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "seine Haut retten",
+    "explanation_en": "escape or help someone to escape from a danger, e.g. of being killed or hurt or of failing to do something"
+  },
+  {
+    "ID": "235",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "say a mouthful",
+    "explanation_en": "say a lot, say something very important or meaningful"
+  },
+  {
+    "ID": "235",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "etwas Wichtiges sagen",
+    "explanation_en": "say a lot, say something very important or meaningful"
+  },
+  {
+    "ID": "236",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "say the word",
+    "explanation_en": "give approval; express one's intentions to someone"
+  },
+  {
+    "ID": "236",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein Wort genügt",
+    "explanation_en": "give approval; express one's intentions to someone"
+  },
+  {
+    "ID": "237",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "you scratch my back, I'll scratch yours",
+    "explanation_en": "if someone helps you, you help them, even if this is unfair to others"
+  },
+  {
+    "ID": "237",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Hand wäscht die andere",
+    "explanation_en": "if someone helps you, you help them, even if this is unfair to others"
+  },
+  {
+    "ID": "238",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "scratch the surface",
+    "explanation_en": "just begin to find out about something"
+  },
+  {
+    "ID": "238",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "an der Oberfläche kratzen",
+    "explanation_en": "just begin to find out about something"
+  },
+  {
+    "ID": "239",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "scream bloody murder",
+    "explanation_en": "make a great deal of noise, esp. in complaint"
+  },
+  {
+    "ID": "239",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "brüllen wie am Spieß",
+    "explanation_en": "make a great deal of noise, esp. in complaint"
+  },
+  {
+    "ID": "240",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "seal one's fate",
+    "explanation_en": "ensure that something, especially something unpleasant, happens to someone or oneself in the future"
+  },
+  {
+    "ID": "240",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jmds  Schicksal besiegeln",
+    "explanation_en": "ensure that something, especially something unpleasant, happens to someone or oneself in the future"
+  },
+  {
+    "ID": "241",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "see the light",
+    "explanation_en": "understand or agree with something, especially something one has been unable to understand or has not agreed with before"
+  },
+  {
+    "ID": "241",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "zur Erkenntnis kommen",
+    "explanation_en": "understand or agree with something, especially something one has been unable to understand or has not agreed with before"
+  },
+  {
+    "ID": "242",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "see the world",
+    "explanation_en": "have experience of life, especially in many different countries and under widely varying conditions of wealth, misfortune, etc."
+  },
+  {
+    "ID": "242",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Erfahrung sammeln",
+    "explanation_en": "have experience of life, especially in many different countries and under widely varying conditions of wealth, misfortune, etc."
+  },
+  {
+    "ID": "243",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "seize the opportunity",
+    "explanation_en": "take advantage of an opportunity or situation"
+  },
+  {
+    "ID": "243",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Gelegenheit am Schopf packen/nutzen",
+    "explanation_en": "take advantage of an opportunity or situation"
+  },
+  {
+    "ID": "244",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "set the pace",
+    "explanation_en": "establish the speed or rate at which, or the manner in which, an activity is to be carried out"
+  },
+  {
+    "ID": "244",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Takt vorgeben",
+    "explanation_en": "establish the speed or rate at which, or the manner in which, an activity is to be carried out"
+  },
+  {
+    "ID": "245",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "set the scene",
+    "explanation_en": "describe a place or situation in detail"
+  },
+  {
+    "ID": "245",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Rahmen abstecken",
+    "explanation_en": "describe a place or situation in detail"
+  },
+  {
+    "ID": "246",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "settle a score",
+    "explanation_en": "get revenge for a wrong or injury that one has suffered"
+  },
+  {
+    "ID": "246",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein Hühnchen rupfen",
+    "explanation_en": "get revenge for a wrong or injury that one has suffered"
+  },
+  {
+    "ID": "247",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "shoot the breeze",
+    "explanation_en": "talk; have an informal conversation"
+  },
+  {
+    "ID": "247",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Plausch halten",
+    "explanation_en": "talk; have an informal conversation"
+  },
+  {
+    "ID": "248",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "show the flag",
+    "explanation_en": "make clear what one's opinions are, especially to support them against opposition"
+  },
+  {
+    "ID": "248",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Flagge zeigen",
+    "explanation_en": "make clear what one's opinions are, especially to support them against opposition"
+  },
+  {
+    "ID": "249",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "shut your trap",
+    "explanation_en": "stop talking or say nothing"
+  },
+  {
+    "ID": "249",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Klappe halten",
+    "explanation_en": "stop talking or say nothing"
+  },
+  {
+    "ID": "250",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "sit on the fence",
+    "explanation_en": "not to make any clear choice or decision between two possibilities or opposing groups of people; not take sides"
+  },
+  {
+    "ID": "250",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "zwischen den Fronten stehen",
+    "explanation_en": "not to make any clear choice or decision between two possibilities or opposing groups of people; not take sides"
+  },
+  {
+    "ID": "251",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "skate on thin ice",
+    "explanation_en": "do something dangerous"
+  },
+  {
+    "ID": "251",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich auf dünnem Eis bewegen",
+    "explanation_en": "do something dangerous"
+  },
+  {
+    "ID": "252",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "slip one's mind",
+    "explanation_en": "be forgotten"
+  },
+  {
+    "ID": "252",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm entfallen",
+    "explanation_en": "be forgotten"
+  },
+  {
+    "ID": "253",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "smell a rat",
+    "explanation_en": "suspect that something is wrong, that someone is trying to deceive one"
+  },
+  {
+    "ID": "253",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Lunte riechen",
+    "explanation_en": "suspect that something is wrong, that someone is trying to deceive one"
+  },
+  {
+    "ID": "254",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "speak your mind",
+    "explanation_en": "say clearly what one thinks without fear; speak honestly and openly"
+  },
+  {
+    "ID": "254",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "frei von der Leber weg sprechen",
+    "explanation_en": "say clearly what one thinks without fear; speak honestly and openly"
+  },
+  {
+    "ID": "255",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "spill the beans",
+    "explanation_en": "reveal or make known something that has been kept secret"
+  },
+  {
+    "ID": "255",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "alles ausplaudern",
+    "explanation_en": "reveal or make known something that has been kept secret"
+  },
+  {
+    "ID": "256",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "spin a yarn",
+    "explanation_en": "make an excuse by telling an untrue story"
+  },
+  {
+    "ID": "256",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Seemannsgarn spinnen",
+    "explanation_en": "make an excuse by telling an untrue story"
+  },
+  {
+    "ID": "257",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "split hairs",
+    "explanation_en": "pay too much attention in an argument to differences that are very small and unimportant"
+  },
+  {
+    "ID": "257",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Haare spalten",
+    "explanation_en": "pay too much attention in an argument to differences that are very small and unimportant"
+  },
+  {
+    "ID": "258",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "split the difference",
+    "explanation_en": "(of two or more people) agree on a figure halfway between two figures, especially between the amount one person is willing to pay and the price for which another will sell"
+  },
+  {
+    "ID": "258",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich auf halbem Weg entgegenkommen",
+    "explanation_en": "(of two or more people) agree on a figure halfway between two figures, especially between the amount one person is willing to pay and the price for which another will sell"
+  },
+  {
+    "ID": "259",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "stand a chance",
+    "explanation_en": "have a chance"
+  },
+  {
+    "ID": "259",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Chance haben",
+    "explanation_en": "have a chance"
+  },
+  {
+    "ID": "260",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "stay the course",
+    "explanation_en": "continue something through to the end in spite of difficulties"
+  },
+  {
+    "ID": "260",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Sache durchziehen",
+    "explanation_en": "continue something through to the end in spite of difficulties"
+  },
+  {
+    "ID": "261",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "steal someone's thunder",
+    "explanation_en": "spoil a person's attempt to be impressive by doing what he had intended to do before him"
+  },
+  {
+    "ID": "261",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdm die Schau stehlen",
+    "explanation_en": "spoil a person's attempt to be impressive by doing what he had intended to do before him"
+  },
+  {
+    "ID": "262",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "to stick one's neck out",
+    "explanation_en": "take a great risk or risk one's life"
+  },
+  {
+    "ID": "262",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Kopf und Kragen riskieren",
+    "explanation_en": "take a great risk or risk one's life"
+  },
+  {
+    "ID": "263",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "stir the blood",
+    "explanation_en": "cause someone to become excited or eager"
+  },
+  {
+    "ID": "263",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Blut in Wallung bringen",
+    "explanation_en": "cause someone to become excited or eager"
+  },
+  {
+    "ID": "264",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "stretch a point",
+    "explanation_en": "give an inaccurate (but partly true) account"
+  },
+  {
+    "ID": "264",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "übertreiben",
+    "explanation_en": "give an inaccurate (but partly true) account"
+  },
+  {
+    "ID": "265",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "strike a bargain",
+    "explanation_en": "reach an agreement on a price for something"
+  },
+  {
+    "ID": "265",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ein gutes Geschäft abschließen",
+    "explanation_en": "reach an agreement on a price for something"
+  },
+  {
+    "ID": "266",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "strike a chord",
+    "explanation_en": "make one remember someone or something; be familiar in some way"
+  },
+  {
+    "ID": "266",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "auf Anklang stoßen",
+    "explanation_en": "make one remember someone or something; be familiar in some way"
+  },
+  {
+    "ID": "267",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "sugar the pill",
+    "explanation_en": "make something that is necessary but unpleasant seem attractive"
+  },
+  {
+    "ID": "267",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Pille versüßen",
+    "explanation_en": "make something that is necessary but unpleasant seem attractive"
+  },
+  {
+    "ID": "268",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "swallow one's pride",
+    "explanation_en": "do something even though one would usually feel ashamed to do it"
+  },
+  {
+    "ID": "268",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "seinen Stolz schlucken",
+    "explanation_en": "do something even though one would usually feel ashamed to do it"
+  },
+  {
+    "ID": "269",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "sweep the board",
+    "explanation_en": "win all the prizes, gain the greates amount of success"
+  },
+  {
+    "ID": "269",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "alles abräumen",
+    "explanation_en": "win all the prizes, gain the greates amount of success"
+  },
+  {
+    "ID": "270",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "swing the lead",
+    "explanation_en": "avoid doing one's work or duty"
+  },
+  {
+    "ID": "270",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "sich drücken",
+    "explanation_en": "avoid doing one's work or duty"
+  },
+  {
+    "ID": "271",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "take a spill",
+    "explanation_en": "have a fall, tip over"
+  },
+  {
+    "ID": "271",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "hinfallen",
+    "explanation_en": "have a fall, tip over"
+  },
+  {
+    "ID": "272",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "take someone to the cleaners",
+    "explanation_en": "cause (someone) to lose all or a great deal of money, etc., especially through betting or failing in business"
+  },
+  {
+    "ID": "272",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jdn über´s Ohr hauen",
+    "explanation_en": "cause (someone) to lose all or a great deal of money, etc., especially through betting or failing in business"
+  },
+  {
+    "ID": "273",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "take the back seat",
+    "explanation_en": "take or be given a position of less importance, influence, etc."
+  },
+  {
+    "ID": "273",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die zweite Geige spielen",
+    "explanation_en": "take or be given a position of less importance, influence, etc."
+  },
+  {
+    "ID": "274",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "take the bait",
+    "explanation_en": "react as someone wanted you to"
+  },
+  {
+    "ID": "274",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Köder schlucken",
+    "explanation_en": "react as someone wanted you to"
+  },
+  {
+    "ID": "275",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "take the bull by the horns",
+    "explanation_en": "deal with something difficult boldly or without delay"
+  },
+  {
+    "ID": "275",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Stier an den Hörnern packen",
+    "explanation_en": "deal with something difficult boldly or without delay"
+  },
+  {
+    "ID": "276",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "take the cake",
+    "explanation_en": "be the best or worst of something"
+  },
+  {
+    "ID": "276",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Vogel abschießen",
+    "explanation_en": "be the best or worst of something"
+  },
+  {
+    "ID": "277",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "take the plunge",
+    "explanation_en": "make a decision to do something risky, dangerous, or difficult"
+  },
+  {
+    "ID": "277",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Sprung wagen",
+    "explanation_en": "make a decision to do something risky, dangerous, or difficult"
+  },
+  {
+    "ID": "278",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "take the stand",
+    "explanation_en": "go to and sit in the witness chair in a courtroom"
+  },
+  {
+    "ID": "278",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "als Zeuge auftreten",
+    "explanation_en": "go to and sit in the witness chair in a courtroom"
+  },
+  {
+    "ID": "279",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "take with a grain of salt",
+    "explanation_en": "doubt that (something, especially a statement) is completely true, important, effective, etc."
+  },
+  {
+    "ID": "279",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "mit Vorsicht genießen",
+    "explanation_en": "doubt that (something, especially a statement) is completely true, important, effective, etc."
+  },
+  {
+    "ID": "280",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "talk a mile a minute",
+    "explanation_en": "speak rapidly and without a pause"
+  },
+  {
+    "ID": "280",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "ohne Punkt und Komma reden",
+    "explanation_en": "speak rapidly and without a pause"
+  },
+  {
+    "ID": "281",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "throw money out the window",
+    "explanation_en": "waste money"
+  },
+  {
+    "ID": "281",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Geld aus dem Fenster werfen",
+    "explanation_en": "waste money"
+  },
+  {
+    "ID": "282",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "tickle the ivories",
+    "explanation_en": "play the piano"
+  },
+  {
+    "ID": "282",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "in die Tasten hauen",
+    "explanation_en": "play the piano"
+  },
+  {
+    "ID": "283",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "tie the knot",
+    "explanation_en": "get married"
+  },
+  {
+    "ID": "283",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Bund der Ehe schließen",
+    "explanation_en": "get married"
+  },
+  {
+    "ID": "284",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "tip of the iceberg",
+    "explanation_en": "the smallest sign of a larger problem, difficulty, situation, etc."
+  },
+  {
+    "ID": "284",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "Spitze des Eisbergs",
+    "explanation_en": "the smallest sign of a larger problem, difficulty, situation, etc."
+  },
+  {
+    "ID": "285",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "tip the balance",
+    "explanation_en": "influence (decide) the result of an event in one particular way when several results are possible"
+  },
+  {
+    "ID": "285",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Ausschlag geben",
+    "explanation_en": "influence (decide) the result of an event in one particular way when several results are possible"
+  },
+  {
+    "ID": "286",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "tip the scales",
+    "explanation_en": "decide the result of some action, event, or disagreement that is in doubt by adding a little additional weight to one of the choices"
+  },
+  {
+    "ID": "286",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Ausschlag geben",
+    "explanation_en": "decide the result of some action, event, or disagreement that is in doubt by adding a little additional weight to one of the choices"
+  },
+  {
+    "ID": "287",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "toe the line",
+    "explanation_en": "obey orders, accept the ideas, principles, etc. of another person or group"
+  },
+  {
+    "ID": "287",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "spuren, gehorchen",
+    "explanation_en": "obey orders, accept the ideas, principles, etc. of another person or group"
+  },
+  {
+    "ID": "288",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "turn the corner",
+    "explanation_en": "start to get better, especially after an illness, difficult period, etc."
+  },
+  {
+    "ID": "288",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "es geht aufwaerts",
+    "explanation_en": "start to get better, especially after an illness, difficult period, etc."
+  },
+  {
+    "ID": "289",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "turn the tables",
+    "explanation_en": "change a situation so that one gains a position of advantage (over one's opponent or enemy) after being at a disadvantage"
+  },
+  {
+    "ID": "289",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Spieß umdrehen",
+    "explanation_en": "change a situation so that one gains a position of advantage (over one's opponent or enemy) after being at a disadvantage"
+  },
+  {
+    "ID": "290",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "turn the tide",
+    "explanation_en": "cause a reversal in the direction of events or in public opinion"
+  },
+  {
+    "ID": "290",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "das Blatt wenden",
+    "explanation_en": "cause a reversal in the direction of events or in public opinion"
+  },
+  {
+    "ID": "291",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "twist someone's arm",
+    "explanation_en": "force or persuade someone to do something, e.g. by threats or by making a very serious request"
+  },
+  {
+    "ID": "291",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "jmd unter Druck setzen",
+    "explanation_en": "force or persuade someone to do something, e.g. by threats or by making a very serious request"
+  },
+  {
+    "ID": "292",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "under someone's thumb",
+    "explanation_en": "under the control or influence of someone"
+  },
+  {
+    "ID": "292",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "unter jds Fuchtel stehen",
+    "explanation_en": "under the control or influence of someone"
+  },
+  {
+    "ID": "293",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "under the weather",
+    "explanation_en": "unwell or not cheerful"
+  },
+  {
+    "ID": "293",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "angeschlagen sein",
+    "explanation_en": "unwell or not cheerful"
+  },
+  {
+    "ID": "294",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "up the ante",
+    "explanation_en": "increase the amount of money needed and offered for something"
+  },
+  {
+    "ID": "294",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "den Einsatz erhöhen",
+    "explanation_en": "increase the amount of money needed and offered for something"
+  },
+  {
+    "ID": "295",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "walk a tightrope",
+    "explanation_en": "be in a situation where one must be very cautious"
+  },
+  {
+    "ID": "295",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "einen Drahtseilakt vollführen",
+    "explanation_en": "be in a situation where one must be very cautious"
+  },
+  {
+    "ID": "296",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "waste your breath",
+    "explanation_en": "speak without effect; especially when one is trying to persuade someone of something"
+  },
+  {
+    "ID": "296",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "in den Wind reden",
+    "explanation_en": "speak without effect; especially when one is trying to persuade someone of something"
+  },
+  {
+    "ID": "297",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "wear the pants",
+    "explanation_en": "be the ruling partner in a marriage"
+  },
+  {
+    "ID": "297",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "die Hosen anhaben",
+    "explanation_en": "be the ruling partner in a marriage"
+  },
+  {
+    "ID": "298",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "weather the storm",
+    "explanation_en": "deal successfully with or survive a difficult time"
+  },
+  {
+    "ID": "298",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "eine Sache überstehen",
+    "explanation_en": "deal successfully with or survive a difficult time"
+  },
+  {
+    "ID": "299",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "with flying colors",
+    "explanation_en": "completely or very successfully"
+  },
+  {
+    "ID": "299",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "mit Glanz und Gloria",
+    "explanation_en": "completely or very successfully"
+  },
+  {
+    "ID": "300",
+    "source": "DIN",
+    "language": "en",
+    "Idiom": "would give the world",
+    "explanation_en": "would very much like (to do or have something, be somewhere, etc.)"
+  },
+  {
+    "ID": "300",
+    "source": "DIN",
+    "language": "de",
+    "Idiom": "alles für etw geben",
+    "explanation_en": "would very much like (to do or have something, be somewhere, etc.)"
+  }
+]
