@@ -1,0 +1,6036 @@
+[
+  {
+    "ID": "1",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the benefit of the doubt",
+    "explanation_en": "regards a person as innocent unless confirmed otherwise"
+  },
+  {
+    "ID": "2",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "ballpark figure",
+    "explanation_en": "an estimate of what the actual figure will be like"
+  },
+  {
+    "ID": "3",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "from the bottom of my heart",
+    "explanation_en": "with sincere and deep feeling"
+  },
+  {
+    "ID": "4",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "turning point",
+    "explanation_en": "the time of significant change (mostly positive) in situation"
+  },
+  {
+    "ID": "5",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "go the extra mile",
+    "explanation_en": "to try a little harder in order to achieve something, after you have already used a lot of effort"
+  },
+  {
+    "ID": "6",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pop the question",
+    "explanation_en": "propose marriage to someone"
+  },
+  {
+    "ID": "7",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "sense of humour",
+    "explanation_en": "the ability to enjoy and express the funny side of a situation"
+  },
+  {
+    "ID": "8",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "turn back on",
+    "explanation_en": "to refuse to help, support, or be involved with someone or something"
+  },
+  {
+    "ID": "9",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a blessing in disguise",
+    "explanation_en": "something that seems to be bad or unlucky at first, but which you later realize is good or lucky"
+  },
+  {
+    "ID": "10",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "put a sock in it",
+    "explanation_en": "to not say anything"
+  },
+  {
+    "ID": "11",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "over my dead body",
+    "explanation_en": "under no circumstances"
+  },
+  {
+    "ID": "12",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "silver lining",
+    "explanation_en": "the situation may seem bad now but can turn for the better"
+  },
+  {
+    "ID": "13",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "slap on the wrist",
+    "explanation_en": "to show disapproval"
+  },
+  {
+    "ID": "14",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "long run",
+    "explanation_en": "a time duration comprising of a sequence of events"
+  },
+  {
+    "ID": "15",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "let the cat out of the bag",
+    "explanation_en": "to tell someone a secret, especially without intending to"
+  },
+  {
+    "ID": "16",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "do or die",
+    "explanation_en": "a situation in which you must take a big risk in order to avoid failure"
+  },
+  {
+    "ID": "17",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "call of the wild",
+    "explanation_en": "Raw emotions, mostly volatile in nature are represented through this phrase"
+  },
+  {
+    "ID": "18",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "all Greek to me",
+    "explanation_en": "to say that you cannot understand something"
+  },
+  {
+    "ID": "19",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dead as a dodo",
+    "explanation_en": "no longer alive or existing"
+  },
+  {
+    "ID": "20",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a bed of roses",
+    "explanation_en": "a comfortable or luxurious position"
+  },
+  {
+    "ID": "21",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a cut above",
+    "explanation_en": "someone or something much better than someone else or something else"
+  },
+  {
+    "ID": "22",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "batten down the hatches",
+    "explanation_en": "to get ready for trouble"
+  },
+  {
+    "ID": "23",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "sitting duck",
+    "explanation_en": "to be in a vulnerable position to be attacked"
+  },
+  {
+    "ID": "24",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "volte face",
+    "explanation_en": "a total change in opinion and attitude"
+  },
+  {
+    "ID": "25",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fool's paradise",
+    "explanation_en": "It is the state of happiness that is not considered real since it would be short lived, only until the truth is revealed"
+  },
+  {
+    "ID": "26",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "at the drop of a dime",
+    "explanation_en": "something that can happen very fast without hesitation"
+  },
+  {
+    "ID": "27",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "rule of thumb",
+    "explanation_en": "a guide that is based on practice rather than theory"
+  },
+  {
+    "ID": "28",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "burn fingers",
+    "explanation_en": "to get burned due to past actions"
+  },
+  {
+    "ID": "29",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bring up",
+    "explanation_en": "to mention something or someone"
+  },
+  {
+    "ID": "30",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dry run",
+    "explanation_en": "to give something a trial before it is actually launched."
+  },
+  {
+    "ID": "31",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "money doesn't grow on trees",
+    "explanation_en": "money to be earned requires a lot of effort"
+  },
+  {
+    "ID": "32",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a lot on my plate",
+    "explanation_en": "to have so many things to do at one time"
+  },
+  {
+    "ID": "33",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "black and blue",
+    "explanation_en": "hurt, either bodily, emotionally or psychologically"
+  },
+  {
+    "ID": "34",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "up a blind alley",
+    "explanation_en": "to be headed towards certain failure"
+  },
+  {
+    "ID": "35",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "toot one's own horn",
+    "explanation_en": "to draw attention to one's self"
+  },
+  {
+    "ID": "36",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pep talk",
+    "explanation_en": "a speech intended to make someone feel more courageous or enthusiastic"
+  },
+  {
+    "ID": "37",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come to pass",
+    "explanation_en": "to happen"
+  },
+  {
+    "ID": "38",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come to pass",
+    "explanation_en": "to realise or to understand"
+  },
+  {
+    "ID": "39",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hit the sack",
+    "explanation_en": "to go to sleep"
+  },
+  {
+    "ID": "40",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "music to ears",
+    "explanation_en": "something that makes you very happy聽or pleased"
+  },
+  {
+    "ID": "41",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "long in the tooth",
+    "explanation_en": "To get too old for something"
+  },
+  {
+    "ID": "42",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "off the record",
+    "explanation_en": "an informal or unofficial statement"
+  },
+  {
+    "ID": "43",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the lion's den",
+    "explanation_en": "a dangerous and difficult moment"
+  },
+  {
+    "ID": "44",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hit the books",
+    "explanation_en": "to study very hard"
+  },
+  {
+    "ID": "45",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "go out on a limb",
+    "explanation_en": "do or say something that is different from most other people"
+  },
+  {
+    "ID": "46",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "from A to Z",
+    "explanation_en": "comprehensive"
+  },
+  {
+    "ID": "47",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "from A to Z",
+    "explanation_en": "from the beginning to the end"
+  },
+  {
+    "ID": "48",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "building blocks",
+    "explanation_en": "something that is a basic element (of the subject)"
+  },
+  {
+    "ID": "49",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "set in ways",
+    "explanation_en": "leading a fixed lifestyle"
+  },
+  {
+    "ID": "50",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "learning curve",
+    "explanation_en": "a process of learning something through one's own mistakes and experiences"
+  },
+  {
+    "ID": "51",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "baby blues",
+    "explanation_en": "The depression that is caused to new mothers after childbirth"
+  },
+  {
+    "ID": "52",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "well-to-do",
+    "explanation_en": "rich and of good social status"
+  },
+  {
+    "ID": "53",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blood on hands",
+    "explanation_en": "to have caused someone鈥檚 death"
+  },
+  {
+    "ID": "54",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in stitches",
+    "explanation_en": "to laugh so hard that you are not able to control yourself"
+  },
+  {
+    "ID": "55",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cloud nine",
+    "explanation_en": "very happy/excited"
+  },
+  {
+    "ID": "56",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "sell someone out",
+    "explanation_en": "to betray someone"
+  },
+  {
+    "ID": "57",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "scapegoat",
+    "explanation_en": "to be made to suffer or bear the punishment for someone else"
+  },
+  {
+    "ID": "58",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "leave no stone unturned",
+    "explanation_en": "do something carefully and thoroughly, not missing any step"
+  },
+  {
+    "ID": "59",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "account for",
+    "explanation_en": "to give a satisfactory explanation of why something has happened or why you did something"
+  },
+  {
+    "ID": "60",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "go with the flow",
+    "explanation_en": "flexible; adaptable; workable; supple"
+  },
+  {
+    "ID": "61",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "give airs",
+    "explanation_en": "to be pretentious/showy"
+  },
+  {
+    "ID": "62",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "laughing stock",
+    "explanation_en": "Something ridiculous which can be laughed upon"
+  },
+  {
+    "ID": "63",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "have a crush",
+    "explanation_en": "a brief but intense feeling of love for someone"
+  },
+  {
+    "ID": "64",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "tie the knot",
+    "explanation_en": "to get married"
+  },
+  {
+    "ID": "65",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "warm-hearted",
+    "explanation_en": "to be kind and loving"
+  },
+  {
+    "ID": "66",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in deep water",
+    "explanation_en": "in trouble or in a difficult or serious situation"
+  },
+  {
+    "ID": "67",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "until the cows come home",
+    "explanation_en": "for an indefinite time"
+  },
+  {
+    "ID": "68",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bull in a china shop",
+    "explanation_en": "a person who breaks things or who often makes mistakes or causes damage in situations that require careful thinking or behavior"
+  },
+  {
+    "ID": "69",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a trip to the sun",
+    "explanation_en": "some task or activity or anything which is impossible to achieve"
+  },
+  {
+    "ID": "70",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hear on the grapevine",
+    "explanation_en": "to hear rumours about something"
+  },
+  {
+    "ID": "71",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "burn the midnight oil",
+    "explanation_en": "work long hours and hard"
+  },
+  {
+    "ID": "72",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "born yesterday",
+    "explanation_en": "not a completely naive person"
+  },
+  {
+    "ID": "73",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "below the belt",
+    "explanation_en": "cruel, unjust or unacceptable"
+  },
+  {
+    "ID": "74",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "as and when",
+    "explanation_en": "At the time when"
+  },
+  {
+    "ID": "75",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "one stop shop",
+    "explanation_en": "a shop where you can buy many different things"
+  },
+  {
+    "ID": "76",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "great minds think alike",
+    "explanation_en": "Intelligent people come up with the same ideas at the same time."
+  },
+  {
+    "ID": "77",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "stab in the back",
+    "explanation_en": "to deceive or betray someone who trusted you"
+  },
+  {
+    "ID": "78",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "over and over again",
+    "explanation_en": "again and again"
+  },
+  {
+    "ID": "79",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "zip past",
+    "explanation_en": "a swift movement, usually ignoring someone or something in the way"
+  },
+  {
+    "ID": "80",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "under the weather",
+    "explanation_en": "slightly ill"
+  },
+  {
+    "ID": "81",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fall between the cracks",
+    "explanation_en": "forgotten, overlooked or neglected"
+  },
+  {
+    "ID": "82",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "speak of the devil",
+    "explanation_en": "when talking about a certain person, that person appears"
+  },
+  {
+    "ID": "83",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "those three little words",
+    "explanation_en": "I love you"
+  },
+  {
+    "ID": "84",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "down in the dumps",
+    "explanation_en": "in melancholy mood"
+  },
+  {
+    "ID": "85",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pull yourself together",
+    "explanation_en": "to calm down and behave normally after an upsetting event"
+  },
+  {
+    "ID": "86",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "red letter day",
+    "explanation_en": "a day that you will always remember because something special happened that made you very happy"
+  },
+  {
+    "ID": "87",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "go down like a lead balloon",
+    "explanation_en": "a total failure"
+  },
+  {
+    "ID": "88",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take a rain check",
+    "explanation_en": "refuse an offer politely, but imply that it can be taken up later"
+  },
+  {
+    "ID": "89",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "sealed with a kiss",
+    "explanation_en": "written and sent with love and care"
+  },
+  {
+    "ID": "90",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "break the mould",
+    "explanation_en": "to be new or different"
+  },
+  {
+    "ID": "91",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "good grief",
+    "explanation_en": "being surprised"
+  },
+  {
+    "ID": "92",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bone of contention",
+    "explanation_en": "the subject of a dispute"
+  },
+  {
+    "ID": "93",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "from now on",
+    "explanation_en": "used to refer a time in the not so distant future"
+  },
+  {
+    "ID": "94",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "veg out",
+    "explanation_en": "to take things slow and easy"
+  },
+  {
+    "ID": "95",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "snow under",
+    "explanation_en": "to overwhelm something or somebody especially beyond their capacity to handle or deal with it"
+  },
+  {
+    "ID": "96",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "heart touching",
+    "explanation_en": "something that moves you on an emotional level"
+  },
+  {
+    "ID": "97",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "miles away",
+    "explanation_en": "unaware of the current situation"
+  },
+  {
+    "ID": "98",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fall for",
+    "explanation_en": "to fall in love with someone"
+  },
+  {
+    "ID": "99",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "tall poppy",
+    "explanation_en": "a privileged or distinguished person"
+  },
+  {
+    "ID": "100",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come on",
+    "explanation_en": "to request to hurry (something)"
+  },
+  {
+    "ID": "101",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the cross hairs",
+    "explanation_en": "in a position where one might receive severe criticism"
+  },
+  {
+    "ID": "102",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the calm before the storm",
+    "explanation_en": "a calm peaceful situation that will not continue because a big argument, problem etc is coming"
+  },
+  {
+    "ID": "103",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "there's no time like the present",
+    "explanation_en": "right now is the best time"
+  },
+  {
+    "ID": "104",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "variety is the spice of life",
+    "explanation_en": "new and exciting practices make life more attractive"
+  },
+  {
+    "ID": "105",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "ants in pants",
+    "explanation_en": "to be so excited or full of energy that you are unable to sit or stand still"
+  },
+  {
+    "ID": "106",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a dime a dozen",
+    "explanation_en": "something that is very common and not of much value"
+  },
+  {
+    "ID": "107",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come what may",
+    "explanation_en": "no matter what may happen"
+  },
+  {
+    "ID": "108",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "axe to grind",
+    "explanation_en": "to have a strong personal opinion about something which is the reason why you do something"
+  },
+  {
+    "ID": "109",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "ginger up",
+    "explanation_en": "to get excited"
+  },
+  {
+    "ID": "110",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take aback",
+    "explanation_en": "surprised or confused by something unexpected"
+  },
+  {
+    "ID": "111",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "round the clock",
+    "explanation_en": "all hours of the day"
+  },
+  {
+    "ID": "112",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "turn over a new leaf",
+    "explanation_en": "to alter your behaviour in a positive way"
+  },
+  {
+    "ID": "113",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "stand out",
+    "explanation_en": "to be very easy to see or notice"
+  },
+  {
+    "ID": "114",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "arm in arm",
+    "explanation_en": "to be closely allied"
+  },
+  {
+    "ID": "115",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "drive crazy",
+    "explanation_en": "to disturb or irritate someone"
+  },
+  {
+    "ID": "116",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hang up",
+    "explanation_en": "to disconnect a phone call"
+  },
+  {
+    "ID": "117",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hang up",
+    "explanation_en": "to be obsessed with someone or something"
+  },
+  {
+    "ID": "118",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "before one can say Jack Robinson",
+    "explanation_en": "very suddenly"
+  },
+  {
+    "ID": "119",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blazing row",
+    "explanation_en": "a big fight or quarrel"
+  },
+  {
+    "ID": "120",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "not hurt a fly or flea",
+    "explanation_en": "To not be able to cause harm to anyone"
+  },
+  {
+    "ID": "121",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "heart goes out to",
+    "explanation_en": "used to show a feeling of compassion for someone else during difficult times"
+  },
+  {
+    "ID": "122",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "strike while the iron is hot",
+    "explanation_en": "to take advantage of a situation"
+  },
+  {
+    "ID": "123",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the same page",
+    "explanation_en": "everyone in agreement"
+  },
+  {
+    "ID": "124",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the same page",
+    "explanation_en": "having the same information or knowledge"
+  },
+  {
+    "ID": "125",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the dot",
+    "explanation_en": "at a precise time"
+  },
+  {
+    "ID": "126",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "end of the day",
+    "explanation_en": "to give your final opinion after considering all the possibilities"
+  },
+  {
+    "ID": "127",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "wag the dog",
+    "explanation_en": "to divert attention from something that is bad"
+  },
+  {
+    "ID": "128",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bite off more than can chew",
+    "explanation_en": "to start or promise something to do more than one can accomplish"
+  },
+  {
+    "ID": "129",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cock and bull story",
+    "explanation_en": "complicated, ridiculous, or unbelievable story"
+  },
+  {
+    "ID": "130",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "act of God",
+    "explanation_en": "an extraordinary interruption by a natural cause (such as a flood or earthquake) of the usual course of events that experience, prescience, or care cannot reasonably foresee or prevent"
+  },
+  {
+    "ID": "131",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "new kid on the block",
+    "explanation_en": "somebody is new in a place or organization and has many things to learn about it"
+  },
+  {
+    "ID": "132",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "make the best of",
+    "explanation_en": "to look for a positive side of a seemingly negative situation"
+  },
+  {
+    "ID": "133",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in vain",
+    "explanation_en": "uselessly"
+  },
+  {
+    "ID": "134",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in vain",
+    "explanation_en": "without success"
+  },
+  {
+    "ID": "135",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "sick as a dog",
+    "explanation_en": "To be very sick."
+  },
+  {
+    "ID": "136",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "chill to the marrow",
+    "explanation_en": "to be very scared"
+  },
+  {
+    "ID": "137",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "sell like hot cakes",
+    "explanation_en": "be a great commercial success"
+  },
+  {
+    "ID": "138",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "just what the doctor ordered",
+    "explanation_en": "to be exactly what someone needs or wants"
+  },
+  {
+    "ID": "139",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get off",
+    "explanation_en": "to finish work and leave the place where you work at the end of the day"
+  },
+  {
+    "ID": "140",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "method to madness",
+    "explanation_en": "there's a reason for someone's strange behavior"
+  },
+  {
+    "ID": "141",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come to a head",
+    "explanation_en": "come to a crucial point"
+  },
+  {
+    "ID": "142",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "out of the closet",
+    "explanation_en": "go public about something private or hidden"
+  },
+  {
+    "ID": "143",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "look forward",
+    "explanation_en": "to be excited and pleased about something that is going to happen"
+  },
+  {
+    "ID": "144",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "butterflies in stomach",
+    "explanation_en": "to feel very nervous and restless"
+  },
+  {
+    "ID": "145",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "apples to oranges",
+    "explanation_en": "the items that cannot be compared with each other"
+  },
+  {
+    "ID": "146",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pedal to the metal",
+    "explanation_en": "push something forward as fast and as hard as possible"
+  },
+  {
+    "ID": "147",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "you wish",
+    "explanation_en": "used to state to someone that what they have been expecting is not possible"
+  },
+  {
+    "ID": "148",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pass away",
+    "explanation_en": "to refer to someone dying in order to avoid upsetting someone with the news of the death"
+  },
+  {
+    "ID": "149",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "zenith of career or life",
+    "explanation_en": "the apex of a person's career or life"
+  },
+  {
+    "ID": "150",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "treasure trove",
+    "explanation_en": "a priceless or valuable discovery"
+  },
+  {
+    "ID": "151",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "good Samaritan",
+    "explanation_en": "a compassionate person who helps others unselfishly"
+  },
+  {
+    "ID": "152",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "keep your friends close and your enemies closer",
+    "explanation_en": "to keep a keen eye on enemies beyond what one might have on their friends"
+  },
+  {
+    "ID": "153",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in a nutshell",
+    "explanation_en": "a concise summary of everything that has been said"
+  },
+  {
+    "ID": "154",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "drop by",
+    "explanation_en": "an informal visit"
+  },
+  {
+    "ID": "155",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "crack up",
+    "explanation_en": "to burst into laughter or to laugh non-stop"
+  },
+  {
+    "ID": "156",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "crack up",
+    "explanation_en": "suffering from a mental collapse"
+  },
+  {
+    "ID": "157",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "miss the boat",
+    "explanation_en": "being too slow to take advantage of an opportunity"
+  },
+  {
+    "ID": "158",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "keep your chin up",
+    "explanation_en": "be stalwart and courageous in a tough situation"
+  },
+  {
+    "ID": "159",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "change of heart",
+    "explanation_en": "a shift to a different opinion or thought"
+  },
+  {
+    "ID": "160",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hang on",
+    "explanation_en": "hold on or hold tightly"
+  },
+  {
+    "ID": "161",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "it's a small world",
+    "explanation_en": "used to express surprise that events or people at different places are somehow connected"
+  },
+  {
+    "ID": "162",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bite the dust",
+    "explanation_en": "to suffer a defeat"
+  },
+  {
+    "ID": "163",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cool heels",
+    "explanation_en": "to wait or take rest"
+  },
+  {
+    "ID": "164",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "level playing field",
+    "explanation_en": "a situation in which different companies, countries etc can all compete fairly with each other because no one has special advantages"
+  },
+  {
+    "ID": "165",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "far-fetched",
+    "explanation_en": "unlikely to be true"
+  },
+  {
+    "ID": "166",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "follow by",
+    "explanation_en": "come next in time or sequence"
+  },
+  {
+    "ID": "167",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "follow by",
+    "explanation_en": "go behind somebody"
+  },
+  {
+    "ID": "168",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a picture is worth a thousand words",
+    "explanation_en": "a picture conveys information more effectively than words"
+  },
+  {
+    "ID": "169",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get cracking",
+    "explanation_en": "to start working on something right away"
+  },
+  {
+    "ID": "170",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "harp on",
+    "explanation_en": "To speak continuously about something that is not interesting"
+  },
+  {
+    "ID": "171",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "do the trick",
+    "explanation_en": "successfully achieve a result"
+  },
+  {
+    "ID": "172",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the can",
+    "explanation_en": "complete and ready to be shown"
+  },
+  {
+    "ID": "173",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take it on the chin",
+    "explanation_en": "don't be weakened by criticism or insults"
+  },
+  {
+    "ID": "174",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "forty winks",
+    "explanation_en": "sleep for a while, mostly during the day"
+  },
+  {
+    "ID": "175",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "wash dirty linen in public",
+    "explanation_en": "to discuss in public one's private scandals, disagreements, or difficulties"
+  },
+  {
+    "ID": "176",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cold hearted",
+    "explanation_en": "the phenomenon of being rude or indifferent towards things"
+  },
+  {
+    "ID": "177",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "stir up a hornet's nest",
+    "explanation_en": "To cause an upheaval."
+  },
+  {
+    "ID": "178",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the best of both worlds",
+    "explanation_en": "the best features of two different things"
+  },
+  {
+    "ID": "179",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cry over spilt milk",
+    "explanation_en": "to be upset about things that have already been done"
+  },
+  {
+    "ID": "180",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cold sweat",
+    "explanation_en": "the condition where extreme fear or nervousness causes a person to feel a chill along with moist skin or sweat"
+  },
+  {
+    "ID": "181",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pull the wool over eyes",
+    "explanation_en": "to deceive someone"
+  },
+  {
+    "ID": "182",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "keep the wolf from the door",
+    "explanation_en": "defend against financial or starvation devastation"
+  },
+  {
+    "ID": "183",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the last straw",
+    "explanation_en": "to be the last tolerable thing after which something cannot be accepted"
+  },
+  {
+    "ID": "184",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "birds of a feather flock together",
+    "explanation_en": "to form groups with people with similar interests and tastes"
+  },
+  {
+    "ID": "185",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "must have",
+    "explanation_en": "something that is an essential item (though not necessarily for living)"
+  },
+  {
+    "ID": "186",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "eat like a horse",
+    "explanation_en": "Eat a great deal."
+  },
+  {
+    "ID": "187",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "seal of approval",
+    "explanation_en": "an official sign of approval"
+  },
+  {
+    "ID": "188",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "has-been",
+    "explanation_en": "to have had a wonderful past but no present or future in the field"
+  },
+  {
+    "ID": "189",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "stay up",
+    "explanation_en": "to remain awake late into the night"
+  },
+  {
+    "ID": "190",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "all day long",
+    "explanation_en": "during all of the day"
+  },
+  {
+    "ID": "191",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blue blood",
+    "explanation_en": "a person belongs to a royal or noble family"
+  },
+  {
+    "ID": "192",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "head and shoulders above",
+    "explanation_en": "to be much better than other people"
+  },
+  {
+    "ID": "193",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "avant-garde",
+    "explanation_en": "extremely modern and often seems strange or slightly shocking"
+  },
+  {
+    "ID": "194",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "apple of discord",
+    "explanation_en": "a subject of contention and envy"
+  },
+  {
+    "ID": "195",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cut some slack",
+    "explanation_en": "give someone a break"
+  },
+  {
+    "ID": "196",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "far cry from",
+    "explanation_en": "something that is very different from something else"
+  },
+  {
+    "ID": "197",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "screw up",
+    "explanation_en": "to make someone confused or mentally disturbed"
+  },
+  {
+    "ID": "198",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "screw up",
+    "explanation_en": "To make a mistake"
+  },
+  {
+    "ID": "199",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "screw up",
+    "explanation_en": "to injure, damage or ruin something"
+  },
+  {
+    "ID": "200",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "mad at",
+    "explanation_en": "to be angry at a person or situation"
+  },
+  {
+    "ID": "201",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the ball is in somebody鈥檚 court",
+    "explanation_en": "it is their turn to take action or to reply"
+  },
+  {
+    "ID": "202",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the best is yet to come",
+    "explanation_en": "whatever is happening now will be surpassed by something better in the future"
+  },
+  {
+    "ID": "203",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "off the cuff",
+    "explanation_en": "spontaneous, casual, extempore and informal remark"
+  },
+  {
+    "ID": "204",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "kill time",
+    "explanation_en": "to wait for something by doing something or nothing"
+  },
+  {
+    "ID": "205",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the crest of a wave",
+    "explanation_en": "to be very successful"
+  },
+  {
+    "ID": "206",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "from time to time",
+    "explanation_en": "at periodic intervals"
+  },
+  {
+    "ID": "207",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "baker's dozen",
+    "explanation_en": "not 12 in numbers but 13"
+  },
+  {
+    "ID": "208",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "kick the habit",
+    "explanation_en": "to overcome an addiction especially of an addiction like drugs"
+  },
+  {
+    "ID": "209",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "love rat",
+    "explanation_en": "a man who betrays, or is unfaithful to his wife or girlfriend"
+  },
+  {
+    "ID": "210",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "over the top",
+    "explanation_en": "excessive, exaggerated"
+  },
+  {
+    "ID": "211",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in a row",
+    "explanation_en": "something that occurs in a sequence"
+  },
+  {
+    "ID": "212",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "loose cannon",
+    "explanation_en": "someone who behaves in an unexpected and uncontrolled way and is liable to cause problems"
+  },
+  {
+    "ID": "213",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "out on the town",
+    "explanation_en": "go out for entertainment or celebration"
+  },
+  {
+    "ID": "214",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "knock one鈥檚 socks off",
+    "explanation_en": "to surprise and please someone by being very impressive"
+  },
+  {
+    "ID": "215",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "die in harness",
+    "explanation_en": "keep working to the end"
+  },
+  {
+    "ID": "216",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get goat",
+    "explanation_en": "irritate somebody"
+  },
+  {
+    "ID": "217",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "eager beaver",
+    "explanation_en": "someone who is too keen and works harder than they should"
+  },
+  {
+    "ID": "218",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in touch",
+    "explanation_en": "to keep up to date with information"
+  },
+  {
+    "ID": "219",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in touch",
+    "explanation_en": "to remain in contact with someone, especially when separated by time or distance"
+  },
+  {
+    "ID": "220",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "deal with",
+    "explanation_en": "to handle someone or something"
+  },
+  {
+    "ID": "221",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take a hike",
+    "explanation_en": "go away"
+  },
+  {
+    "ID": "222",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "forbidden fruit is always the sweetest",
+    "explanation_en": "to want something that has been denied"
+  },
+  {
+    "ID": "223",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "finishing touch",
+    "explanation_en": "final touch ups enhancing or ending a work"
+  },
+  {
+    "ID": "224",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the cahoots",
+    "explanation_en": "to do something in hiding or secret because it is morally or socially not acceptable"
+  },
+  {
+    "ID": "225",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "start from scratch",
+    "explanation_en": "to start doing something over from the beginning"
+  },
+  {
+    "ID": "226",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "heads up",
+    "explanation_en": "an advance caution"
+  },
+  {
+    "ID": "227",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "can't stand the sight of",
+    "explanation_en": "cannot tolerate someone"
+  },
+  {
+    "ID": "228",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "against the clock",
+    "explanation_en": "in a great hurry to finish something before a particular time"
+  },
+  {
+    "ID": "229",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the nick of time",
+    "explanation_en": "just before it is too late, or just before something bad happens"
+  },
+  {
+    "ID": "230",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "weak in the knees",
+    "explanation_en": "to be overcome by a strong feeling"
+  },
+  {
+    "ID": "231",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the ball",
+    "explanation_en": "understands the situation well"
+  },
+  {
+    "ID": "232",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "no dice",
+    "explanation_en": "refuse to accept a proposition"
+  },
+  {
+    "ID": "233",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "no dice",
+    "explanation_en": "not possible"
+  },
+  {
+    "ID": "234",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "kick the bucket",
+    "explanation_en": "to die"
+  },
+  {
+    "ID": "235",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "make ends meet",
+    "explanation_en": "to have adequate money to manage expenses"
+  },
+  {
+    "ID": "236",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "chew the fat",
+    "explanation_en": "to have friendly banter for hours on end"
+  },
+  {
+    "ID": "237",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "set off",
+    "explanation_en": "to make someone very angry"
+  },
+  {
+    "ID": "238",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "set off",
+    "explanation_en": "set out"
+  },
+  {
+    "ID": "239",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "chill pill",
+    "explanation_en": "something that has a relaxing outcome"
+  },
+  {
+    "ID": "240",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "roll the dice",
+    "explanation_en": "to gamble or take a chance on something or someone"
+  },
+  {
+    "ID": "241",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the eleventh hour",
+    "explanation_en": "the latest moment possible, before it is too late"
+  },
+  {
+    "ID": "242",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take heart",
+    "explanation_en": "to stay confident and positive"
+  },
+  {
+    "ID": "243",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "just deserts",
+    "explanation_en": "get what one deserves"
+  },
+  {
+    "ID": "244",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "drastic times call for drastic measures",
+    "explanation_en": "extreme circumstances can only be resolved by equally extreme actions"
+  },
+  {
+    "ID": "245",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "you can't make an omelette without breaking a few eggs",
+    "explanation_en": "to take effort in order to achieve something nice"
+  },
+  {
+    "ID": "246",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "raining cats and dogs",
+    "explanation_en": "very heavily raining"
+  },
+  {
+    "ID": "247",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "faint of heart",
+    "explanation_en": "to be weak"
+  },
+  {
+    "ID": "248",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bear the brunt of",
+    "explanation_en": "take the main force, often of a criticism or unpleasant event"
+  },
+  {
+    "ID": "249",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "out of the frying pan into the fire",
+    "explanation_en": "to go from a bad to worse situation"
+  },
+  {
+    "ID": "250",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "wild and woolly",
+    "explanation_en": "to be carrying a wild look"
+  },
+  {
+    "ID": "251",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "be up on",
+    "explanation_en": "be well informed about a matter or subject"
+  },
+  {
+    "ID": "252",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "running on fumes",
+    "explanation_en": "to continue doing something even when you have no energy left"
+  },
+  {
+    "ID": "253",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "at sixes and sevens",
+    "explanation_en": "disorganized and confused"
+  },
+  {
+    "ID": "254",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "throw the baby out with the bathwater",
+    "explanation_en": "to remove something good in the bid of getting rid of something bad"
+  },
+  {
+    "ID": "255",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "viper in bosom",
+    "explanation_en": "a person who deceives you after receiving help from you"
+  },
+  {
+    "ID": "256",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blowing smoke",
+    "explanation_en": "to intentionally misinform or deceive"
+  },
+  {
+    "ID": "257",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blowing smoke",
+    "explanation_en": "when someone is just making plans without an intention to follow through"
+  },
+  {
+    "ID": "258",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "no man is an island",
+    "explanation_en": "to not be able to live independent of others at all times"
+  },
+  {
+    "ID": "259",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pat on the back",
+    "explanation_en": "an expression of appreciation or compliment"
+  },
+  {
+    "ID": "260",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "at death's door",
+    "explanation_en": "to be very ill and likely to die"
+  },
+  {
+    "ID": "261",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "belly laugh",
+    "explanation_en": "a joke that is very funny"
+  },
+  {
+    "ID": "262",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "belly laugh",
+    "explanation_en": "a very heavy laugh"
+  },
+  {
+    "ID": "263",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the back burner",
+    "explanation_en": "put something off for later"
+  },
+  {
+    "ID": "264",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "basket case",
+    "explanation_en": "a person or a thing that is not able to function properly"
+  },
+  {
+    "ID": "265",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in black and white",
+    "explanation_en": "printed form of a document"
+  },
+  {
+    "ID": "266",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in black and white",
+    "explanation_en": "one has to be correct and second has to be incorrect"
+  },
+  {
+    "ID": "267",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cost an arm and a leg",
+    "explanation_en": "very expensive or costing a lot of money"
+  },
+  {
+    "ID": "268",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "first things first",
+    "explanation_en": "Sometimes I just decide to ignore the news for a few days, since ignorance is bliss."
+  },
+  {
+    "ID": "269",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take into account",
+    "explanation_en": "bear in mind, consider"
+  },
+  {
+    "ID": "270",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "happy as a clam",
+    "explanation_en": "To be very happy"
+  },
+  {
+    "ID": "271",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "time flies",
+    "explanation_en": "time seems to elapse very fast"
+  },
+  {
+    "ID": "272",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get over it",
+    "explanation_en": "accept something and move on"
+  },
+  {
+    "ID": "273",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "scot-free",
+    "explanation_en": "free of blame"
+  },
+  {
+    "ID": "274",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the tip of one鈥檚 tongue",
+    "explanation_en": "About to be recalled"
+  },
+  {
+    "ID": "275",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the tip of one鈥檚 tongue",
+    "explanation_en": "About to say something but choose not to"
+  },
+  {
+    "ID": "276",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "carry on",
+    "explanation_en": "to continue doing something"
+  },
+  {
+    "ID": "277",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cupboard love",
+    "explanation_en": "love shown by someone in order to get what they want"
+  },
+  {
+    "ID": "278",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "clean slate",
+    "explanation_en": "to be ready to make a fresh beginning"
+  },
+  {
+    "ID": "279",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "next of kin",
+    "explanation_en": "your closest living relative or relatives"
+  },
+  {
+    "ID": "280",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "status quo",
+    "explanation_en": "the current status of affairs, particularly about political or social matters"
+  },
+  {
+    "ID": "281",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "rake over the coals",
+    "explanation_en": "to scold or be angry at someone for doing something wrong"
+  },
+  {
+    "ID": "282",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "go through channels",
+    "explanation_en": "to follow the correct steps in order to get something done"
+  },
+  {
+    "ID": "283",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come a cropper",
+    "explanation_en": "to fail miserably"
+  },
+  {
+    "ID": "284",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "old hat",
+    "explanation_en": "old fashioned"
+  },
+  {
+    "ID": "285",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "down to the wire",
+    "explanation_en": "to be finished or achieved with very little time left"
+  },
+  {
+    "ID": "286",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "kiss and make up",
+    "explanation_en": "to become friendly again after a fight or disagreement"
+  },
+  {
+    "ID": "287",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "smell something fishy",
+    "explanation_en": "to have a suspicion that something is wrong"
+  },
+  {
+    "ID": "288",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "flog a dead horse",
+    "explanation_en": "waste energy on something that has no chance of succeeding"
+  },
+  {
+    "ID": "289",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "clear the air",
+    "explanation_en": "get rid of all doubts and negative feelings"
+  },
+  {
+    "ID": "290",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "it's anyone's call",
+    "explanation_en": "a competition where the outcome is difficult to predict or judge"
+  },
+  {
+    "ID": "291",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "sea change",
+    "explanation_en": "a very big change in something"
+  },
+  {
+    "ID": "292",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "under siege",
+    "explanation_en": "to be under attack"
+  },
+  {
+    "ID": "293",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "your call",
+    "explanation_en": "someone else finalises the decision"
+  },
+  {
+    "ID": "294",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come hell or high water",
+    "explanation_en": "in spite of any problems or difficulties"
+  },
+  {
+    "ID": "295",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "eat words",
+    "explanation_en": "to take back what was said"
+  },
+  {
+    "ID": "296",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "deja vu",
+    "explanation_en": "a feeling that one has already experienced something that is happening currently"
+  },
+  {
+    "ID": "297",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in a huff",
+    "explanation_en": "to be upset or angry about something"
+  },
+  {
+    "ID": "298",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "well read",
+    "explanation_en": "Well-educated and learned."
+  },
+  {
+    "ID": "299",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "foam at the mouth",
+    "explanation_en": "be extremely angry"
+  },
+  {
+    "ID": "300",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "down the drain",
+    "explanation_en": "to waste something"
+  },
+  {
+    "ID": "301",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "down the drain",
+    "explanation_en": "in a state of ruin"
+  },
+  {
+    "ID": "302",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "back against the wall",
+    "explanation_en": "to be in a tough situation with limited options"
+  },
+  {
+    "ID": "303",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "like father like son",
+    "explanation_en": "a boy behaves like his father, especially when this behaviour is bad"
+  },
+  {
+    "ID": "304",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "make do",
+    "explanation_en": "to manage as well as you possibly can with what you have been given"
+  },
+  {
+    "ID": "305",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "make do",
+    "explanation_en": "to cope with something even though the circumstances are not ideal"
+  },
+  {
+    "ID": "306",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "earworm",
+    "explanation_en": "a situation when a song that comes to your mind again and again,"
+  },
+  {
+    "ID": "307",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "household name",
+    "explanation_en": "to be known across a region, in every household"
+  },
+  {
+    "ID": "308",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "head over heels",
+    "explanation_en": "fall deeply and completely in love, especially suddenly"
+  },
+  {
+    "ID": "309",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "make sense",
+    "explanation_en": "to be able to reason something out"
+  },
+  {
+    "ID": "310",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come across",
+    "explanation_en": "appear"
+  },
+  {
+    "ID": "311",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "across the board",
+    "explanation_en": "affecting everyone or everything in an organization or situation"
+  },
+  {
+    "ID": "312",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "piece of writing",
+    "explanation_en": "the work of a writer"
+  },
+  {
+    "ID": "313",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "love at first sight",
+    "explanation_en": "strong and immediate attraction to someone you have just met"
+  },
+  {
+    "ID": "314",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "self-made man",
+    "explanation_en": "to come up the social, economic or financial ladder by one's self, without asking for or taking help"
+  },
+  {
+    "ID": "315",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "zoom away | zoom off",
+    "explanation_en": "to be leaving a place in a rush"
+  },
+  {
+    "ID": "316",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "man's best friend",
+    "explanation_en": "It refers to animals that are of use to human beings, mostly used to address dogs."
+  },
+  {
+    "ID": "317",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "point out",
+    "explanation_en": "to identify something within a group"
+  },
+  {
+    "ID": "318",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "back to square one",
+    "explanation_en": "back to the beginning"
+  },
+  {
+    "ID": "319",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "have eyes only for",
+    "explanation_en": "be attracted to someone exclusively"
+  },
+  {
+    "ID": "320",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get on nerves",
+    "explanation_en": "to bother and distract someone during work"
+  },
+  {
+    "ID": "321",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fall in love",
+    "explanation_en": "to be very attracted to someone"
+  },
+  {
+    "ID": "322",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get down to brass tacks",
+    "explanation_en": "talk about the important things"
+  },
+  {
+    "ID": "323",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the case",
+    "explanation_en": "Working diligently on a particular task"
+  },
+  {
+    "ID": "324",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "keep your nose clean",
+    "explanation_en": "to stay out of trouble by not doing anything wrong"
+  },
+  {
+    "ID": "325",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "up the ante",
+    "explanation_en": "to increase your demands or try to get more things from a situation, even though this involves more risks"
+  },
+  {
+    "ID": "326",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take over",
+    "explanation_en": "to take control of something"
+  },
+  {
+    "ID": "327",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bird of passage",
+    "explanation_en": "someone who never stays in the same place for long"
+  },
+  {
+    "ID": "328",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "memory like a sieve",
+    "explanation_en": "to forget things easily"
+  },
+  {
+    "ID": "329",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hot potato",
+    "explanation_en": "an issue or question about which people have different opinions and feel very strongly"
+  },
+  {
+    "ID": "330",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "be joined at the hip",
+    "explanation_en": "be always together and are very聽friendly"
+  },
+  {
+    "ID": "331",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "all set",
+    "explanation_en": "ready for action, use, etc"
+  },
+  {
+    "ID": "332",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "black hole",
+    "explanation_en": "a place in which things are lost never to be seen again"
+  },
+  {
+    "ID": "333",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "black hole",
+    "explanation_en": "a prison or place of confinement. Often related to \"the black hole of Calcutta"
+  },
+  {
+    "ID": "334",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "black hole",
+    "explanation_en": "in commerce it is used to describe an organization into which large quantities of money is poured but no profit is shown"
+  },
+  {
+    "ID": "335",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "mind your own beeswax",
+    "explanation_en": "to rudely ask others to stay out of our personal matters"
+  },
+  {
+    "ID": "336",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bona fide",
+    "explanation_en": "to be genuine, verified"
+  },
+  {
+    "ID": "337",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "call names",
+    "explanation_en": "to tease someone with nasty names"
+  },
+  {
+    "ID": "338",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "at daggers drawn",
+    "explanation_en": "to be in a state of open hostility"
+  },
+  {
+    "ID": "339",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "tight-lipped",
+    "explanation_en": "unwilling to speak about an event"
+  },
+  {
+    "ID": "340",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "tar with the same brush",
+    "explanation_en": "believe to be having the same faults"
+  },
+  {
+    "ID": "341",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pipe down",
+    "explanation_en": "to reduce noise"
+  },
+  {
+    "ID": "342",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "as the crow flies",
+    "explanation_en": "in a straight line"
+  },
+  {
+    "ID": "343",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "keep body and soul together",
+    "explanation_en": "to survive or exist, especially in difficult circumstances"
+  },
+  {
+    "ID": "344",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "young turk",
+    "explanation_en": "a young person who has many new ideas and wants a reform"
+  },
+  {
+    "ID": "345",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "think outside the box",
+    "explanation_en": "to be creative and produce something that is not usual"
+  },
+  {
+    "ID": "346",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "mend fences",
+    "explanation_en": "to try and improve a bad relationship with another party"
+  },
+  {
+    "ID": "347",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "ignorance is bliss",
+    "explanation_en": "to not get affected by something that is not known"
+  },
+  {
+    "ID": "348",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "kill two birds with one stone",
+    "explanation_en": "accomplish two different things at the same time"
+  },
+  {
+    "ID": "349",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "chip on shoulder",
+    "explanation_en": "being angry because of something that happened in the past"
+  },
+  {
+    "ID": "350",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "eat humble pie",
+    "explanation_en": "to admit that you were wrong and say that you are sorry"
+  },
+  {
+    "ID": "351",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "that's the way the cookie crumbles",
+    "explanation_en": "no matter how unfair the situation is, it must be accepted"
+  },
+  {
+    "ID": "352",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "beat the heat",
+    "explanation_en": "to keep yourself cooler in hot weather"
+  },
+  {
+    "ID": "353",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dog days",
+    "explanation_en": "the hottest days of the year"
+  },
+  {
+    "ID": "354",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a voice crying in the wilderness",
+    "explanation_en": "to say something that is not considered acceptable by a group or a society"
+  },
+  {
+    "ID": "355",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take with a grain of salt",
+    "explanation_en": "not take something too seriously"
+  },
+  {
+    "ID": "356",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "yellow streak",
+    "explanation_en": "people who aren't courageous"
+  },
+  {
+    "ID": "357",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the ball rolling",
+    "explanation_en": "to start something"
+  },
+  {
+    "ID": "358",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get the wrong end of the stick",
+    "explanation_en": "to understand a situation in completely the wrong way"
+  },
+  {
+    "ID": "359",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "couch potato",
+    "explanation_en": "very lazy person"
+  },
+  {
+    "ID": "360",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "couch potato",
+    "explanation_en": "a chronic television viewer"
+  },
+  {
+    "ID": "361",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come again",
+    "explanation_en": "to request someone to repeat what has just been told"
+  },
+  {
+    "ID": "362",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blow your own trumpet",
+    "explanation_en": "to say things that makes your own self or kin look good"
+  },
+  {
+    "ID": "363",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "when in Rome, do as the Romans",
+    "explanation_en": "to copy popular culture in order to blend in"
+  },
+  {
+    "ID": "364",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "chime in",
+    "explanation_en": "to interject a remark"
+  },
+  {
+    "ID": "365",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "time after time",
+    "explanation_en": "to repeat something"
+  },
+  {
+    "ID": "366",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "beyond the pale",
+    "explanation_en": "Something that is not an acceptable way to behave."
+  },
+  {
+    "ID": "367",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "high roller",
+    "explanation_en": "a wealthy person or company who spends their money in a risky way, often by making risky investments that can offer large rewards"
+  },
+  {
+    "ID": "368",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bring home the bacon",
+    "explanation_en": "to return home with a reward at the end of the day"
+  },
+  {
+    "ID": "369",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "as easy as pie",
+    "explanation_en": "an easy thing"
+  },
+  {
+    "ID": "370",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fit of anger",
+    "explanation_en": "to throw a tantrum"
+  },
+  {
+    "ID": "371",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "scratch back",
+    "explanation_en": "do someone a favour hoping that a favour will be returned"
+  },
+  {
+    "ID": "372",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dig heels in",
+    "explanation_en": "to be firm and resolute about something"
+  },
+  {
+    "ID": "373",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "ups and downs",
+    "explanation_en": "good times and bad times"
+  },
+  {
+    "ID": "374",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "roaring trade",
+    "explanation_en": "to do business quickly"
+  },
+  {
+    "ID": "375",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a piece of cake",
+    "explanation_en": "very easy task"
+  },
+  {
+    "ID": "376",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "free spirit",
+    "explanation_en": "a person who lives an independent life in positive ways without getting affected by other people or traditions"
+  },
+  {
+    "ID": "377",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "run out of steam",
+    "explanation_en": "to no longer have the energy or the desire to continue doing something, especially because you are tired"
+  },
+  {
+    "ID": "378",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "wild goose chase",
+    "explanation_en": "spending time searching for something that is simply impossible to find"
+  },
+  {
+    "ID": "379",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "quantum leap",
+    "explanation_en": "to make a significant improvement or dramatic advancement"
+  },
+  {
+    "ID": "380",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "kick the can down the road",
+    "explanation_en": "to avoid or delay making an important decision, normally on a regular basis"
+  },
+  {
+    "ID": "381",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "snow job",
+    "explanation_en": "an act of making someone believe something that is not true"
+  },
+  {
+    "ID": "382",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "taste of own medicine",
+    "explanation_en": "when someone gets the same bad treatment that he has been giving others"
+  },
+  {
+    "ID": "383",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "speak up",
+    "explanation_en": "talk louder; shout; speak out; raise your voice; protest; exclaim; speak your mind; say your piece"
+  },
+  {
+    "ID": "384",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "carrot and stick",
+    "explanation_en": "mixture of rewards and punishments"
+  },
+  {
+    "ID": "385",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take for granted",
+    "explanation_en": "to underestimate the value of something or someone"
+  },
+  {
+    "ID": "386",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "under fire",
+    "explanation_en": "being thoroughly criticized"
+  },
+  {
+    "ID": "387",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "back to the drawing board",
+    "explanation_en": "back to the planning stage"
+  },
+  {
+    "ID": "388",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "break open",
+    "explanation_en": "to open something using force"
+  },
+  {
+    "ID": "389",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "vale of years",
+    "explanation_en": "old age"
+  },
+  {
+    "ID": "390",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "wet behind the ears",
+    "explanation_en": "to be inexperienced"
+  },
+  {
+    "ID": "391",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "up in the air",
+    "explanation_en": "unresolved, undecided"
+  },
+  {
+    "ID": "392",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "seventh heaven",
+    "explanation_en": "in state of extreme happiness"
+  },
+  {
+    "ID": "393",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "skid row",
+    "explanation_en": "a neighbourhood that is frequented by alcoholics"
+  },
+  {
+    "ID": "394",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "save your breath",
+    "explanation_en": "to not waste effort on something that has no outcome"
+  },
+  {
+    "ID": "395",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "knock on wood (touch wood)",
+    "explanation_en": "said when you want good luck or a good situation to continue"
+  },
+  {
+    "ID": "396",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in a trice",
+    "explanation_en": "very quickly"
+  },
+  {
+    "ID": "397",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cry wolf",
+    "explanation_en": "to keep asking for help, even when you don't need it"
+  },
+  {
+    "ID": "398",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "between a rock and a hard place",
+    "explanation_en": "having two very bad choices"
+  },
+  {
+    "ID": "399",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "all singing, all dancing",
+    "explanation_en": "something is like a large and expensive show that has many singing and dancing performers"
+  },
+  {
+    "ID": "400",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "third time's a charm",
+    "explanation_en": "to say that when a person tries to do something, it works out at the third attempt"
+  },
+  {
+    "ID": "401",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "necessary evil",
+    "explanation_en": "something unpleasant that must be done in order to achieve a goal or objective"
+  },
+  {
+    "ID": "402",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a bit much",
+    "explanation_en": "to be unreasonable"
+  },
+  {
+    "ID": "403",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "figure out",
+    "explanation_en": "to solve something by using reasoning"
+  },
+  {
+    "ID": "404",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pitch in",
+    "explanation_en": "join in and help with something"
+  },
+  {
+    "ID": "405",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "stop by",
+    "explanation_en": "to be on a very short visit"
+  },
+  {
+    "ID": "406",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dark horse",
+    "explanation_en": "someone who is not well known, and who surprises people by winning a competition"
+  },
+  {
+    "ID": "407",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fortune favours the bold",
+    "explanation_en": "being a brave is often rewarded"
+  },
+  {
+    "ID": "408",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "you can't take it with you",
+    "explanation_en": "no one takes their wealth to next world after passing away"
+  },
+  {
+    "ID": "409",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "have no truck with",
+    "explanation_en": "avoid dealing or being associated with"
+  },
+  {
+    "ID": "410",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dance to tune",
+    "explanation_en": "to do what someone wants you to do"
+  },
+  {
+    "ID": "411",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "drive up the wall",
+    "explanation_en": "to make someone angry or irritated"
+  },
+  {
+    "ID": "412",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "put the cart before the horse",
+    "explanation_en": "to do two things in the wrong order"
+  },
+  {
+    "ID": "413",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "zero-sum game",
+    "explanation_en": "a situation where one side cannot win unless the other loses"
+  },
+  {
+    "ID": "414",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the ascendant",
+    "explanation_en": "to be or become powerful or popular"
+  },
+  {
+    "ID": "415",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "rat race",
+    "explanation_en": "to be following a routine that is both, exhaustive as well as competitive"
+  },
+  {
+    "ID": "416",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hands are tied",
+    "explanation_en": "to be helpless"
+  },
+  {
+    "ID": "417",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dollars to donuts",
+    "explanation_en": "a certainty of an event or activity"
+  },
+  {
+    "ID": "418",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "drop like flies",
+    "explanation_en": "drop out of a group in large numbers"
+  },
+  {
+    "ID": "419",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "stack the deck",
+    "explanation_en": "to arrange something in a manner that either someone will gain a wrong disadvantage or a person would get an unfair advantage"
+  },
+  {
+    "ID": "420",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "unring the bell",
+    "explanation_en": "once something has been done you cannot run away from it, you can only face the aftermath"
+  },
+  {
+    "ID": "421",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pour cold water on",
+    "explanation_en": "to criticize someone鈥檚 plan, idea, or desire to do something so much that they no longer feel excited about it"
+  },
+  {
+    "ID": "422",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dish fit for the gods",
+    "explanation_en": "the food is so good that it is good enough to be served to a God"
+  },
+  {
+    "ID": "423",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "neck and neck",
+    "explanation_en": "close to an equivalent level especially in a race or a competition"
+  },
+  {
+    "ID": "424",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "for a song",
+    "explanation_en": "very cheaply"
+  },
+  {
+    "ID": "425",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in your face",
+    "explanation_en": "a bold, defiant or aggressive manner"
+  },
+  {
+    "ID": "426",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "turn a blind eye",
+    "explanation_en": "to disregard someone/something and pretend to be unaware of it"
+  },
+  {
+    "ID": "427",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take breath away",
+    "explanation_en": "to cause an overwhelming feeling in someone due to something (grandeur, beauty, etc.)"
+  },
+  {
+    "ID": "428",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "brought forward",
+    "explanation_en": "to bring something in front (could be facts or figures too)"
+  },
+  {
+    "ID": "429",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in tandem",
+    "explanation_en": "group of two things or people working together"
+  },
+  {
+    "ID": "430",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "easy come, easy go",
+    "explanation_en": "something, especially money, was easily obtained and is quickly used or spent"
+  },
+  {
+    "ID": "431",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "carte blanche",
+    "explanation_en": "to exercise full control"
+  },
+  {
+    "ID": "432",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "head in the clouds",
+    "explanation_en": "daydreaming or absentminded"
+  },
+  {
+    "ID": "433",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "ring fence",
+    "explanation_en": "to create a separate legal entity through the way of off-shore accounting in order to protect some assets in a corporation"
+  },
+  {
+    "ID": "434",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "new blood",
+    "explanation_en": "new members of a group or organization who will bring new ideas and be full of energy"
+  },
+  {
+    "ID": "435",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "creme de la creme",
+    "explanation_en": "to be exclusive, really rich or influential people who are far away from commoners"
+  },
+  {
+    "ID": "436",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dream come true",
+    "explanation_en": "fulfilment of a wish after a long time"
+  },
+  {
+    "ID": "437",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "vent spleen",
+    "explanation_en": "to express your feelings of anger"
+  },
+  {
+    "ID": "438",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cross the bridge",
+    "explanation_en": "to delay worrying about something that might not happen anyway"
+  },
+  {
+    "ID": "439",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "drain the swamp",
+    "explanation_en": "rooting out the practice of corruption"
+  },
+  {
+    "ID": "440",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "crack of dawn",
+    "explanation_en": "sunrise or sunup"
+  },
+  {
+    "ID": "441",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bon appetit",
+    "explanation_en": "enjoy your meal/food"
+  },
+  {
+    "ID": "442",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "green around the gills",
+    "explanation_en": "looks sick or nauseated"
+  },
+  {
+    "ID": "443",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "lion's share",
+    "explanation_en": "the biggest part of something"
+  },
+  {
+    "ID": "444",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "speak too soon",
+    "explanation_en": "to make an assumption regarding a situation only to be proven wrong afterwards"
+  },
+  {
+    "ID": "445",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cut and thrust",
+    "explanation_en": "a very lively atmosphere, almost charged"
+  },
+  {
+    "ID": "446",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "at stake",
+    "explanation_en": "It means to be on wager or bet, when there is some sort of uncertainty."
+  },
+  {
+    "ID": "447",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "if it ain't broke, don't fix it",
+    "explanation_en": "to leave something that is working fine, alone"
+  },
+  {
+    "ID": "448",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "made it",
+    "explanation_en": "used to indicated the completion of a task"
+  },
+  {
+    "ID": "449",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "heart and soul",
+    "explanation_en": "with all the effort you can put into it"
+  },
+  {
+    "ID": "450",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "not playing with a full deck",
+    "explanation_en": "crazy or mentally deranged"
+  },
+  {
+    "ID": "451",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "not playing with a full deck",
+    "explanation_en": "not very intelligent or bright"
+  },
+  {
+    "ID": "452",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "steal thunder",
+    "explanation_en": "take credit for someone else's work"
+  },
+  {
+    "ID": "453",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "gut feeling",
+    "explanation_en": "an instinctive feeling, without any logical rationale"
+  },
+  {
+    "ID": "454",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "against the grain",
+    "explanation_en": "Be not what you would naturally or normally do"
+  },
+  {
+    "ID": "455",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "when hell freezes over",
+    "explanation_en": "it will never come about"
+  },
+  {
+    "ID": "456",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "wine and dine",
+    "explanation_en": "to entertain someone at a restaurant with good food, wine, etc."
+  },
+  {
+    "ID": "457",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "let bygones be bygones",
+    "explanation_en": "to forget something bad that someone has done to you and forgive them"
+  },
+  {
+    "ID": "458",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "make light of",
+    "explanation_en": "to treat something as if it isn't important"
+  },
+  {
+    "ID": "459",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "apple polisher",
+    "explanation_en": "a flatterer"
+  },
+  {
+    "ID": "460",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "tickled pink",
+    "explanation_en": "excited and happy"
+  },
+  {
+    "ID": "461",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "to the core",
+    "explanation_en": "completely, from within"
+  },
+  {
+    "ID": "462",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "own accord",
+    "explanation_en": "without being asked or forced to do something"
+  },
+  {
+    "ID": "463",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "spitting image",
+    "explanation_en": "look exactly like someone else"
+  },
+  {
+    "ID": "464",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "field day",
+    "explanation_en": "a time of extraordinary pleasure or opportunity"
+  },
+  {
+    "ID": "465",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bang on",
+    "explanation_en": "to be exact, to be most accurate"
+  },
+  {
+    "ID": "466",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on edge",
+    "explanation_en": "to be nervous, tense or unable to relax"
+  },
+  {
+    "ID": "467",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "down to earth",
+    "explanation_en": "sensible, practical and straightforward"
+  },
+  {
+    "ID": "468",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "head-on",
+    "explanation_en": "with the front of a vehicle"
+  },
+  {
+    "ID": "469",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "head-on",
+    "explanation_en": "to deal with a difficult problem directly, bravely and with determination"
+  },
+  {
+    "ID": "470",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "night owl",
+    "explanation_en": "prefers work at night time"
+  },
+  {
+    "ID": "471",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "knock out",
+    "explanation_en": "to render someone unconscious by a physical blow or drug"
+  },
+  {
+    "ID": "472",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "knock out",
+    "explanation_en": "to cause something to fall out of something else by striking or colliding with it, either intentionally or unintentionally"
+  },
+  {
+    "ID": "473",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in no time",
+    "explanation_en": "a very short period of time"
+  },
+  {
+    "ID": "474",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "sit on the fence",
+    "explanation_en": "delay or avoid making a decision or choice"
+  },
+  {
+    "ID": "475",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "upper crust",
+    "explanation_en": "the highest social class or group"
+  },
+  {
+    "ID": "476",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "beg to differ",
+    "explanation_en": "to refute"
+  },
+  {
+    "ID": "477",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "double whammy",
+    "explanation_en": "double blow or setback"
+  },
+  {
+    "ID": "478",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hive of activity",
+    "explanation_en": "Somewhere where there are lots of activities taking place at the same time"
+  },
+  {
+    "ID": "479",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "burst at the seams",
+    "explanation_en": "to be handling something which is beyond the normal capacity"
+  },
+  {
+    "ID": "480",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "love child",
+    "explanation_en": "a child whose parents are not married"
+  },
+  {
+    "ID": "481",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "accidentally on purpose",
+    "explanation_en": "as if by accident, but really by meaning"
+  },
+  {
+    "ID": "482",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "use your loaf",
+    "explanation_en": "To tell someone to use their brain more in analysing what they are doing."
+  },
+  {
+    "ID": "483",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come down with",
+    "explanation_en": "start to suffer from a particular sickness"
+  },
+  {
+    "ID": "484",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "an item",
+    "explanation_en": "be involved in a romantic relationship"
+  },
+  {
+    "ID": "485",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "keep your hair on",
+    "explanation_en": "to request someone to stay calm and not get annoyed"
+  },
+  {
+    "ID": "486",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the buff",
+    "explanation_en": "naked"
+  },
+  {
+    "ID": "487",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "upper hand",
+    "explanation_en": "a position superior to someone"
+  },
+  {
+    "ID": "488",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "go through a rough patch",
+    "explanation_en": "experience a difficult or unpleasant period of time"
+  },
+  {
+    "ID": "489",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "make it big",
+    "explanation_en": "become very successful or famous"
+  },
+  {
+    "ID": "490",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "class clown",
+    "explanation_en": "someone who stands out in a class because he makes constant jokes and pokes fun at people,"
+  },
+  {
+    "ID": "491",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "beat around the bush",
+    "explanation_en": "speak in a roundabout, indirect or misleading way"
+  },
+  {
+    "ID": "492",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "red herring",
+    "explanation_en": "something irrelevant that distracts you from something important"
+  },
+  {
+    "ID": "493",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "don't put all your eggs in one basket",
+    "explanation_en": "don't put all your resources into one thing"
+  },
+  {
+    "ID": "494",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "beat a hasty retreat",
+    "explanation_en": "to leave a place because it is dangerous or unpleasant"
+  },
+  {
+    "ID": "495",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dog in the manger",
+    "explanation_en": "one who prevents others from enjoying something despite having no use for it"
+  },
+  {
+    "ID": "496",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "head start",
+    "explanation_en": "a start in a race in which you begin earlier or further ahead than someone else"
+  },
+  {
+    "ID": "497",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "big cheese",
+    "explanation_en": "to be an important and successful individual"
+  },
+  {
+    "ID": "498",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bite the bullet",
+    "explanation_en": "to avoid showing fear or discomfort in an unpleasant situation"
+  },
+  {
+    "ID": "499",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "never mind",
+    "explanation_en": "to ensure someone that something is not important"
+  },
+  {
+    "ID": "500",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "never mind",
+    "explanation_en": "to urge somebody not to worry about something"
+  },
+  {
+    "ID": "501",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "see eye to eye",
+    "explanation_en": "to agree fully with someone"
+  },
+  {
+    "ID": "502",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "page-turner",
+    "explanation_en": "a thrilling book"
+  },
+  {
+    "ID": "503",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "up to no good",
+    "explanation_en": "to have an evil plan"
+  },
+  {
+    "ID": "504",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in high dudgeon",
+    "explanation_en": "feeling or exhibiting great resentment"
+  },
+  {
+    "ID": "505",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "black out",
+    "explanation_en": "to go in deep shock so as to no longer be in cognizance of the environment"
+  },
+  {
+    "ID": "506",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on one's uppers",
+    "explanation_en": "extremely short of money"
+  },
+  {
+    "ID": "507",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get to the bottom",
+    "explanation_en": "to uncover what exactly happened"
+  },
+  {
+    "ID": "508",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "wouldn't be caught dead",
+    "explanation_en": "would never do something"
+  },
+  {
+    "ID": "509",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "so-so",
+    "explanation_en": "average - neither bad and nor good"
+  },
+  {
+    "ID": "510",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "doldrums",
+    "explanation_en": "in a low or lethargic state"
+  },
+  {
+    "ID": "511",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "you're on",
+    "explanation_en": "a welcoming \"yes\" for an offer, bid or plan"
+  },
+  {
+    "ID": "512",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "monkey business",
+    "explanation_en": "immoral or a deceitful conduct"
+  },
+  {
+    "ID": "513",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the mend",
+    "explanation_en": "to be getting better after an illness or after a difficult period"
+  },
+  {
+    "ID": "514",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "stiff upper lip",
+    "explanation_en": "to keep your emotions in control and not show when you are upset"
+  },
+  {
+    "ID": "515",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "give the slip",
+    "explanation_en": "to escape from someone"
+  },
+  {
+    "ID": "516",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get through",
+    "explanation_en": "to make it to the end of a particularly arduous or stressful experience"
+  },
+  {
+    "ID": "517",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "not give a damn",
+    "explanation_en": "to not care"
+  },
+  {
+    "ID": "518",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on pins and needles",
+    "explanation_en": "being worried, anxious or nervous"
+  },
+  {
+    "ID": "519",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "high on the hog",
+    "explanation_en": "someone who is used to luxury"
+  },
+  {
+    "ID": "520",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "like a bat out of hell",
+    "explanation_en": "very fast"
+  },
+  {
+    "ID": "521",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cash in",
+    "explanation_en": "to get cash in exchange for"
+  },
+  {
+    "ID": "522",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "just in case",
+    "explanation_en": "as a way of being safe from something that might happen or might be true"
+  },
+  {
+    "ID": "523",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "twist arm",
+    "explanation_en": "to coerce, force or cajole someone"
+  },
+  {
+    "ID": "524",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "sit tight",
+    "explanation_en": "wait patiently"
+  },
+  {
+    "ID": "525",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "once bitten, twice shy",
+    "explanation_en": "a bad experience cause to believe caution"
+  },
+  {
+    "ID": "526",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dead as a doornail",
+    "explanation_en": "absolutely dead"
+  },
+  {
+    "ID": "527",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pull the plug",
+    "explanation_en": "prevent any going on process"
+  },
+  {
+    "ID": "528",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "leg it",
+    "explanation_en": "to run in order to escape from someone or something"
+  },
+  {
+    "ID": "529",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "low hanging fruit",
+    "explanation_en": "a job that is easy to do, or something that is very easy to achieve"
+  },
+  {
+    "ID": "530",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "tongue in cheek",
+    "explanation_en": "with insincerity, irony, or whimsical exaggeration"
+  },
+  {
+    "ID": "531",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "can of worms",
+    "explanation_en": "something that is complicated and involves a lot of hassle (to do)"
+  },
+  {
+    "ID": "532",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "tall story",
+    "explanation_en": "a story that cannot be believed easily"
+  },
+  {
+    "ID": "533",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "whole nine yards",
+    "explanation_en": "all of it"
+  },
+  {
+    "ID": "534",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "foot the bill",
+    "explanation_en": "pay the bill"
+  },
+  {
+    "ID": "535",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pie in the sky",
+    "explanation_en": "fantasy"
+  },
+  {
+    "ID": "536",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bitter medicine",
+    "explanation_en": "something which is difficult to accept or hard to come to terms with"
+  },
+  {
+    "ID": "537",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a burnt child dreads the fire",
+    "explanation_en": "everyone avoids repeating a hurting experience again in life"
+  },
+  {
+    "ID": "538",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blind as a bat",
+    "explanation_en": "unable to see at all"
+  },
+  {
+    "ID": "539",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blind as a bat",
+    "explanation_en": "unable to recognize problems or bad things"
+  },
+  {
+    "ID": "540",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "paddle own canoe",
+    "explanation_en": "To be able to act without having to depend on anyone"
+  },
+  {
+    "ID": "541",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "chill to the bone",
+    "explanation_en": "to get frightened or scare somebody"
+  },
+  {
+    "ID": "542",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "spin a yarn",
+    "explanation_en": "to tell a long & fanciful story"
+  },
+  {
+    "ID": "543",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dead end",
+    "explanation_en": "a street, corridor, road, pipe etc., that has no exit"
+  },
+  {
+    "ID": "544",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dead end",
+    "explanation_en": "the situation or project with no prospects of improvements"
+  },
+  {
+    "ID": "545",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "practice makes perfect",
+    "explanation_en": "to keep practicing to get better at (certain) skills"
+  },
+  {
+    "ID": "546",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "tick off",
+    "explanation_en": "To complete an item on a list"
+  },
+  {
+    "ID": "547",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "as mad as a hatter",
+    "explanation_en": "it refers to someone being completely crazy"
+  },
+  {
+    "ID": "548",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pin money",
+    "explanation_en": "A small sum paid for a small service."
+  },
+  {
+    "ID": "549",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blow cover",
+    "explanation_en": "to reveal the true identity"
+  },
+  {
+    "ID": "550",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blow cover",
+    "explanation_en": "to reveal a secret"
+  },
+  {
+    "ID": "551",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "full cry",
+    "explanation_en": "the phrase refers to completion of a task or which points to being in full swing"
+  },
+  {
+    "ID": "552",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "feel the pinch",
+    "explanation_en": "experience financial hardship"
+  },
+  {
+    "ID": "553",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get under skin",
+    "explanation_en": "to be irritating"
+  },
+  {
+    "ID": "554",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "lovey-dovey",
+    "explanation_en": "too romantic"
+  },
+  {
+    "ID": "555",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "throw caution to the winds",
+    "explanation_en": "usually used to denote a decision that is not well thought of or behaviour that is considered reckless"
+  },
+  {
+    "ID": "556",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "anything but",
+    "explanation_en": "by no means"
+  },
+  {
+    "ID": "557",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "comb through",
+    "explanation_en": "to be looking for or searching for something"
+  },
+  {
+    "ID": "558",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the better of",
+    "explanation_en": "to become superior to someone or thing"
+  },
+  {
+    "ID": "559",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "turn out",
+    "explanation_en": "to arrive at an event"
+  },
+  {
+    "ID": "560",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "over the moon",
+    "explanation_en": "extremely pleased or happy"
+  },
+  {
+    "ID": "561",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "under no illusions",
+    "explanation_en": "be completely conscious of the real status of situation"
+  },
+  {
+    "ID": "562",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "by the way",
+    "explanation_en": "additionally, not in context with the ongoing conversation or as a side point"
+  },
+  {
+    "ID": "563",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "tear-jerking",
+    "explanation_en": "something that evokes sadness"
+  },
+  {
+    "ID": "564",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "walk out on",
+    "explanation_en": "end a relationship with someone suddenly"
+  },
+  {
+    "ID": "565",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "by the skin of your teeth",
+    "explanation_en": "barely manage to do something"
+  },
+  {
+    "ID": "566",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "smack dab",
+    "explanation_en": "precisely"
+  },
+  {
+    "ID": "567",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "high up",
+    "explanation_en": "a higher-ranking person in any organization, group or society"
+  },
+  {
+    "ID": "568",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "and so on",
+    "explanation_en": "used at the end of a list to indicate that there are other items that can still be added"
+  },
+  {
+    "ID": "569",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "big deal",
+    "explanation_en": "a matter of importance"
+  },
+  {
+    "ID": "570",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come up with",
+    "explanation_en": "to find a new idea"
+  },
+  {
+    "ID": "571",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "close the books",
+    "explanation_en": "set the ending to a concerned issue"
+  },
+  {
+    "ID": "572",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hard cheese",
+    "explanation_en": "tough luck"
+  },
+  {
+    "ID": "573",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "six of one, half a dozen of the other",
+    "explanation_en": "comparison between the two things which are identical"
+  },
+  {
+    "ID": "574",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "no room to swing a cat",
+    "explanation_en": "a crowded or cramped space"
+  },
+  {
+    "ID": "575",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "add fuel to the flames",
+    "explanation_en": "cause circumstances or dispute to become further excessive"
+  },
+  {
+    "ID": "576",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fill the bill",
+    "explanation_en": "to be the most suitable candidate for an activity, job or to carry a responsibility"
+  },
+  {
+    "ID": "577",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "walking on air",
+    "explanation_en": "to be very happy (elated)"
+  },
+  {
+    "ID": "578",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "ride high",
+    "explanation_en": "to be quite excited and happy"
+  },
+  {
+    "ID": "579",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pot calling the kettle black",
+    "explanation_en": "to accuse someone of being a hypocrite"
+  },
+  {
+    "ID": "580",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cold feet",
+    "explanation_en": "to hesitate a lot"
+  },
+  {
+    "ID": "581",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "go to hell in a handbasket",
+    "explanation_en": "to become completely ruined"
+  },
+  {
+    "ID": "582",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "like a hole in the head",
+    "explanation_en": "definitely do not need something"
+  },
+  {
+    "ID": "583",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "better off",
+    "explanation_en": "be in a enhanced situation, particularly in monetary conditions"
+  },
+  {
+    "ID": "584",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "wear out",
+    "explanation_en": "to become diminished or useless from use"
+  },
+  {
+    "ID": "585",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "armed to the teeth",
+    "explanation_en": "carrying many weapons"
+  },
+  {
+    "ID": "586",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "give a shot",
+    "explanation_en": "to have a try at something"
+  },
+  {
+    "ID": "587",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "full of beans",
+    "explanation_en": "to be very eager and full of energy"
+  },
+  {
+    "ID": "588",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "by chance",
+    "explanation_en": "something which was not planned to happen"
+  },
+  {
+    "ID": "589",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "backseat driver",
+    "explanation_en": "any person who gives unwanted advice instead of helping or understanding"
+  },
+  {
+    "ID": "590",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "go steady",
+    "explanation_en": "to date someone regularly and exclusively"
+  },
+  {
+    "ID": "591",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fair-weather friend",
+    "explanation_en": "used to refer a friend who is not reliable in difficult times,"
+  },
+  {
+    "ID": "592",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "labour of love",
+    "explanation_en": "a task done for the pleasure of doing it, not for gains or rewards"
+  },
+  {
+    "ID": "593",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "rise and shine",
+    "explanation_en": "to wake up and get out of bed"
+  },
+  {
+    "ID": "594",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "saved by the bell",
+    "explanation_en": "to be rescued at the last moment before harm comes"
+  },
+  {
+    "ID": "595",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "go after",
+    "explanation_en": "to pursue somebody or something"
+  },
+  {
+    "ID": "596",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "year-round",
+    "explanation_en": "happening in continuation throughout the whole year"
+  },
+  {
+    "ID": "597",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the last thing I want",
+    "explanation_en": "I don't want"
+  },
+  {
+    "ID": "598",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "first light",
+    "explanation_en": "sunrise or sunup"
+  },
+  {
+    "ID": "599",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the bigger they are the harder they fall",
+    "explanation_en": "to fail according to the size of the venture"
+  },
+  {
+    "ID": "600",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "sixth sense",
+    "explanation_en": "to have an intuition about something"
+  },
+  {
+    "ID": "601",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "off the hook",
+    "explanation_en": "let off from blame or trouble"
+  },
+  {
+    "ID": "602",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "catnap",
+    "explanation_en": "a short sleep, usually during the day"
+  },
+  {
+    "ID": "603",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "shades of grey",
+    "explanation_en": "a state of uncertainty where things are ambiguous"
+  },
+  {
+    "ID": "604",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "shoot from the hip",
+    "explanation_en": "speak directly or bluntly, without caring for consequences"
+  },
+  {
+    "ID": "605",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the air",
+    "explanation_en": "it might be a change in the atmosphere or temperature"
+  },
+  {
+    "ID": "606",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the air",
+    "explanation_en": "something like a mood that everybody can feel"
+  },
+  {
+    "ID": "607",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dead ringer",
+    "explanation_en": "A duplicate of the exact nature"
+  },
+  {
+    "ID": "608",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "see the light",
+    "explanation_en": "realise or understand something"
+  },
+  {
+    "ID": "609",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "see the light",
+    "explanation_en": "eans to finally understand that there can be an end to something bad"
+  },
+  {
+    "ID": "610",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hang in there",
+    "explanation_en": "to remain brave and determined when you are in a difficult situation"
+  },
+  {
+    "ID": "611",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "give the devil his due",
+    "explanation_en": "give credit to an opponent's merits, grudgingly or not."
+  },
+  {
+    "ID": "612",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "count on",
+    "explanation_en": "it means that you are able to depend on somebody or something"
+  },
+  {
+    "ID": "613",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "out of sight, out of mind",
+    "explanation_en": "it refers to the reduced importance and emergence of something that is not within eyesight"
+  },
+  {
+    "ID": "614",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "beyond a shadow of doubt",
+    "explanation_en": "to be certain about something's validity"
+  },
+  {
+    "ID": "615",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "tighten belt",
+    "explanation_en": "to spend less money that you used to"
+  },
+  {
+    "ID": "616",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "have a ball",
+    "explanation_en": "to have a great time"
+  },
+  {
+    "ID": "617",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "clam up",
+    "explanation_en": "to not give out any information"
+  },
+  {
+    "ID": "618",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "up in arms",
+    "explanation_en": "angry"
+  },
+  {
+    "ID": "619",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "to heart's content",
+    "explanation_en": "to gain full satisfaction"
+  },
+  {
+    "ID": "620",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hide light under a bushel",
+    "explanation_en": "to show modesty or humility"
+  },
+  {
+    "ID": "621",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a sight for sore eyes",
+    "explanation_en": "someone or something that you feel very happy to see"
+  },
+  {
+    "ID": "622",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the other hand",
+    "explanation_en": "from a different point of view"
+  },
+  {
+    "ID": "623",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "icing on the cake",
+    "explanation_en": "when something good is added to another good thing that you already have"
+  },
+  {
+    "ID": "624",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "de facto",
+    "explanation_en": "legal or accepted"
+  },
+  {
+    "ID": "625",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "vim and vigor",
+    "explanation_en": "full of energy and enthusiasm"
+  },
+  {
+    "ID": "626",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "betwixt and between",
+    "explanation_en": "to be undecided about something"
+  },
+  {
+    "ID": "627",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bun in the oven",
+    "explanation_en": "to be pregnant"
+  },
+  {
+    "ID": "628",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "best thing since sliced bread",
+    "explanation_en": "an excellent person or thing"
+  },
+  {
+    "ID": "629",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fall from grace",
+    "explanation_en": "a situation in which someone stops being respected by other people or loses their position of authority, especially because they have done something wrong"
+  },
+  {
+    "ID": "630",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "give hell",
+    "explanation_en": "to have to go through severe conditions"
+  },
+  {
+    "ID": "631",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "wind up",
+    "explanation_en": "to provoke someone on purpose"
+  },
+  {
+    "ID": "632",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bite tongue",
+    "explanation_en": "to keep yourself from saying something that you really want to say"
+  },
+  {
+    "ID": "633",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "apple of eye",
+    "explanation_en": "the person of whom one is extremely fond"
+  },
+  {
+    "ID": "634",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "way forward",
+    "explanation_en": "an action plan that is devised to lead to a successful outcome"
+  },
+  {
+    "ID": "635",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on a roll",
+    "explanation_en": "having a long period of success or good fortune"
+  },
+  {
+    "ID": "636",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "catch eye",
+    "explanation_en": "attract someone's attention"
+  },
+  {
+    "ID": "637",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "spanner in the works",
+    "explanation_en": "a roadblock that prevents an activity from succeeding"
+  },
+  {
+    "ID": "638",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "you can't teach an old dog new tricks",
+    "explanation_en": "you cannot make others change their habits"
+  },
+  {
+    "ID": "639",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "all the rage",
+    "explanation_en": "when something is the height of popularity"
+  },
+  {
+    "ID": "640",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "go for broke",
+    "explanation_en": "risk everything and go for an all out effort"
+  },
+  {
+    "ID": "641",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "salad days",
+    "explanation_en": "the time of your life when you are young and not very experienced"
+  },
+  {
+    "ID": "642",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "flash in the pan",
+    "explanation_en": "a sudden but brief success which is not repeated"
+  },
+  {
+    "ID": "643",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pig in a poke",
+    "explanation_en": "something that is bought without examining properly"
+  },
+  {
+    "ID": "644",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "southpaw",
+    "explanation_en": "to be left-handed"
+  },
+  {
+    "ID": "645",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the rocks",
+    "explanation_en": "likely to fail because of serious problems"
+  },
+  {
+    "ID": "646",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "haste makes waste",
+    "explanation_en": "doing something too quickly causes mistakes that result in time, effort, materials, etc., being wasted"
+  },
+  {
+    "ID": "647",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "no love lost",
+    "explanation_en": "two people who do not like each other"
+  },
+  {
+    "ID": "648",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "lose touch",
+    "explanation_en": "to stop communicating with each other"
+  },
+  {
+    "ID": "649",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "under a cloud",
+    "explanation_en": "under suspicion"
+  },
+  {
+    "ID": "650",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "green with envy",
+    "explanation_en": "wishing very much that you had something that someone else has"
+  },
+  {
+    "ID": "651",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bide time",
+    "explanation_en": "to wait for the perfect moment to do something"
+  },
+  {
+    "ID": "652",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "shed light",
+    "explanation_en": "to explain something in order to make it easier to understand"
+  },
+  {
+    "ID": "653",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "do justice to",
+    "explanation_en": "to represent someone or something to their/its full advantage"
+  },
+  {
+    "ID": "654",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "call it a day",
+    "explanation_en": "stop doing something, especially working"
+  },
+  {
+    "ID": "655",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "put damper on",
+    "explanation_en": "to make something less enjoyable, active, or great than it could have been"
+  },
+  {
+    "ID": "656",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "lie low",
+    "explanation_en": "To go out of sight, usually after having done something bad"
+  },
+  {
+    "ID": "657",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blow away",
+    "explanation_en": "surprise or please someone greatly"
+  },
+  {
+    "ID": "658",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "go out with",
+    "explanation_en": "have a romantic relationship with someone"
+  },
+  {
+    "ID": "659",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "over and out",
+    "explanation_en": "when something has come to an end"
+  },
+  {
+    "ID": "660",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "smell a rat",
+    "explanation_en": "sense that something is not right"
+  },
+  {
+    "ID": "661",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pain in the neck",
+    "explanation_en": "pain in the butt, annoyance"
+  },
+  {
+    "ID": "662",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "laughter is the best medicine",
+    "explanation_en": "means that laughter can help cure negative feelings such as stress, anger, worry, depression, etc."
+  },
+  {
+    "ID": "663",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "white lie",
+    "explanation_en": "to lie about a small or unimportant matter"
+  },
+  {
+    "ID": "664",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "zip one芒鈧劉s lip",
+    "explanation_en": "to stop talking"
+  },
+  {
+    "ID": "665",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "penny for your thoughts",
+    "explanation_en": "a way of asking what someone else is thinking"
+  },
+  {
+    "ID": "666",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "play it by ear",
+    "explanation_en": "to do something without special preparation"
+  },
+  {
+    "ID": "667",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "too close to call",
+    "explanation_en": "a margin that is too close to determine a winner"
+  },
+  {
+    "ID": "668",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bump into",
+    "explanation_en": "to hit against something by mistake"
+  },
+  {
+    "ID": "669",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "mum's the word",
+    "explanation_en": "keep silent and not reveal something"
+  },
+  {
+    "ID": "670",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "at the drop of a hat",
+    "explanation_en": "without any planning and for no obvious reason"
+  },
+  {
+    "ID": "671",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "walk on eggshell",
+    "explanation_en": "to be careful about one's words or actions around another person"
+  },
+  {
+    "ID": "672",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "choke up",
+    "explanation_en": "make a person become overemotional and speechless"
+  },
+  {
+    "ID": "673",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "run amok (amuck)",
+    "explanation_en": "to suddenly behave in a very violent and uncontrolled way"
+  },
+  {
+    "ID": "674",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get out of bed on the wrong side",
+    "explanation_en": "be in a bad or grumpy mood"
+  },
+  {
+    "ID": "675",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bug",
+    "explanation_en": "To bother or irritate someone."
+  },
+  {
+    "ID": "676",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "doozy",
+    "explanation_en": "it is an unusual thing, could relate to being positive or negative, although originally the phrase was meant as a positive."
+  },
+  {
+    "ID": "677",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "suited and booted",
+    "explanation_en": "well dressed"
+  },
+  {
+    "ID": "678",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "as bald as a coot",
+    "explanation_en": "Totally bald"
+  },
+  {
+    "ID": "679",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "to a T",
+    "explanation_en": "in an exact manner"
+  },
+  {
+    "ID": "680",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bug-eyed",
+    "explanation_en": "It represents someone having seen something that is extraordinary that causes their eyes to pop out."
+  },
+  {
+    "ID": "681",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "young blood",
+    "explanation_en": "a young inexperienced person"
+  },
+  {
+    "ID": "682",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "to see the back of",
+    "explanation_en": "be glad when someone leaves after an unpleasant experience with them"
+  },
+  {
+    "ID": "683",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "child's play",
+    "explanation_en": "something that is very easy to do"
+  },
+  {
+    "ID": "684",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "all ears",
+    "explanation_en": "saying that you are all ears means the other person has got your full attention in terms of listening to him"
+  },
+  {
+    "ID": "685",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cut the mustard",
+    "explanation_en": "make it by being up to mark"
+  },
+  {
+    "ID": "686",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hit the nail on the head",
+    "explanation_en": "to precisely describe the cause of a problem or situation"
+  },
+  {
+    "ID": "687",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "filthy rich",
+    "explanation_en": "Someone who is rich beyond measure.,"
+  },
+  {
+    "ID": "688",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "quality time",
+    "explanation_en": "well spent time"
+  },
+  {
+    "ID": "689",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "a needle in a haystack",
+    "explanation_en": "someone or something that is very hard to find"
+  },
+  {
+    "ID": "690",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "spine-tingling",
+    "explanation_en": "to be very horrific"
+  },
+  {
+    "ID": "691",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "spine-tingling",
+    "explanation_en": "to be very scared of something"
+  },
+  {
+    "ID": "692",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "run out",
+    "explanation_en": "to leave for a short period of time"
+  },
+  {
+    "ID": "693",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "run out",
+    "explanation_en": "to leave someone behind (usually a romantic relationship)"
+  },
+  {
+    "ID": "694",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "run out",
+    "explanation_en": "to not have enough of something"
+  },
+  {
+    "ID": "695",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "troubled waters",
+    "explanation_en": "a difficult phase"
+  },
+  {
+    "ID": "696",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "mull over",
+    "explanation_en": "to spend a large amount of time considering ones options before making a decision"
+  },
+  {
+    "ID": "697",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "castles in the air",
+    "explanation_en": "make plans or hopes that have very little chance of happening"
+  },
+  {
+    "ID": "698",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the brink of",
+    "explanation_en": "to be on the verge of doing something"
+  },
+  {
+    "ID": "699",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cut and dried",
+    "explanation_en": "predetermined and not changeable"
+  },
+  {
+    "ID": "700",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "wear heart on sleeve",
+    "explanation_en": "to show your true feelings openly"
+  },
+  {
+    "ID": "701",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come clean",
+    "explanation_en": "to confess everything that there is to confess"
+  },
+  {
+    "ID": "702",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come clean",
+    "explanation_en": "to tell the entire truth"
+  },
+  {
+    "ID": "703",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cut to the chase",
+    "explanation_en": "come to the point"
+  },
+  {
+    "ID": "704",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "you've made your bed",
+    "explanation_en": "to make a decision and to accept the consequences of those decisions"
+  },
+  {
+    "ID": "705",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "zero tolerance",
+    "explanation_en": "to have prescribed and strict punishments for specific behaviour which will not even take justifying circumstances into consideration, usually used as a policy."
+  },
+  {
+    "ID": "706",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "rags to riches",
+    "explanation_en": "go from being very poor to being very wealthy"
+  },
+  {
+    "ID": "707",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bucket list",
+    "explanation_en": "a list of achievements or experiences someone wants to have during their lifetime"
+  },
+  {
+    "ID": "708",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "lost on",
+    "explanation_en": "not appreciated or understood by someone"
+  },
+  {
+    "ID": "709",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "knee jerk reaction",
+    "explanation_en": "an immediate reaction made without thinking"
+  },
+  {
+    "ID": "710",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "surgical strike",
+    "explanation_en": "to cause injury or damage to the intended targets"
+  },
+  {
+    "ID": "711",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "keep at arm's length",
+    "explanation_en": "to avoid being very close to or friendly with someone or something"
+  },
+  {
+    "ID": "712",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fingers crossed",
+    "explanation_en": "to expect that something will happen in good way as desired"
+  },
+  {
+    "ID": "713",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on the horizon",
+    "explanation_en": "an event that is most likely going to happen soon"
+  },
+  {
+    "ID": "714",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "draw a blank",
+    "explanation_en": "to not be able to say anything"
+  },
+  {
+    "ID": "715",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "get act together",
+    "explanation_en": "to become more organized and behave in a more effective way, especially in order to achieve something"
+  },
+  {
+    "ID": "716",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the black",
+    "explanation_en": "to be in a profitable condition (usually referred to businesses)"
+  },
+  {
+    "ID": "717",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "run a tight ship",
+    "explanation_en": "to control something or someone"
+  },
+  {
+    "ID": "718",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "beef up",
+    "explanation_en": "to build something stronger or more efficient"
+  },
+  {
+    "ID": "719",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the bag",
+    "explanation_en": "assured of a successful result"
+  },
+  {
+    "ID": "720",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "break a leg",
+    "explanation_en": "good luck"
+  },
+  {
+    "ID": "721",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "buck up",
+    "explanation_en": "to summon the courage to do something"
+  },
+  {
+    "ID": "722",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "the squeaky wheel gets the grease",
+    "explanation_en": "to get something fixed, it is required to make a noise to get attention"
+  },
+  {
+    "ID": "723",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bits and pieces",
+    "explanation_en": "small objects of jobs of many different types"
+  },
+  {
+    "ID": "724",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "race against time",
+    "explanation_en": "to be in a situation where the time is short , running out of time quickly"
+  },
+  {
+    "ID": "725",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pull leg",
+    "explanation_en": "joking around"
+  },
+  {
+    "ID": "726",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blow-by-blow account",
+    "explanation_en": "an account that includes all the details of an event exactly as they happened"
+  },
+  {
+    "ID": "727",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "not the sharpest tool in the shed",
+    "explanation_en": "not very intelligent"
+  },
+  {
+    "ID": "728",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "straight from the horse's mouth",
+    "explanation_en": "from a direct or firsthand source"
+  },
+  {
+    "ID": "729",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "everything but the kitchen sink",
+    "explanation_en": "all the equipment that you need and also a lot of things that you do not need"
+  },
+  {
+    "ID": "730",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "smitten with",
+    "explanation_en": "in love with someone"
+  },
+  {
+    "ID": "731",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "be in the same boat",
+    "explanation_en": "facing the same challenges as others"
+  },
+  {
+    "ID": "732",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "not at all",
+    "explanation_en": "not even a little bit"
+  },
+  {
+    "ID": "733",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "at odds",
+    "explanation_en": "two things that seem to be opposites"
+  },
+  {
+    "ID": "734",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "crocodile tears",
+    "explanation_en": "fake tears of regret"
+  },
+  {
+    "ID": "735",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "burn the candle at both the ends",
+    "explanation_en": "to work so hard that you don't rest"
+  },
+  {
+    "ID": "736",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "skating on thin ice",
+    "explanation_en": "to do something considered quite dangerous or risky"
+  },
+  {
+    "ID": "737",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "up to the mark",
+    "explanation_en": "to meet a minimum standard of quality"
+  },
+  {
+    "ID": "738",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "strike the chord",
+    "explanation_en": "to trigger a strong memory or feeling based on which there can be a mutual interest"
+  },
+  {
+    "ID": "739",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "out of the blue",
+    "explanation_en": "out of nowhere or unexpectedly"
+  },
+  {
+    "ID": "740",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "wash hands of",
+    "explanation_en": "abandon taking responsibility for someone or something"
+  },
+  {
+    "ID": "741",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "uncle Tom Cobley and all",
+    "explanation_en": "used to denote a long list of people"
+  },
+  {
+    "ID": "742",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cry me a river",
+    "explanation_en": "usually used sarcastically to someone who is constantly complaining"
+  },
+  {
+    "ID": "743",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "shifting sands",
+    "explanation_en": "Refers to something that is constantly changing, often making a person feel uncertain"
+  },
+  {
+    "ID": "744",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "tip of the iceberg",
+    "explanation_en": "to not have the full scope of an issue"
+  },
+  {
+    "ID": "745",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dead in the water",
+    "explanation_en": "unlikely to continue successfully"
+  },
+  {
+    "ID": "746",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "ward off",
+    "explanation_en": "protect against"
+  },
+  {
+    "ID": "747",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "for a while",
+    "explanation_en": "for an uncertain period of time"
+  },
+  {
+    "ID": "748",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "belly up",
+    "explanation_en": "to fail"
+  },
+  {
+    "ID": "749",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "belly up",
+    "explanation_en": "shut down a business"
+  },
+  {
+    "ID": "750",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "through thick and thin",
+    "explanation_en": "to support someone through good and bad times"
+  },
+  {
+    "ID": "751",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cut down",
+    "explanation_en": "to undermine something"
+  },
+  {
+    "ID": "752",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "lose head",
+    "explanation_en": "to become unable to behave calmly or sensibly"
+  },
+  {
+    "ID": "753",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bankers' hours",
+    "explanation_en": "short working hours"
+  },
+  {
+    "ID": "754",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "once in a blue moon",
+    "explanation_en": "something that happens very rarely"
+  },
+  {
+    "ID": "755",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "qui vive",
+    "explanation_en": "on the alert or lookout"
+  },
+  {
+    "ID": "756",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "rain check",
+    "explanation_en": "to give an assurance of not doing something right now but later"
+  },
+  {
+    "ID": "757",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on cue",
+    "explanation_en": "to happen at the precise moment"
+  },
+  {
+    "ID": "758",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bated breath",
+    "explanation_en": "feeling very anxious or excited"
+  },
+  {
+    "ID": "759",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "whet one's appetite",
+    "explanation_en": "A reason which increases your interest in something."
+  },
+  {
+    "ID": "760",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "knight in shining armour",
+    "explanation_en": "used to describe someone who saves you from a difficult situation"
+  },
+  {
+    "ID": "761",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "keen as mustard",
+    "explanation_en": "Very excited and enthusiastic"
+  },
+  {
+    "ID": "762",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "rule out",
+    "explanation_en": "to decide that something is not possible or suitable"
+  },
+  {
+    "ID": "763",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "water under the bridge",
+    "explanation_en": "what happened in the past should be forgotten"
+  },
+  {
+    "ID": "764",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "year dot",
+    "explanation_en": "a very long time ago"
+  },
+  {
+    "ID": "765",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the meantime",
+    "explanation_en": "to do something while waiting for something expected to happen"
+  },
+  {
+    "ID": "766",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hope for the best, but prepare for the worst",
+    "explanation_en": "be optimistic but ready for hard times as well"
+  },
+  {
+    "ID": "767",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "make a mountain out of a molehill",
+    "explanation_en": "making big issues on a very small thing"
+  },
+  {
+    "ID": "768",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in the pipeline",
+    "explanation_en": "in preparation"
+  },
+  {
+    "ID": "769",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "match made in heaven",
+    "explanation_en": "two people who are perfect for each other"
+  },
+  {
+    "ID": "770",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "still waters run deep",
+    "explanation_en": "someone who is quiet may have very strong feelings or a lot of knowledge"
+  },
+  {
+    "ID": "771",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "miles to go before I sleep",
+    "explanation_en": "you have a lot to do before you can rest"
+  },
+  {
+    "ID": "772",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "find feet",
+    "explanation_en": "become familiar with a new situation"
+  },
+  {
+    "ID": "773",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "mumbo jumbo",
+    "explanation_en": "Something that does not make sense"
+  },
+  {
+    "ID": "774",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "throw down the gauntlet",
+    "explanation_en": "to accept a challenge"
+  },
+  {
+    "ID": "775",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cool as cucumber",
+    "explanation_en": "be very calm and relaxed"
+  },
+  {
+    "ID": "776",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "if it's the last thing I do",
+    "explanation_en": "to request someone to stay calm and not get annoyed"
+  },
+  {
+    "ID": "777",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take a beating",
+    "explanation_en": "to get punished for something not done right"
+  },
+  {
+    "ID": "778",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take a beating",
+    "explanation_en": "to lose a considerable amount of money"
+  },
+  {
+    "ID": "779",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "live wire",
+    "explanation_en": "someone who is very active and has a lot of energy"
+  },
+  {
+    "ID": "780",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "coin a phrase",
+    "explanation_en": "as one might say"
+  },
+  {
+    "ID": "781",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cold turkey",
+    "explanation_en": "stop a habit (esp. bad habit) suddenly"
+  },
+  {
+    "ID": "782",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "from pillar to post",
+    "explanation_en": "to have to go from one person or situation to another without achieving much or being able to settle"
+  },
+  {
+    "ID": "783",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "buzz word",
+    "explanation_en": "word or phrase that is popular in a group of people"
+  },
+  {
+    "ID": "784",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "when it rains, it pours",
+    "explanation_en": "something good or bad occurring multiple times within a short span of time"
+  },
+  {
+    "ID": "785",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take up the cudgels",
+    "explanation_en": "argue strongly in support or against somebody or something"
+  },
+  {
+    "ID": "786",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "puppy love",
+    "explanation_en": "a young person鈥檚 romantic love for someone, which other people do not think is serious"
+  },
+  {
+    "ID": "787",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "look before you leap",
+    "explanation_en": "to think about the possible dangers or difficulties of something before doing it"
+  },
+  {
+    "ID": "788",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "turn turtle",
+    "explanation_en": "to turn on one's side or upside down"
+  },
+  {
+    "ID": "789",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "love nest",
+    "explanation_en": "a place where two people who are having a romantic relationship live or meet each other"
+  },
+  {
+    "ID": "790",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "couldn't care less",
+    "explanation_en": "do not care at all"
+  },
+  {
+    "ID": "791",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "heavy heart",
+    "explanation_en": "under deep sadness"
+  },
+  {
+    "ID": "792",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "nest egg",
+    "explanation_en": "an amount of money that has been saved, especially for future use"
+  },
+  {
+    "ID": "793",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "larger than life",
+    "explanation_en": "very amusing or exciting in an attractive way"
+  },
+  {
+    "ID": "794",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "devil's advocate",
+    "explanation_en": "one who presents a counter argument"
+  },
+  {
+    "ID": "795",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "have a soft spot",
+    "explanation_en": "like someone a lot"
+  },
+  {
+    "ID": "796",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "so to speak",
+    "explanation_en": "that is to say"
+  },
+  {
+    "ID": "797",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "yes man",
+    "explanation_en": "a person who only agrees with the crowd or a group of people in order to please them or look good in front of them"
+  },
+  {
+    "ID": "798",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fancy free",
+    "explanation_en": "able to do anything you like because you do not have a family or other responsibilities"
+  },
+  {
+    "ID": "799",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "run for cover",
+    "explanation_en": "to run towards a place where you will be safe"
+  },
+  {
+    "ID": "800",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "leave at the altar",
+    "explanation_en": "to not get married because the person one was going to marry has decided against it at the last moment"
+  },
+  {
+    "ID": "801",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "behind closed doors",
+    "explanation_en": "in private"
+  },
+  {
+    "ID": "802",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "stand in a good stead",
+    "explanation_en": "Used in general to refer an experience or talent or ability or position, which would be useful or beneficial for a person, his life and his future."
+  },
+  {
+    "ID": "803",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "over and above",
+    "explanation_en": "to do more than what is expected"
+  },
+  {
+    "ID": "804",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in a fog",
+    "explanation_en": "in a great confusion"
+  },
+  {
+    "ID": "805",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "add insult to injury",
+    "explanation_en": "to make a bad situation worse for someone who has already been treated badly"
+  },
+  {
+    "ID": "806",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "every nook and cranny",
+    "explanation_en": "every part of a place"
+  },
+  {
+    "ID": "807",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "when pigs fly",
+    "explanation_en": "something that will never happen"
+  },
+  {
+    "ID": "808",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "off on the wrong foot",
+    "explanation_en": "off to a bad start/begin badly"
+  },
+  {
+    "ID": "809",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "feather in your cap",
+    "explanation_en": "It symbolizes honor and integrity of an achievement."
+  },
+  {
+    "ID": "810",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "blood is thicker than water",
+    "explanation_en": "family relationships are more important than any other kind"
+  },
+  {
+    "ID": "811",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "come of age",
+    "explanation_en": "to reach maturity"
+  },
+  {
+    "ID": "812",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "all and sundry",
+    "explanation_en": "everyone"
+  },
+  {
+    "ID": "813",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cup of joe",
+    "explanation_en": "a cup of coffee"
+  },
+  {
+    "ID": "814",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "done for",
+    "explanation_en": "to be over"
+  },
+  {
+    "ID": "815",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "in a bad way",
+    "explanation_en": "to say or mean something ill"
+  },
+  {
+    "ID": "816",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take turns",
+    "explanation_en": "to do something in turns"
+  },
+  {
+    "ID": "817",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "acid test",
+    "explanation_en": "a severe or crucial test"
+  },
+  {
+    "ID": "818",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bad-mouth",
+    "explanation_en": "to say something bad about something"
+  },
+  {
+    "ID": "819",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "on doorstep",
+    "explanation_en": "to be near where someone lives"
+  },
+  {
+    "ID": "820",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take stock",
+    "explanation_en": "to think carefully about the things that have happened in a situation in order to decide what to do next"
+  },
+  {
+    "ID": "821",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cave in",
+    "explanation_en": "to collapse"
+  },
+  {
+    "ID": "822",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bundle up",
+    "explanation_en": "to dress warmly to protect oneself from the elements"
+  },
+  {
+    "ID": "823",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bundle up",
+    "explanation_en": "wrap up"
+  },
+  {
+    "ID": "824",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "alive and kicking",
+    "explanation_en": "healthy and active"
+  },
+  {
+    "ID": "825",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "pull a rabbit out of the hat",
+    "explanation_en": "do something unexpected or surprising"
+  },
+  {
+    "ID": "826",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "touch off",
+    "explanation_en": "to brush against a topic and trigger a reaction"
+  },
+  {
+    "ID": "827",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "head above water",
+    "explanation_en": "to manage to continue to live on your income or keep your business working when this is difficult because of financial problems"
+  },
+  {
+    "ID": "828",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "playing second fiddle",
+    "explanation_en": "to play a secondary or minor role with regards to someone else"
+  },
+  {
+    "ID": "829",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bread and butter",
+    "explanation_en": "someone's livelihood."
+  },
+  {
+    "ID": "830",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "dribs and drabs",
+    "explanation_en": "in small irregular quantities"
+  },
+  {
+    "ID": "831",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "there's no such thing as a free lunch",
+    "explanation_en": "to be aware of something that seems free of cost but may have a charge levied in another form"
+  },
+  {
+    "ID": "832",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "up and about",
+    "explanation_en": "to come out of the bed after an illness or injury"
+  },
+  {
+    "ID": "833",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "button your lip",
+    "explanation_en": "to stop speaking"
+  },
+  {
+    "ID": "834",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "time will tell",
+    "explanation_en": "the results of a situation will be known only after a certain amount of time has passed"
+  },
+  {
+    "ID": "835",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "right away",
+    "explanation_en": "to do something immediately"
+  },
+  {
+    "ID": "836",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "black sheep",
+    "explanation_en": "someone who is regarded by other members of their family or group as a failure or embarrassment"
+  },
+  {
+    "ID": "837",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "toss-up",
+    "explanation_en": "a situation where two or more possibilities are equally likely"
+  },
+  {
+    "ID": "838",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bend over backwards",
+    "explanation_en": "make every effort to do something, especially to help someone"
+  },
+  {
+    "ID": "839",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "stone's throw",
+    "explanation_en": "very close to something"
+  },
+  {
+    "ID": "840",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "take care",
+    "explanation_en": "to assume responsibility for something"
+  },
+  {
+    "ID": "841",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "back to the wall",
+    "explanation_en": "to be in a difficult situation"
+  },
+  {
+    "ID": "842",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bite the hand that feed",
+    "explanation_en": "to reflect ingratitude towards a someone who has been helpful"
+  },
+  {
+    "ID": "843",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "hissy fit",
+    "explanation_en": "To throw a tantrum."
+  },
+  {
+    "ID": "844",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "bark up the wrong tree",
+    "explanation_en": "waste one's efforts by pursuing the wrong thing or path"
+  },
+  {
+    "ID": "845",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "know the ropes",
+    "explanation_en": "to know all the ways and means to get something done"
+  },
+  {
+    "ID": "846",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "vice versa",
+    "explanation_en": "when something is true even in the opposite order"
+  },
+  {
+    "ID": "847",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "speak soon",
+    "explanation_en": "talk to you soon"
+  },
+  {
+    "ID": "848",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "save face",
+    "explanation_en": "To be able to correct an action that could have caused embarrassment."
+  },
+  {
+    "ID": "849",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "rub the wrong way",
+    "explanation_en": "to be impolite or irritate someone"
+  },
+  {
+    "ID": "850",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "give up",
+    "explanation_en": "to stop trying to do something"
+  },
+  {
+    "ID": "851",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "lean towards",
+    "explanation_en": "incline towards"
+  },
+  {
+    "ID": "852",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "cut corners",
+    "explanation_en": "to reduce extra expenses"
+  },
+  {
+    "ID": "853",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "means to an end",
+    "explanation_en": "a necessary action carried out just to achieve a goal"
+  },
+  {
+    "ID": "854",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "out of action",
+    "explanation_en": "unable to work or function temporarily"
+  },
+  {
+    "ID": "855",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "camp follower",
+    "explanation_en": "a person who is supportive of the cause, person or organisation"
+  },
+  {
+    "ID": "856",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "stands to reason",
+    "explanation_en": "to reach a logical conclusion"
+  },
+  {
+    "ID": "857",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "chow down",
+    "explanation_en": "to eat something, usually quickly or vigorously"
+  },
+  {
+    "ID": "858",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "fast food",
+    "explanation_en": "processed or packaged foods that are high in calories but low in nutrition"
+  },
+  {
+    "ID": "859",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "catch up",
+    "explanation_en": "to be utterly fascinated by something"
+  },
+  {
+    "ID": "860",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "catch up",
+    "explanation_en": "to get to the same level, standard, or status as something or someone"
+  },
+  {
+    "ID": "861",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "catch up",
+    "explanation_en": "to finally find someone after trying for a long period of time"
+  },
+  {
+    "ID": "862",
+    "source": "MWE-PIE",
+    "language": "en",
+    "proverb": "keep an eye on",
+    "explanation_en": "keep a watch on something or someone closely"
+  }
+]
